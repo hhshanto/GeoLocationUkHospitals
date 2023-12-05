@@ -1,0 +1,933 @@
+ID,Last_Provider_Name
+15A,NHS Berkshire West CCG
+15D,NHS East Berkshire CCG
+5A3,South Gloucestershire PCT
+5A4,Havering PCT
+5A5,Kingston PCT
+5AT,Hillingdon PCT
+5C1,Enfield PCT
+5C4,Tower Hamlets PCT
+5C5,Newham PCT
+5C9,Haringey Teaching PCT
+5CN,Herefordshire PCT
+5CQ,Milton Keynes PCT
+5EF,
+5F1,Plymouth Teaching PCT
+5FE,Portsmouth City Teaching PCT
+5FL,Bath And North East Somerset PCT
+5H8,Rotherham PCT
+5J2,Warrington PCT
+5J9,DARLINGTON PCT
+5JE,Barnsley PCT
+5K3,Swindon PCT
+5K5,Brent Teaching PCT
+5K7,Camden PCT
+5KG,South Tyneside PCT
+5KL,Sunderland Teaching PCT
+5L1,Southampton City PCT
+5L3,Medway PCT
+5LA,Kensington And Chelsea PCT
+5LG,Wandsworth PCT
+5M1,South Birmingham PCT
+5M2,Shropshire County PCT
+5M3,Walsall Teaching PCT
+5M6,Richmond And Twickenham PCT
+5M7,Sutton And Merton PCT
+5M8,NORTH SOMERSET PCT
+5MD,
+5MK,Telford And Wrekin PCT
+5MV,Wolverhampton City PCT
+5MX,Heart Of Birmingham Teaching PCT
+5N2,
+5N5,Doncaster PCT
+5N6,Derbyshire County PCT
+5N8,Nottinghamshire County Teaching PCT
+5N9,
+5NE,Cumbria Teaching PCT
+5NG,Central Lancashire PCT
+5NH,East Lancashire Teaching PCT
+5NL,Liverpool PCT
+5NN,Western Cheshire PCT
+5NV,North Yorkshire And York PCT
+5NW,East Riding Of Yorkshire PCT
+5P3,East And North Hertfordshire PCT
+5P4,West Hertfordshire PCT
+5P5,Surrey PCT
+5P6,West Sussex PCT
+5P7,East Sussex Downs And Weald PCT
+5P8,Hastings And Rother PCT
+5PA,Leicestershire County And Rutland PCT
+5PC,Leicester City PCT
+5PD,Northamptonshire Teaching PCT
+5PE,
+5PG,Birmingham East and North PCT
+5PH,North Staffordshire PCT
+5PJ,Stoke On Trent PCT
+5PK,South Staffordshire PCT
+5PL,Worcestershire PCT
+5PM,Warwickshire PCT
+5PP,Cambridgeshire PCT
+5PQ,Norfolk PCT
+5PR,GREAT YARMOUTH AND WAVENEY PCT
+5PT,Suffolk PCT
+5PV,West Essex PCT
+5PX,Mid Essex PCT
+5PY,South West Essex PCT
+5QA,Eastern And Coastal Kent PCT
+5QC,Hampshire PCT
+5QD,Buckinghamshire PCT
+5QE,Oxfordshire PCT
+5QF,Berkshire West PCT
+5QG,Berkshire East PCT
+5QH,Gloucestershire PCT
+5QK,Wiltshire PCT
+5QL,Somerset PCT
+5QM,Dorset PCT
+5QN,Bournemouth And Poole Teaching PCT
+5QP,Cornwall And Isles Of Scilly PCT
+5QQ,Devon PCT
+5QR,Redcar And Cleveland PCT
+5QT,Isle Of Wight NHS PCT
+8A101,St Luke's Hospice (Sheffield)
+8A718,London Clinic
+8E339,WOODLANDS DAY HOSPICE
+8G301,Ryalls Ann (Counsellor) (8G301)
+8HE28,Harley Street On 15
+8HP32,Eastern Surgery Ltd (8HP32)
+8J285,Shaw Healthcare (Ledbury) Limited (8J285)
+A0C5S,Spamedica Gloucester
+A4M8P,Ramsey Healthcare - Buckshaw Hospital
+AAH01,Tetbury Hospital Trust (AAH01)
+AAV02,Community Health and Eyecare Limited (Preston)
+ACG05,Swindon Community Ophthalmology Service - Taw Hill (ACG05)
+ACG06,Swindon Community Ophthalmology Service - Tetbury (ACG06)
+ACG07,"Leicester, Leicestershire & Rutland Cataract Service (ACG07)"
+ACG08,Newmedica Ophthalmology - Nuneaton - Camp Hill - GP Led Health Centre - (ACG08)
+ACG09,North Derbyshire Community Ophthalmology Service At Barlborough Treatment Centre (ACG09)
+ACG10,Newmedica Community Ophthalmology - Bristol - Bristol (ACG10)
+ACG12,Newmedica Community Ophthalmology - North East Lincolnshire - Grimsby (ACG12)
+ACG13,Newmedica Community Ophthalmology - Gloucestershire - Gloucester (Aspen Centre) (Acg13) (ACG13)
+ACG19,Newmedica Community Ophthalmology - Leeds (ACG19)
+ACG20,Newmedica - Bristol - Litfield House (ACG20)
+ACG22,Newmedica - Brigg - Riverside Surgery
+ACG24,Newmedica - Teesside - North Ormesby - (ACG24)
+ACG30,Newmedica - Worksop - Dukeries
+ACG36,Newmedica - Exeter - Glen House
+ACG37,Newmedica - Ipswich
+ACG38,Newmedica - Langford
+ACG40,Newmedica - Wakefield
+ACG41,Newmedica - Frome
+ADP02,Kims Hospital (Newnham Court) (ADP02)
+AHH01,Foscote Court (Banbury) Trust (AHH01)
+AHR01,King Edward VII's Hospital Sister Agnes
+AJX01,Sussex Msk Partnership 2 Ltd (AJX01)
+ARH01,
+AVQ01,One Ashford Hospital (AVQ01)
+AVQ03,One Hatfield Hospital - (AVQ03)
+AXG01,Wiltshire Health & Care (Chippenham) (AXG01)
+AXG02,Savernake Community Hospital (AXG02)
+AXG03,Warminster Community Hospital (AXG03)
+B3M1X,Claremont Private Hospital
+B4N1U,Spamedica Romford
+B5M7B,Newmedica - Norwich
+B9J4U,Spamedica Peterborough
+B9M3W,Spamedica Southampton
+DLY01,Schoen Clinic London (Wigmore Street)
+DM801,Weymouth Street Hospital
+DX101,The New Foscote Hospital (Foscote Hospital) (DX101)
+E4K5T,Optegra Eye Hospital Newcastle
+England,
+ENGLAND,
+G3O5P,Spamedica Newark
+G3Z1Q,Sulis Hospital Bath (Foxcote Avenue)
+I9A4A,Spamedica Brighton
+L0D9W,Newmedica - Gloucester (Brighouse Court)
+L6O7H,Spamedica Poole
+L9D3Z,Spamedica Leicester
+M0N7E,Spamedica Sittingbourne
+M3R0W,Spamedica Norwich
+M4C5R,Newmedica - Northampton
+M5E1S,Spamedica Exeter
+M7C9Q,Spamedica Epsom
+NAM01,Probus Surgical Centre (NAM01)
+NAM02,Meneage Street Surgery (NAM02)
+NAM03,Stratton Medical Centre (NAM03)
+NAM04,Liskeard Community Hospital (NAM04)
+NAM06,Morrab Surgery (NAM06)
+NAM07,Oak Tree Surgery (NAM07)
+NAM09,Stratton Community Hospital (NAM09)
+NAX03,ECCH Beccles Hospital (NAX03)
+NCR01,Isight (Southport) - (NCR01)
+NDA01,Virgin Care Services Ltd (Brook Green) (NDA01)
+NDA03,Haslemere and District Hospital OPD
+NDA07,Walton Community Hospital
+NDA18,Woking Community Hospital
+NDA25,Farnham Hospital & Centre For Health
+NDA26,Milford Specialist Rehabilitation Hospital
+NDAH9,Gravesham Community Hospital (NDAH9)
+NDAJ0,Livingstone Community Hospital (NDAJ0)
+NDAJ1,Sheppey Community Hospital (NDAJ1)
+NDAJ2,Sittingbourne Memorial Hospital (NDAJ2)
+NDJ01,Forum House (NDJ01)
+NED01,Edics (Epsom) (NED01)
+NED30,Ashtead Hospital (Edics)
+NEQ01,Wrs Pms Plus Limited (NEQ01)
+NEY01,Pioneer Healthcare Ltd - Claremont Hospital (NEY01)
+NEY14,Oaklands Hospital (NEY14)
+NFH01,Somerset Surgical Services (NFH01)
+NHM01,Suffolk Community Healthcare HQ
+NHM02,Aldeburgh Community Hospital (NHM02)
+NHM03,Bluebird Lodge Community Hospital (NHM03)
+NHM04,Newmarket Community Hospital (NHM04)
+NHM05,Felixstowe Community Hospital (NHM05)
+NHM15,Hazell Court Residential Home (NHM15)
+NHM26,Glastonbury Court (NHM26)
+NHW01,Standard Health Ltd HQ (NHW01)
+NHW02,Nuffield Hospital (Standard Health) (NHW02)
+NHW03,Wimbourne Community Hospital (Standard Health) (NHW03)
+NHW04,
+NLL01,Peninsula Community Health C.I.C (NLL01)
+NLL04,LAUNCESTON GENERAL HOSPITAL
+NLL07,LISKEARD COMMUNITY HOSPITAL
+NLL08,ST BARNABAS HOSPITAL
+NLL09,Stratton Hospital
+NLL11,BODMIN COMMUNITY HOSPITAL
+NLL13,ST AUSTELL COMMUNITY HOSPITAL
+NLL14,FOWEY HOSPITAL
+NLL15,NEWQUAY HOSPITAL
+NLL16,FALMOUTH HOSPITAL
+NLL17,CAMBOURNE REDRUTH COMMUNITY HOSPITAL
+NLL18,HELSTON COMMUNITY HOSPITAL
+NLL19,POLTAIR HOSPITAL
+NLL20,EDWARD HAIN COMMUNITY HOSPITAL
+NLL21,ST MARY's HOSPITAL
+NLT01,NORTH SOMERSET COMMUNITY PARTNERSHIP CIC HQ
+NLX01,COMMUNITY HEALTH AND SOCIAL CARE SITE
+NLX02,Paulton Memorial Hospital (NLX02)
+NLX22,Thornbury Hospital (NLX22)
+NLY01,CARE AND SUPPORT PARTNERSHIP SITE
+NMG77,North Kirklees Msk Service - (NMG77)
+NMM01,Hospital Of St John And St Elizabeth (Grove End Road)
+NN401,TYNESIDE SURGICAL SERVICES AT THE NORTH EAST NHS SURGERY CENTRE
+NN501,Trafford General Hospital (NN501)
+NN801,THE SPENCER WING (RAMSGATE ROAD)
+NN802,The Spencer Wing (William Harvey Hospital) (NN802)
+NN804,Spencer Private Hospitals - Canterbury
+NNE02,DORKING GENERAL HOSPITAL
+NNH02,Optegra Yorkshire Eye Hospital (NNH02)
+NNH03,Optegra (Surrey Eye Hospital) (NNH03)
+NNH04,Optegra (Manchester Eye Hospital) (NNH04)
+NNH05,Optegra (Birmingham Eye Hospital) (NNH05)
+NNH06,Optegra (Solent Eye Hospital) (NNH06)
+NNH07,Optegra London Eye Hospital (NNH07)
+NNQ01,BRAINTREE CLINICAL SERVICES LTD
+NNV01,Your Healthcare (Hollyfield House)
+NNV2J,Teddington Memorial Hospital
+NPG01,SPAMEDICA (CITYGATE)
+NPG02,Spamedica (Birkenhead) (NPG02)
+NPG05,Spamedica - Newton-Le-Willows (NPG05)
+NPG06,Spamedica Liverpool (NPG06)
+NPG07,Spamedica Eye Hospital (Wakefield) (NPG07)
+NPG08,Spamedica (Bolton) (NPG08)
+NPG10,Spamedica (Sheffiled) (NPG10)
+NPG11,Spamedica (Birmingham) (NPG11)
+NPG12,Spamedica (Bradford) (NPG12)
+NPG13,Spamedica - Skelmersdale (NPG13)
+NPG14,Spamedica Widnes - (NPG14)
+NPG15,Spamedica Newcastle-Under-Lyme - (NPG15)
+NPG16,Spamedica Chelmsford - (NPG16)
+NPG17,Spamedica Preston - (NPG17)
+NPG18,Spamedica Hull - (NPG18)
+NPG19,Spamedica Bedford - (NPG19)
+NPG20,Spamedica Wolverhampton - (NPG20)
+NPG21,Spamedica Coventry
+NPG22,Spamedica Stockton-On-Tees
+NPG23,Spamedica Derby
+NQ106,Fryatt Hospital
+NQ108,Clacton Hospital
+NQ713,ST BARTHOLOMEW's HOSPITAL (ROCHESTER)
+NQ719,WISDOM HOSPICE
+NQ738,Darent Valley Hospital (NQ738)
+NQA20,Braintree Community Hospital
+NQA31,ST PETER's HOSPITAL
+NQA34,Halstead Clinic
+NQH09,Novus Health (College Lane Surgery)
+NQH25,Novus Health (Sandal Castle Medical Centre) - (NQH25)
+NQL01,NAVIGO HQ
+NQM01,Orthopaedics & Spine Specialist Hospital Site (NQM01)
+NQT5H,Paulton Memorial Hospital (NQT5H)
+NQT5K,St Martins Hospital (NQT5K)
+NR501,PLYMOUTH COMMUNITY HEALTHCARE
+NR505,Derriford Hospital Clinic (NR505)
+NR510,Lee Mill Unit (NR510)
+NR511,Syrena House (NR511)
+NR515,Glenbourne (NR515)
+NR525,Tavistock Hospital (NR525)
+NR526,South Hams (Kingsbridge) Hospital (NR526)
+NR527,Mount Gould Hospital (NR527)
+NR535,Plym Bridge House (NR535)
+NRF04,SOECIC (SOUTHWICK HILL ROAD)
+NT202,"NUFFIELD HEALTH, BOURNEMOUTH HOSPITAL"
+NT204,"NUFFIELD HEALTH, BRENTWOOD HOSPITAL"
+NT205,"NUFFIELD HEALTH, BRIGHTON HOSPITAL"
+NT206,"Nuffield Health, Bristol Hospital (Chesterfield) (NT206)"
+NT207,"NUFFIELD HEALTH, BRISTOL HOSPITAL (ST MARY's)"
+NT209,"NUFFIELD HEALTH, CAMBRIDGE HOSPITAL"
+NT210,"NUFFIELD HEALTH, THE GROSVENOR HOSPITAL, CHESTER"
+NT211,"NUFFIELD HEALTH, CHELTENHAM HOSPITAL"
+NT212,"NUFFIELD HEALTH, CHICHESTER HOSPITAL"
+NT213,"NUFFIELD HEALTH, DERBY HOSPITAL"
+NT214,"NUFFIELD HEALTH, WESSEX HOSPITAL"
+NT215,"NUFFIELD HEALTH, EXETER HOSPITAL"
+NT216,"Nuffield Health, Guildford Hospital"
+NT218,"NUFFIELD HEALTH, HAYWARDS HEATH HOSPITAL"
+NT219,"NUFFIELD HEALTH, HEREFORD HOSPITAL"
+NT221,
+NT222,"NUFFIELD HEALTH, IPSWICH HOSPITAL"
+NT224,"NUFFIELD HEALTH, WARWICKSHIRE HOSPITAL"
+NT225,"NUFFIELD HEALTH, LEEDS HOSPITAL"
+NT226,"NUFFIELD HEALTH, LEICESTER HOSPITAL"
+NT229,"NUFFIELD HEALTH, NEWCASTLE-UPON-TYNE HOSPITAL"
+NT230,"NUFFIELD HEALTH, NORTH STAFFORDSHIRE HOSPITAL"
+NT233,"Nuffield Health, Plymouth Hospital"
+NT235,"NUFFIELD HEALTH, SHREWSBURY HOSPITAL"
+NT237,"NUFFIELD HEALTH, TEES HOSPITAL"
+NT238,"NUFFIELD HEALTH, TAUNTON HOSPITAL"
+NT239,"NUFFIELD HEALTH, TUNBRIDGE WELLS HOSPITAL"
+NT241,"NUFFIELD HEALTH, WOKING HOSPITAL"
+NT242,"NUFFIELD HEALTH, WOLVERHAMPTON HOSPITAL"
+NT244,NUFFIELD HOSPITAL OXFORD (THE MANOR)
+NT245,"NUFFIELD HEALTH, YORK HOSPITAL"
+NT255,The Vale Hospital (NT255)
+NT301,Spire South Bank Hospital
+NT302,Spire Bristol Hospital
+NT304,Spire Southampton Hospital
+NT305,Spire Portsmouth Hospital
+NT308,Spire Gatwick Park Hospital
+NT309,Spire Sussex Hospital
+NT30A,Spire Nottingham Hospital (NT30A)
+NT310,Spire Tunbridge Wells Hospital
+NT312,Spire Alexandra Hospital
+NT313,Spire Wellesley Hospital
+NT314,Spire Roding Hospital
+NT315,Spire Bushey Hospital
+NT316,Spire Harpenden Hospital
+NT317,Spire Cambridge Lea Hospital
+NT318,Spire Norwich Hospital
+NT319,Spire Hartswood Hospital
+NT320,Spire Parkway Hospital
+NT321,Spire Little Aston Hospital
+NT322,Spire Leicester Hospital
+NT324,Spire Cheshire Hospital
+NT325,Spire Murrayfield Hospital
+NT327,Spire Manchester Hospital
+NT332,Spire Leeds Hospital
+NT333,Spire Washington Hospital
+NT337,Spire Liverpool Hospital
+NT338,Spire Yale Hospital (NT338)
+NT339,Spire Regency Hospital
+NT340,BMI South Cheshire Private Hospital (Spire)
+NT343,Spire Thames Valley Hospital
+NT344,Spire Dunedin Hospital
+NT345,Spire Clare Park Hospital
+NT346,Spire St Saviours Hospital
+NT347,Spire Fylde Coast Hospital
+NT348,Spire Elland Hospital
+NT349,Spire Longlands Consulting Rooms
+NT350,Spire Methley Park Hospital
+NT351,Spire Hull And East Riding Hospital
+NT364,SPIRE MONTEFIORE HOSPITAL
+NT3X3,Spire St Anthony's Hospital (NT3X3)
+NT401,BMI - The Alexandra Hospital
+NT402,BMI - Bath Clinic
+NT403,BMI - The Beardwood Hospital
+NT404,BMI - The Beaumont Hospital
+NT405,BMI - Bishops Wood
+NT406,BMI - The Blackheath Hospital
+NT407,BMI - Chatsworth Suite
+NT408,BMI - The Chaucer Hospital
+NT409,BMI - Chelsfield Park Hospital
+NT410,BMI - The Chiltern Hospital
+NT411,BMI - The Clementine Churchill Hospital
+NT412,BMI - The Droitwich Spa Hospital
+NT413,BMI - The Esperance Hospital
+NT414,BMI - Fawkham Manor Hospital
+NT415,BMI - The Foscote Hospital
+NT416,BMI - The Garden Hospital
+NT417,BMI - Goring Hall Hospital
+NT418,BMI - The Hampshire Clinic
+NT419,BMI - The Harbour Hospital
+NT420,BMI - The Highfield Hospital
+NT421,BMI - The Kings Oak Hospital
+NT422,BMI - The London Independent Hospital
+NT423,BMI - The Manor Hospital
+NT424,BMI - The Meriden Hospital
+NT425,
+NT427,BMI - The Park Hospital
+NT428,BMI - The Princess Margaret Hospital
+NT429,BMI - THE PRIORY HOSPITAL
+NT430,BMI - The Ridgeway Hospital
+NT431,BMI - The Runnymede Hospital
+NT432,BMI - The Sandringham Hospital
+NT433,BMI - Sarum Road Hospital
+NT434,BMI - The Saxon Clinic
+NT435,BMI - The Shelburne Hospital
+NT436,BMI - Shirley Oaks Hospital
+NT437,BMI - The Sloane Hospital
+NT438,BMI - The Somerfield Hospital
+NT439,BMI - THE SOUTH CHESHIRE PRIVATE HOSPITAL
+NT440,BMI - Thornbury Hospital
+NT441,BMI - Three Shires Hospital
+NT443,BMI - The Winterbourne Hospital
+NT445,BMI The Edgbaston Hospital
+NT446,BMI ST EDMUNDS HOSPITAL
+NT447,BMI The Duchy Hospital
+NT448,BMI The Huddersfield Hospital
+NT449,BMI THE LANCASTER HOSPITAL
+NT450,BMI The Lincoln Hospital
+NT451,BMI THE CAVELL HOSPITAL
+NT455,BMI Mount Alvernia Hospital
+NT456,BMI THE CASTLE CONSULTING CENTRE
+NT457,BMI Woodlands Hospital
+NT490,BMI SOUTHEND PRIVATE HOSPITAL
+NT495,BMI FITZROY
+NT497,BMI GISBURNE PARK HOSPITAL
+NT501,
+NT502,
+NT503,
+NT506,
+NT507,
+NT602,
+NT603,
+NT604,
+NT701,
+NT702,St Martin's Hospital
+NT706,
+NT714,Greater Manchester Surgical Centre
+NT718,
+NT719,Rossendale Hospital
+NT720,
+NT721,
+NT722,St Catherine's General Hospital
+NT723,Halton District Hospital
+NT725,Macclesfield Leisure Centre
+NT726,
+NTA01,Eccleshill NHS Treatment Centre
+NTA03,The Midlands NHS Treatment Centre
+NTA04,Nottingham NHS Treatment Centre(Nations Healthcare)
+NTC01,Shepton Mallet NHS Treatment Centre
+NTC02,Emersons Green NHS Treatment Centre
+NTC03,Devizes NHS Treatment Centre
+NTC04,Cirencester NHS Treatment Centre
+NTC05,PENINSULA NHS TREATMENT CENTRE
+NTC09,Gloucester Health Access Centre (NTC09)
+NTD01,Kidderminster NHS Treatment Centre
+NTD02,The Cheshire & Merseyside NHS Treatment Centre
+NTE02,ST HUGH's HOSPITAL
+NTE03,Claremont Hospital
+NTF01,Abbey Gisburne Park Hospital
+NTH01,
+NTH03,
+NTH04,Regency Hospital
+NTH05,
+NTH06,
+NTH08,
+NTH09,
+NTH11,
+NTP11,Southampton NHS Treatment Centre
+NTP13,BARLBOROUGH NHS TREATMENT CENTRE
+NTP14,Mid Kent NHS Treatment Centre
+NTP15,North East London NHS Treatment Centre
+NTP16,WILL ADAMS NHS TREATMENT CENTRE
+NTP17,SUSSEX ORTHOPAEDIC NHS TREATMENT CENTRE
+NTP23,ECCLESHILL NHS TREATMENT CENTRE
+NTP35,The Phoenix Centre
+NTPAD,ST MARY's NHS TREATMENT CENTRE
+NTPAE,The Croft Shifa Health Centre
+NTPAT,
+NTPC1,Care Uk Head Office
+NTPH1,Shepton Mallet NHS Treatment Centre (NTPH1)
+NTPH2,Emersons Green NHS Treatment Centre (NTPH2)
+NTPH3,Devizes NHS Treatent Centre (NTPH3)
+NTPH4,Cirencester NHS Treatment Centre (NTPH4)
+NTPH5,Peninsula NHS Treatment Centre (NTPH5)
+NTPH9,Gloucester Health Access Centre (NTPH9)
+NTV01,
+NTV0O,Woking Community Hospital (NTV0O)
+NTV0S,Walton Community Hospital (NTV0S)
+NTX01,ONE HEALTH GROUP LTD
+NTX06,One Health Group Clinic - Osset (NTX06)
+NTX09,One Health Group Clinic - Gainsborough (NTX09)
+NTX0B,One Health Group - Kinvara Hospital
+NTX0I,One Health Group - Trent Cliffs - Scunthorpe
+NTX0J,One Health Group - Riverside Surgery - Brigg
+NTX11,One Health Group Clinic - Thornbury (NTX11)
+NTX12,One Health Group Clinic - Claremont (NTX12)
+NTX19,Huddersfield Hospital - The One Health Group (NTX19)
+NTX24,One Health Group - Doncaster Clinic - (NTX24)
+NTX51,One Health Group - Barlborough Treatment Centre (NTX51)
+NTY48,Tetbury Hospital
+NTY57,
+NTYE7,
+NTYF1,THE SPENCER WING
+NTYH9,Tyneside Surgical Services Ltd
+NV1J5,St Peter's Hospital
+NV302,CIRCLE BATH
+NV313,Circle-Nottingham NHS Treatment Centre
+NV323,Circle Reading
+NV7R1,Bupa Cromwell Hospital
+NVC01,Ashtead Hospital
+NVC02,The Berkshire Independent Hospital
+NVC04,Duchy Hospital
+NVC05,Euxton Hall Hospital
+NVC06,Fitzwilliam Hospital
+NVC07,Fulwood Hall Hospital
+NVC08,Mount Stuart Hospital
+NVC09,New Hall Hospital
+NVC0I,Beacon Park Hospital
+NVC0M,Ramsay Croydon Day Hospital (NVC0M)
+NVC0R,Tees Valley Hospital (NVC0R)
+NVC0Y,Exeter Medical
+NVC10,
+NVC11,North Downs Hospital
+NVC12,Oaklands Hospital
+NVC13,Oaks Hospital
+NVC14,Park Hill Hospital
+NVC15,Pinehill Hospital
+NVC16,Renacres Hospital
+NVC17,Rowley Hall Hospital
+NVC18,Springfield Hospital
+NVC19,Rivers Hospital
+NVC1H,Stourside Hospital
+NVC20,The Yorkshire Clinic
+NVC21,West Midlands Hospital
+NVC22,Winfield Hospital
+NVC23,Woodland Hospital
+NVC24,Bodmin NHS Treatment Centre
+NVC25,Horton NHS Treatment Centre
+NVC26,Gainsborough NHS Treatment Centre
+NVC27,Boston NHS Treatment Centre
+NVC28,Clifton Park NHS Treatment Centre
+NVC29,Cobalt NHS Treatment Centre
+NVC31,Blakelands NHS Treatment Centre
+NVC33,Gisburne Park NHS Treatment Centre
+NVC34,Fylde Coast NHS Treatment Centre
+NVC35,Tees Valley Treatment Centre
+NVC39,Kendal NHS Treatment Centre
+NVC40,Nottingham Woodthorpe Hospital
+NVC44,THE WESTBOURNE CENTRE
+NVG01,Fairfield Hospital
+NVM01,Cobham Day Surgery Hospital (NVM01)
+NVM02,Epsom Day Surgery Limited (NVM02)
+NVM03,Epsom Day Surgery (Ebbisham Clinics) (NVM03)
+NW601,The Princess Grace Hospital - (NW601)
+NW602,The Wellington Hospital - (NW602)
+NW603,Lister Hospital
+NW604,The Portland Hospital For Women & Children
+NW605,London Bridge Hospital - (NW605)
+NW608,The Harley Street Clinic (Weymouth St)
+NW612,HCA - 52 Alderley Road (NW612)
+NW616,The Christie Clinic - (NW616)
+NW931,CLINICENTA SURGICENTRE
+NWF01,BENENDEN HOSPITAL
+NWV01,GP Care UK - (NWV01)
+NWX11,BICS-Community (NWX11)
+NX501,Anglia Community Eye Service Ltd - (NX501)
+NX503,Anglia Community Eye Service - New Queen Street Surgery - (NX503)
+NX504,Anglia Community Eye Services Fakenham
+NX507,Anglia Community Eye Service - Thetford Healthy Living Centre
+NXM01,The Horder Centre - St Johns Road
+NXM04,The Mcindoe Centre - (NXM04)
+NXP02,Old Town Surgery (NXP02)
+NXP04,Hathaway Medical Centre (NXP04)
+NXP08,Hugglescote Surgery (NXP08)
+NXP09,Syston Health Centre (NXP09)
+NXP13,Middleport Medical Centre (NXP13)
+NXP15,Great Western Hospital (Gwh) (NXP15)
+NXP16,Berkshire Health - Ihg (NXP16)
+NXP17,White Horse Health Centre - Ihg (NXP17)
+NXP18,Bhi Parkside (NXP18)
+NXP20,Lawn Medical Centre (NXP20)
+NXP21,Kingskerswell Health Centre (NXP21)
+NXP27,North Cotswolds Hospital (NXP27)
+NXP30,
+NXP33,
+NXP37,Aspen Centre (NXP37)
+NXP40,Litfield House Medical Centre (NXP40)
+NXP41,
+NXP43,Millstream House (NXP43)
+NY6,Connect Health Pain Services
+NY601,PAIN MANAGEMENT SOLUTIONS (OAKS PARK)
+NY60C,Pain Management Solutions - Croft Shifa Health Centre - (NY60C)
+NY60M,Pain Management Solutions - Scunthorpe General Hospital - (NY60M)
+NY60T,Inhealth Pain Management Solutions - Longfields Court
+NY61G,Pain Management Solutions - George Eliot Hospital NHS Trust - (NY61G)
+NY61N,"Inhealth Pain Management Solutions - Mobile Unit, Union Street Car Park"
+NY62M,Inhealth Pain Management Solutions - Holme Valley Memorial Hospital - (NY62M)
+NY631,Pain Management Solutions (Horder Healthcare) - (NY631)
+NY65M,Inhealth Pain Management Solutions - Johnson Community Hospital - (NY65M)
+NY66M,Inhealth Pain Management Solutions - St Hughes Hospital - (NY66M)
+NY677,Pain Management Solutions - Severn Fields Health Village (NY677)
+NY67L,Inhealth Pain Management Solutions - Royal Toby - (NY67L)
+NY693,Pain Management Solutions - Shrewsbury Sports Village - (NY693)
+NY69L,Inhealth Pain Management Solutions - Salop Leisure - (NY69L)
+NY6D2,Oasis Health Care (NY6D2)
+NY6E8,Pain Management Solutions - Irish World Heritage Centre - (NY6E8)
+NY6G8,Pain Management Solutions - Crowborough
+NY6H9,Pain Management Solutions - Euston House
+NYG0A,West Kent Dermatology - Len Valley Practice
+NYG0B,Sussex Community Dermatology Service (East Surrey Hospital)
+NYG0D,West Kent Dermatology - Thornhills Medical Practice
+NYG0E,West Kent Dermatology - Snodland Medical Practice
+NYG0F,West Kent Dermatology - Lonsdale Medical Centre
+NYG26,Sussex Community Dermatology Servce (Worthing Skin Clinic)
+NYG29,
+NYG30,West Kent Dermatology - Tunbridge Wells Hospital
+NYG31,West Kent Dermatology - Sevenoaks Hospital (NYG31)
+NYG32,West Kent Dermatology - Borough Green Medical Practice (NYG32)
+NYG39,West Kent Dermatology - Edenbridge & District War Memorial Hospital
+NYG42,West Kent Dermatology - Amherst Medical Practice
+NYW01,ASPEN - HOLLY HOUSE HOSPITAL
+NYW02,ASPEN - PARKSIDE HOSPITAL
+NYW03,Aspen - Highgate Hospital
+NYW04,Aspen - Claremont Hospital
+NYW17,Aspen Healthcare - Midland Eye (NYW17)
+NYW20,Aspen - The Chelmsford (NYW20)
+P1B7M,Spamedica Bristol
+P5Y6K,Newmedica - Shrewsbury
+Q1W6P,Spamedica Watford
+Q30,NORTH EAST STRATEGIC HEALTH AUTHORITY
+Q31,NORTH WEST STRATEGIC HEALTH AUTHORITY
+Q32,YORKSHIRE AND THE HUMBER STRATEGIC HEALTH AUTHORITY
+Q33,EAST MIDLANDS STRATEGIC HEALTH AUTHORITY
+Q34,WEST MIDLANDS STRATEGIC HEALTH AUTHORITY
+Q35,EAST OF ENGLAND STRATEGIC HEALTH AUTHORITY
+Q36,LONDON STRATEGIC HEALTH AUTHORITY
+Q37,SOUTH EAST COAST STRATEGIC HEALTH AUTHORITY
+Q38,SOUTH CENTRAL STRATEGIC HEALTH AUTHORITY
+Q39,SOUTH WEST STRATEGIC HEALTH AUTHORITY
+Q44,"Cheshire, Warrington And Wirral Area Team (Q44)"
+Q45,"Durham, Darlington And Tees Area Team (Q45)"
+Q46,Greater Manchester Area Team (Q46)
+Q47,Lancashire Area Team (Q47)
+Q48,Merseyside Area Team (Q48)
+Q49,"Cumbria, Northumberland, Tyne And Wear Area Team (Q49)"
+Q50,North Yorkshire And Humber Area Team (Q50)
+Q51,South Yorkshire And Bassetlaw Area Team (Q51)
+Q52,West Yorkshire Area Team (Q52)
+Q53,"Arden, Herefordshire And Worcestershire Area Team (Q53)"
+Q54,Birmingham And The Black Country Area Team (Q54)
+Q55,Derbyshire And Nottinghamshire Area Team (Q55)
+Q56,East Anglia Area Team (Q56)
+Q57,Essex Area Team (Q57)
+Q58,Hertfordshire And The South Midlands Area Team (Q58)
+Q59,Leicestershire And Lincolnshire Area Team (Q59)
+Q60,Shropshire And Staffordshire Area Team (Q60)
+Q64,"Bath, Gloucestershire, Swindon And Wiltshire Area Team (Q64)"
+Q65,"Bristol, North Somerset, Somerset And South Gloucestershire Area Team (Q65)"
+Q66,"Devon, Cornwall And Isles Of Scilly Area Team (Q66)"
+Q67,Kent And Medway Area Team (Q67)
+Q68,Surrey And Sussex Area Team (Q68)
+Q69,Thames Valley Area Team (Q69)
+Q70,Wessex Area Team (Q70)
+Q71,London Area Team (Q71)
+R0A,Manchester University NHS Foundation Trust (R0A)
+R0B,South Tyneside And Sunderland NHS Foundation Trust - (R0B)
+R0D,University Hospitals Dorset NHS Foundation Trust
+R1A,WORCESTERSHIRE HEALTH AND CARE NHS TRUST
+R1C,SOLENT NHS TRUST
+R1D,SHROPSHIRE COMMUNITY HEALTH NHS TRUST
+R1E,STAFFORDSHIRE AND STOKE ON TRENT PARTNERSHIP NHS TRUST
+R1F-X,Isle Of Wight NHS Trust
+R1G,Torbay and Southern Devon Health and Care NHS Trust
+R1G7E,Spamedica Kendal
+R1H,Barts Health NHS Trust
+R1J,Gloucestershire Care Services NHS Trust (R1J)
+R1K,London North West Healthcare NHS Trust (R1K)
+R1L,Essex Partnership University NHS Foundation Trust (R1L)
+R6E4R,Sussex Community Dermatology Service (Rochester Healthy Living Centre)
+R8J1V,Phoenix Hospital Chelmsford
+RA2,Royal Surrey County NHS Foundation Trust
+RA3,Weston Area Health NHS Trust
+RA4,Yeovil District Hospital NHS Foundation Trust
+RA7,University Hospitals Bristol NHS Foundation Trust
+RA9,South Devon Healthcare NHS Foundation Trust
+RAE,Bradford Teaching Hospitals NHS Foundation Trust
+RAJ,Southend University Hospital NHS Foundation Trust
+RAL,Royal Free Hampstead NHS Trust
+RAN,Royal National Orthopaedic Hospital NHS Trust
+RAP,North Middlesex University Hospital NHS Trust
+RAS,The Hillingdon Hospital NHS Trust
+RAT,North East London NHS Foundation Trust
+RAX,Kingston Hospital NHS Trust
+RBA,Taunton And Somerset NHS Foundation Trust
+RBB,Royal National Hospital For Rheumatic Diseases NHS Foundation Trust
+RBD,Dorset County Hospital NHS Foundation Trust
+RBF,Nuffield Orthopaedic Centre NHS Trust
+RBF-X,
+RBK,Walsall Hospitals NHS Trust
+RBL,Wirral University Teaching Hospital NHS Foundation Trust
+RBN,St Helens And Knowsley Hospitals NHS Trust
+RBQ,Liverpool Heart And Chest NHS Foundation Trust
+RBS,Alder Hey Children's NHS Foundation Trust
+RBT,Mid Cheshire Hospitals NHS Foundation Trust
+RBV,The Christie NHS Foundation Trust
+RBZ,Northern Devon Healthcare NHS Trust
+RC1,Bedford Hospital NHS Trust
+RC3,Ealing Hospital NHS Trust
+RC9,Luton And Dunstable Hospital NHS Foundation Trust
+RCB,York Hospitals NHS Foundation Trust
+RCC,Scarborough And North East Yorkshire Health Care NHS Trust
+RCD,Harrogate And District NHS Foundation Trust
+RCF,Airedale NHS Trust
+RCU,Sheffield Children's NHS Foundation Trust
+RCX,The Queen Elizabeth Hospital King's Lynn NHS Trust
+RD1,Royal United Hospital Bath NHS Trust
+RD3,Poole Hospital NHS Foundation Trust
+RD7,Heatherwood And Wexham Park Hospitals NHS Foundation Trust
+RD8,Milton Keynes Hospital NHS Foundation Trust
+RDD,Basildon And Thurrock University Hospitals NHS Foundation Trust
+RDE,Colchester Hospital University NHS Foundation Trust
+RDR,SUSSEX COMMUNITY NHS TRUST
+RDU,Frimley Park Hospital NHS Foundation Trust
+RDY,Dorset Healthcare NHS Foundation Trust
+RDZ,The Royal Bournemouth And Christchurch Hospitals NHS Foundation Trust
+RE9,South Tyneside NHS Foundation Trust
+REF,Royal Cornwall Hospitals NHS Trust
+REF-X,ROYAL CORNWALL HOSPITALS NHS TRUST
+REM,Aintree University Hospitals NHS Foundation Trust
+REN,Clatterbridge Centre For Oncology NHS Foundation Trust
+REP,Liverpool Women's NHS Foundation Trust
+RET,The Walton Centre NHS Foundation Trust
+RF4,"Barking, Havering And Redbridge University Hospitals NHS Trust"
+RFF,Barnsley Hospital NHS Foundation Trust
+RFR,The Rotherham NHS Foundation Trust
+RFS,Chesterfield Royal Hospital NHS Foundation Trust
+RFW,West Middlesex University Hospital NHS Trust
+RG2,
+RG3,
+RGC,Whipps Cross University Hospital NHS Trust
+RGD,Leeds Partnerships NHS Foundation Trust
+RGM,Papworth Hospital NHS Foundation Trust
+RGN,Peterborough And Stamford Hospitals NHS Foundation Trust
+RGP,James Paget University Hospitals NHS Foundation Trust
+RGQ,Ipswich Hospital NHS Trust
+RGR,West Suffolk Hospitals NHS Trust
+RGT,Cambridge University Hospitals NHS Foundation Trust
+RGZ,
+RH5,Somerset Partnership NHS Foundation Trust
+RH8,Royal Devon And Exeter NHS Foundation Trust
+RHA,Nottinghamshire Healthcare NHS Trust
+RHM,Southampton University Hospitals NHS Trust
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust
+RHU,Portsmouth Hospitals NHS Trust
+RHW,Royal Berkshire NHS Foundation Trust
+RHX,Oxfordshire Learning Disability NHS Trust
+RJ1,Guy's And St Thomas' NHS Foundation Trust
+RJ1-X,GUY's AND ST THOMAS' NHS FOUNDATION TRUST
+RJ2,The Lewisham Hospital NHS Trust
+RJ6,Mayday Healthcare NHS Trust
+RJ7,St George's Healthcare NHS Trust
+RJ8,Cornwall Partnership NHS Foundation Trust
+RJC,South Warwickshire NHS Foundation Trust
+RJD,Mid Staffordshire NHS Foundation Trust
+RJD-X,MID STAFFORDSHIRE NHS FOUNDATION TRUST
+RJDTC,Cannock Chase Treatment Centre
+RJE,University Hospital Of North Staffordshire NHS Trust
+RJF,Burton Hospitals NHS Foundation Trust
+RJL,Northern Lincolnshire And Goole Hospitals NHS Foundation Trust
+RJL-X,NORTHERN LINCOLNSHIRE AND GOOLE HOSPITALS NHS FOUNDATION TRUST
+RJN,East Cheshire NHS Trust
+RJR,Countess Of Chester Hospital NHS Foundation Trust
+RJX,Calderstones Partnership NHS Foundation Trust
+RJZ,King's College Hospital NHS Foundation Trust
+RK5,Sherwood Forest Hospitals NHS Foundation Trust
+RK9,Plymouth Hospitals NHS Trust
+RKB,University Hospitals Coventry And Warwickshire NHS Trust
+RKE,The Whittington Hospital NHS Trust
+RKL,West London Mental Health NHS Trust
+RL1,Robert Jones And Agnes Hunt Orthopaedic And District Hospital NHS Trust
+RL4,The Royal Wolverhampton Hospitals NHS Trust
+RLN,City Hospitals Sunderland NHS Foundation Trust
+RLQ,Hereford Hospitals NHS Trust
+RLT,George Eliot Hospital NHS Trust
+RLU,Birmingham Women's NHS Foundation Trust
+RLY,North Staffordshire Combined Healthcare NHS Trust
+RM1,Norfolk And Norwich University Hospitals NHS Foundation Trust
+RM2,University Hospital Of South Manchester NHS Foundation Trust
+RM3,Salford Royal NHS Foundation Trust
+RM4,Trafford Healthcare NHS Trust
+RMC,Royal Bolton Hospital NHS Foundation Trust
+RMP,Tameside Hospital NHS Foundation Trust
+RMY,Norfolk And Waveney Mental Health NHS Foundation Trust
+RMY-X,NORFOLK AND SUFFOLK NHS FOUNDATION TRUST
+RN1,Winchester And Eastleigh Healthcare NHS Trust
+RN1-X,
+RN3,Great Western Hospitals NHS Foundation Trust
+RN5,Basingstoke And North Hampshire NHS Foundation Trust
+RN5-X,HAMPSHIRE HOSPITALS NHS FOUNDATION TRUST
+RN5T1,North Hampshire Hospitals NHS Trust Treatment Centre
+RN7,Dartford And Gravesham NHS Trust
+RN7-X,DARTFORD AND GRAVESHAM NHS TRUST
+RNA,The Dudley Group Of Hospitals NHS Foundation Trust
+RNH,Newham University Hospital NHS Trust
+RNJ,Barts And The London NHS Trust
+RNL,North Cumbria University Hospitals NHS Trust
+RNN,Cumbria Partnership NHS Foundation Trust
+RNQ,Kettering General Hospital NHS Foundation Trust
+RNS,Northampton General Hospital NHS Trust
+RNU,Oxfordshire And Buckinghamshire Mental Health NHS Foundation Trust
+RNZ,Salisbury NHS Foundation Trust
+RP1,Northamptonshire Healthcare NHS Foundation Trust
+RP4,Great Ormond Street Hospital For Children NHS Trust
+RP5,Doncaster And Bassetlaw Hospitals NHS Foundation Trust
+RP6,Moorfields Eye Hospital NHS Foundation Trust
+RP6-X,MOORFIELDS EYE HOSPITAL NHS FOUNDATION TRUST
+RP7,Lincolnshire Partnership NHS Foundation Trust
+RPA,Medway NHS Foundation Trust
+RPC,Queen Victoria Hospital NHS Foundation Trust
+RPG,Oxleas NHS Foundation Trust
+RPL,
+RPR,
+RPY,The Royal Marsden NHS Foundation Trust
+RQ3,Birmingham Children's Hospital NHS Foundation Trust
+RQ6,Royal Liverpool And Broadgreen University Hospitals NHS Trust
+RQ8,Mid Essex Hospital Services NHS Trust
+RQM,Chelsea And Westminster Hospital NHS Foundation Trust
+RQQ,Hinchingbrooke Health Care NHS Trust
+RQQ-X,HINCHINGBROOKE HEALTH CARE NHS TRUST
+RQW,The Princess Alexandra Hospital NHS Trust
+RQX,Homerton University Hospital NHS Foundation Trust
+RQY,South West London And St George's Mental Health NHS Trust
+RR1,Heart Of England NHS Foundation Trust
+RR1-X,HEART OF ENGLAND NHS FOUNDATION TRUST
+RR7,Gateshead Health NHS Foundation Trust
+RR7-X,GATESHEAD HEALTH NHS FOUNDATION TRUST
+RR8,Leeds Teaching Hospitals NHS Trust
+RRD,North Essex Partnership NHS Foundation Trust
+RRE,South Staffordshire And Shropshire Healthcare NHS Foundation Trust
+RRF,"Wrightington, Wigan And Leigh NHS Foundation Trust"
+RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust
+RRK,University Hospital Birmingham NHS Foundation Trust
+RRK-X,UNIVERSITY HOSPITALS BIRMINGHAM NHS FOUNDATION TRUST
+RRP,"Barnet, Enfield And Haringey Mental Health NHS Trust"
+RRV,University College London Hospitals NHS Foundation Trust
+RT1,Cambridgeshire And Peterborough NHS Foundation Trust
+RT2,Pennine Care NHS Foundation Trust
+RT3,Royal Brompton And Harefield NHS Foundation Trust
+RT5,Leicestershire Partnership NHS Trust
+RT6,Suffolk Mental Health Partnership NHS Trust
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust
+RTE,Gloucestershire Hospitals NHS Foundation Trust
+RTF,Northumbria Healthcare NHS Foundation Trust
+RTG,Derby Hospitals NHS Foundation Trust
+RTH,Oxford Radcliffe Hospitals NHS Trust
+RTK,Ashford And St Peter's Hospitals NHS Trust
+RTP,Surrey And Sussex Healthcare NHS Trust
+RTQ,2Gether NHS Foundation Trust
+RTR,South Tees Hospitals NHS Foundation Trust
+RTV,5 Boroughs Partnership NHS Foundation Trust
+RTX,University Hospitals Of Morecambe Bay NHS Trust
+RV3,Central And North West London NHS Foundation Trust
+RV5,South London And Maudsley NHS Foundation Trust
+RV7,Bedfordshire And Luton Mental Health And Social Care Partnership NHS Trust
+RV8,North West London Hospitals NHS Trust
+RV9,Humber NHS Foundation Trust
+RV9-X,HUMBER NHS FOUNDATION TRUST
+RVJ,North Bristol NHS Trust
+RVJ-X,NORTH BRISTOL NHS TRUST
+RVL,Barnet And Chase Farm Hospitals NHS Trust
+RVN,Avon And Wiltshire Mental Health Partnership NHS Trust
+RVR,Epsom And St Helier University Hospitals NHS Trust
+RVR-X,EPSOM AND ST HELIER UNIVERSITY HOSPITALS NHS TRUST
+RVV,East Kent Hospitals University NHS Foundation Trust
+RVW,North Tees And Hartlepool NHS Foundation Trust
+RVY,Southport And Ormskirk Hospital NHS Trust
+RW1,Hampshire Partnership NHS Foundation Trust
+RW3,Central Manchester University Hospitals NHS Foundation Trust
+RW3-X,CENTRAL MANCHESTER UNIVERSITY HOSPITALS NHS FOUNDATION TRUST
+RW4,Mersey Care NHS Trust
+RW5,Lancashire Care NHS Foundation Trust
+RW6,Pennine Acute Hospitals NHS Trust
+RWA,Hull And East Yorkshire Hospitals NHS Trust
+RWD,United Lincolnshire Hospitals NHS Trust
+RWE,University Hospitals Of Leicester NHS Trust
+RWF,Maidstone And Tunbridge Wells NHS Trust
+RWG,West Hertfordshire Hospitals NHS Trust
+RWH,East And North Hertfordshire NHS Trust
+RWJ,Stockport NHS Foundation Trust
+RWK,East London NHS Foundation Trust
+RWN,South Essex Partnership University NHS Foundation Trust
+RWP,Worcestershire Acute Hospitals NHS Trust
+RWP-X,WORCESTERSHIRE ACUTE HOSPITALS NHS TRUST
+RWQ,Worcestershire Mental Health Partnership NHS Trust
+RWR,Hertfordshire Partnership NHS Foundation Trust
+RWV,Devon Partnership NHS Trust
+RWW,Warrington And Halton Hospitals NHS Foundation Trust
+RWX,Berkshire Healthcare NHS Foundation Trust
+RWY,Calderdale And Huddersfield NHS Foundation Trust
+RX1,Nottingham University Hospitals NHS Trust
+RX2,Sussex Partnership NHS Foundation Trust
+RX3,"Tees, Esk And Wear Valleys NHS Foundation Trust"
+RX4,"Northumberland, Tyne And Wear NHS Foundation Trust"
+RXA,Cheshire And Wirral Partnership NHS Foundation Trust
+RXC,East Sussex Hospitals NHS Trust
+RXE,"Rotherham, Doncaster And South Humber Mental Health NHS Foundation Trust"
+RXF,Mid Yorkshire Hospitals NHS Trust
+RXF-X,MID YORKSHIRE HOSPITALS NHS TRUST
+RXG,South West Yorkshire Partnership NHS Foundation Trust
+RXH,Brighton And Sussex University Hospitals NHS Trust
+RXK,Sandwell And West Birmingham Hospitals NHS Trust
+RXK-X,SANDWELL AND WEST BIRMINGHAM HOSPITALS NHS TRUST
+RXKTC,Birmingham Treatment Centre
+RXL,"Blackpool, Fylde And Wyre Hospitals NHS Foundation Trust"
+RXM,Derbyshire Mental Health Services NHS Trust
+RXN,Lancashire Teaching Hospitals NHS Foundation Trust
+RXP,County Durham And Darlington NHS Foundation Trust
+RXQ,Buckinghamshire Hospitals NHS Trust
+RXR,East Lancashire Hospitals NHS Trust
+RXT,Birmingham And Solihull Mental Health NHS Foundation Trust
+RXV,Greater Manchester West Mental Health NHS Foundation Trust
+RXW,Shrewsbury And Telford Hospital NHS Trust
+RXX,Surrey And Borders Partnership NHS Foundation Trust
+RXY,Kent And Medway NHS And Social Care Partnership Trust
+RY1,LIVERPOOL COMMUNITY HEALTH NHS TRUST
+RY3,NORFOLK COMMUNITY HEALTH AND CARE NHS TRUST
+RY4,HERTFORDSHIRE COMMUNITY NHS TRUST
+RY5,LINCOLNSHIRE COMMUNITY HEALTH SERVICES NHS TRUST
+RY6,Leeds Community Healthcare NHS Trust (RY6)
+RY8,DERBYSHIRE COMMUNITY HEALTH SERVICES NHS TRUST
+RY9,Hounslow and Richmond Community Healthcare NHS Trust
+RYG,Coventry And Warwickshire Partnership NHS Trust
+RYJ,Imperial College Healthcare NHS Trust
+RYK,Dudley And Walsall Mental Health Partnership NHS Trust
+RYQ,South London Healthcare NHS Trust
+RYR,Western Sussex Hospitals NHS Trust
+RYR-X,WESTERN SUSSEX HOSPITALS NHS TRUST
+RYV,CAMBRIDGESHIRE COMMUNITY SERVICES NHS TRUST
+RYW,BIRMINGHAM COMMUNITY HEALTHCARE NHS TRUST
+RYY,KENT COMMUNITY HEALTH NHS TRUST
+T8R5I,Spamedica Wokingham
+TAD,Bradford District Care Trust
+TAE,Manchester Mental Health And Social Care Trust
+TAF,Camden And Islington NHS Foundation Trust
+TAH,Sheffield Health And Social Care NHS Foundation Trust
+TAJ,Sandwell Mental Health NHS And Social Care Trust
+TAL,Torbay Care Trust
+TAN,North East Lincolnshire Care Trust Plus
+U8P2Z,Sussex Community Dermatology Service (Rainham Healthy Living Centre)
+W00,
+Y4Z7I,Sussex Community Dermatology Service (Springhead Health)
+Y54,North Of England
+Y55,Midlands and East of England
+Y56,London
+Y57,South of England
+Y58,South West
+Y59,South East
+Y60,Midlands
+Y61,East of England
+Y62,North West
+Y63,North East & Yorkshire
+Y7M2R,Highgate Hospital Gender Service
+Y8L9S,Spamedica Bromley
+Z9Z1G,Spamedica Gateshead

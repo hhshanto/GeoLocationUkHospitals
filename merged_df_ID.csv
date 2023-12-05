@@ -1,0 +1,933 @@
+ID,Last_Provider_Name,name,address,coordinates
+15A,NHS Berkshire West CCG,NHS Berkshire West Clinical Commissioning Group,"59 Bath Rd, Reading RG30 2BJ, United Kingdom","{'lat': 51.4469456, 'lng': -0.9985252000000001}"
+15D,NHS East Berkshire CCG,East Berkshire CCG,"St. Leonards Rd, Windsor SL4 3DP, United Kingdom","{'lat': 51.4733077, 'lng': -0.6155565}"
+5A3,South Gloucestershire PCT,Bristol Community Health PCT,"Southmead Health Centre, Southmead, Bristol BS10 6DF, United Kingdom","{'lat': 51.5045623, 'lng': -2.601432}"
+5A4,Havering PCT,Havering Clinical Commissioning Group,"6th Floor, North House, St Edwards Way, Romford RM1 3AE, United Kingdom","{'lat': 51.57991939999999, 'lng': 0.1795954}"
+5A5,Kingston PCT,Get Active Kingston PCT,"Hollyfield House, 22 Hollyfield Rd, Surbiton KT5 9AL, United Kingdom","{'lat': 51.3924216, 'lng': -0.2974033}"
+5AT,Hillingdon PCT,Hillingdon Primary Care Trust,"109 High St, West Drayton UB7 7HJ, United Kingdom","{'lat': 51.5134986, 'lng': -0.4732120999999999}"
+5C1,Enfield PCT,Enfield Unity Pcn,"28 Tenniswood Rd, Enfield EN1 3LL, United Kingdom","{'lat': 51.6625776, 'lng': -0.0769231}"
+5C4,Tower Hamlets PCT,Tower Hamlets Primary Care Trust,"275 Bancroft Rd, Bethnal Green, London E1 4DG, United Kingdom","{'lat': 51.524507, 'lng': -0.042648}"
+5C5,Newham PCT,Newham Transitional Practice,"30 Church Rd, London E12 6AQ, United Kingdom","{'lat': 51.5479405, 'lng': 0.0540651}"
+5C9,Haringey Teaching PCT,Haringey Learning Partnership,"Commerce Rd, London N22 8DZ, United Kingdom","{'lat': 51.6019614, 'lng': -0.1158888}"
+5CN,Herefordshire PCT,Herefordshire Primary Care Trust,"Ruckhall Ln, Belmont, Hereford HR2 9RP, United Kingdom","{'lat': 52.0392306, 'lng': -2.7544253}"
+5CQ,Milton Keynes PCT,N H S Milton Keynes C C G,"Place Sherwood, Sherwood Dr, Milton Keynes MK3 6RT, United Kingdom","{'lat': 52.0009482, 'lng': -0.7393651}"
+5EF,,,,
+5F1,Plymouth Teaching PCT,Plymouth Teaching Primary Care Trust,"Leypark Walk, Estover, Plymouth PL6 8UE, United Kingdom","{'lat': 50.4105967, 'lng': -4.0956348}"
+5FE,Portsmouth City Teaching PCT,Portsmouth Primary SCITT,"c/o, Stamshaw Junior School, Tipner Rd, Portsmouth PO2 8QH, United Kingdom","{'lat': 50.8223528, 'lng': -1.0874509}"
+5FL,Bath And North East Somerset PCT,NHS Bath and North East Somerset,"St. Martin's Hospital, Clara Cross Ln, Trust HQ, Bath BA2 5RP, United Kingdom","{'lat': 51.35778699999999, 'lng': -2.372918}"
+5H8,Rotherham PCT,Rotherham Primary Care Trust,"Oak House, Moorhead Way, Bramley, Rotherham S66 1YY, United Kingdom","{'lat': 53.4207787, 'lng': -1.2546232}"
+5J2,Warrington PCT,Warrington Primary Care Trust,"930 Birchwood Blvd, Birchwood, Warrington WA3 7QN, United Kingdom","{'lat': 53.4128728, 'lng': -2.5314452}"
+5J9,DARLINGTON PCT,Primary Healthcare Darlington Ltd,"Forsyth House, 20 Woodland Rd, Darlington DL3 7PL, United Kingdom","{'lat': 54.5280618, 'lng': -1.5618537}"
+5JE,Barnsley PCT,Barnsley PCT,"Hillder House, 49-51 Gawber Rd, Barnsley S75 2PY, United Kingdom","{'lat': 53.5591598, 'lng': -1.4975137}"
+5K3,Swindon PCT,Swindon NHS Health Centre,"1 Islington St, Swindon SN1 1TN, United Kingdom","{'lat': 51.5622759, 'lng': -1.7817563}"
+5K5,Brent Teaching PCT,Brent Teaching Primary Care Trust,"Chaplin Rd, Wembley HA0 4UZ, United Kingdom","{'lat': 51.5505419, 'lng': -0.2995424}"
+5K7,Camden PCT,NHS Camden Provider Services (Headquarters),"125-133 Camden High St, London NW1 7JR, United Kingdom","{'lat': 51.5374713, 'lng': -0.1417703}"
+5KG,South Tyneside PCT,South Tyneside Primary Care Trust,"Windmill Way, Hebburn NE31 1AT, United Kingdom","{'lat': 54.98427419999999, 'lng': -1.5074381}"
+5KL,Sunderland Teaching PCT,Faculty of Education & Society,"St Peters Campus, St Peters' Way, Monkwearmouth, Sunderland SR6 0DD, United Kingdom","{'lat': 54.9122668, 'lng': -1.3772698}"
+5L1,Southampton City PCT,Southampton City Clinical Commissioning Group,"Oakley Rd, Southampton SO16 4GX, United Kingdom","{'lat': 50.9234251, 'lng': -1.4490065}"
+5L3,Medway PCT,MCH House,"MCH House, Gillingham Business Park, 21 Bailey Dr, Gillingham ME8 0PZ, United Kingdom","{'lat': 51.3687611, 'lng': 0.5739544}"
+5LA,Kensington And Chelsea PCT,Chelsea and Westminster Hospital,"369 Fulham Rd., London SW10 9NH, United Kingdom","{'lat': 51.4843947, 'lng': -0.1817018}"
+5LG,Wandsworth PCT,Wandsworth Primary Care Trust,"63 Bevill Allen Cl, London SW17 8PX, United Kingdom","{'lat': 51.4237291, 'lng': -0.1607683}"
+5M1,South Birmingham PCT,South Birmingham Urgent Treatment Centre,"Katie Road Selly Oak, 15 Katie Rd, Selly Oak, Birmingham B29 6JG, United Kingdom","{'lat': 52.4385239, 'lng': -1.9386298}"
+5M2,Shropshire County PCT,Shropshire Community Health NHS Trust,"William Farr House, Mytton Oak Rd, Shrewsbury SY3 8XL, United Kingdom","{'lat': 52.705863, 'lng': -2.7893884}"
+5M3,Walsall Teaching PCT,Walsall Primary Care Trust,"Pinfold St, Darlaston, Wednesbury WS10 8SY, United Kingdom","{'lat': 52.56602660000001, 'lng': -2.0370919}"
+5M6,Richmond And Twickenham PCT,Richmond & Twickenham Pct,"S C Centre, 18 Queen's Rd, Teddington TW11 0LR, United Kingdom","{'lat': 51.4250224, 'lng': -0.3402129}"
+5M7,Sutton And Merton PCT,Sutton & Merton,"Wide Way, Mitcham CR4 1BP, United Kingdom","{'lat': 51.4022094, 'lng': -0.1348898}"
+5M8,NORTH SOMERSET PCT,North Somerset Primary Care Trust,"Tickenham Rd, Clevedon BS21 9BH, United Kingdom","{'lat': 51.4395848, 'lng': -2.8300276}"
+5MD,,,,
+5MK,Telford And Wrekin PCT,Telford & Wrekin Primary Care Trust,"Webb House, King St, Telford TF4 2AA, United Kingdom","{'lat': 52.66446699999999, 'lng': -2.4661866}"
+5MV,Wolverhampton City PCT,Wolverhampton City Primary Care Trust,"The Maltings, Herbert St, Wolverhampton WV1 1NQ, United Kingdom","{'lat': 52.5910184, 'lng': -2.1256804}"
+5MX,Heart Of Birmingham Teaching PCT,Heart Of Birmingham Teaching Primary Care Trust,"34 Lansdowne St, Birmingham B18 7EE, United Kingdom","{'lat': 52.488301, 'lng': -1.9342367}"
+5N2,,,,
+5N5,Doncaster PCT,NHS Doncaster Clinical Commissioning Group,"Sovereign House/White Rose House, Heavens Walk, Doncaster DN4 5DJ, United Kingdom","{'lat': 53.5109176, 'lng': -1.1299542}"
+5N6,Derbyshire County PCT,Derbyshire County Primary Care Trust,"Scarsdale Hospital, off Nightingale Cl, Newbold Rd, Chesterfield S41 7PF, United Kingdom","{'lat': 53.2389078, 'lng': -1.431064}"
+5N8,Nottinghamshire County Teaching PCT,Nottinghamshire County Hall,"Loughborough Road, Nottingham NG2 7QP, United Kingdom","{'lat': 52.93594599999999, 'lng': -1.1355932}"
+5N9,,,,
+5NE,Cumbria Teaching PCT,One Cumbria Teaching School Hub,"Thornhill Primary School, Thornhill, Cumbria CA22 2SJ, United Kingdom","{'lat': 54.46506, 'lng': -3.526298}"
+5NG,Central Lancashire PCT,Central Lancashire N H S Primary Care Trust,"4 Lytham Rd, Fulwood, Preston PR2 8JB, United Kingdom","{'lat': 53.777856, 'lng': -2.7105652}"
+5NH,East Lancashire Teaching PCT,East Lancashire Hospitals NHS,"Casterton Ave, Burnley BB10 2PQ, United Kingdom","{'lat': 53.809828, 'lng': -2.228172}"
+5NL,Liverpool PCT,Liverpool Primary Care Trust,"61 Seel St, Liverpool L1 4AZ, United Kingdom","{'lat': 53.4017181, 'lng': -2.9786082}"
+5NN,Western Cheshire PCT,NHS Western Cheshire,"The Countess of Chester Health Park, Liverpool Rd, Chester CH2 1HJ, United Kingdom","{'lat': 53.21178639999999, 'lng': -2.899154900000001}"
+5NV,North Yorkshire And York PCT,North Yorkshire & York PCT,"HIV & Sexual Health Counselling Services/Keighley Rd, Skipton BD23 2RJ, United Kingdom","{'lat': 53.9557791, 'lng': -2.0190005}"
+5NW,East Riding Of Yorkshire PCT,East Riding Of Yorkshire Primary Care Trust,"Grange Park Ln, Willerby, Hull HU10 6DT, United Kingdom","{'lat': 53.7631159, 'lng': -0.4535729}"
+5P3,East And North Hertfordshire PCT,East & North Hertfordshire NHS Trust,"Lister Hospital East Hall Block, Lister Hospital, Coreys Mill Lane, Coreys Mill Ln, Stevenage SG1 4AB, United Kingdom","{'lat': 51.92422029999999, 'lng': -0.2118406}"
+5P4,West Hertfordshire PCT,West Hertfordshire GP Specialist Training Programme,"Medical Education Centre, General Hospital, Vicarage Rd, Watford WD18 0HB, United Kingdom","{'lat': 51.6490376, 'lng': -0.4044799}"
+5P5,Surrey PCT,Surrey Primary Care Trust,"757 Guildford Rd, Fetcham, Leatherhead KT22 9DF, United Kingdom","{'lat': 51.2931219, 'lng': -0.3350435}"
+5P6,West Sussex PCT,Sussex Partnership Foundation Trust,"Trust Headquarters, Arundel Rd, Worthing BN13 3EP, United Kingdom","{'lat': 50.8411448, 'lng': -0.4111475}"
+5P7,East Sussex Downs And Weald PCT,East Sussex Downs & Weald Pct,"High Glades, 9A Upper Church Rd, Hastings, Saint Leonards-on-sea TN37 7AT, United Kingdom","{'lat': 50.8782619, 'lng': 0.5509107}"
+5P8,Hastings And Rother PCT,The Station Practice,"Level 3, Station Plaza Health Centre, Station Approach, Hastings TN34 1BA, United Kingdom","{'lat': 50.8576168, 'lng': 0.5783318}"
+5PA,Leicestershire County And Rutland PCT,Leicestershire County & Rutland PCT,"Thornton Dr, Narborough, Leicester LE19 2GX, United Kingdom","{'lat': 52.5734317, 'lng': -1.2022962}"
+5PC,Leicester City PCT,City Central Community Mental Health Team,"St Peters Health & Social Care Centre, Sparkenhoe St, Leicester LE2 0TA, United Kingdom","{'lat': 52.6317411, 'lng': -1.1196888}"
+5PD,Northamptonshire Teaching PCT,Northampton Teacher Training Partnership (NTTP),"Billing Rd, Northampton NN1 5RT, United Kingdom","{'lat': 52.2392483, 'lng': -0.8660587999999999}"
+5PE,,,,
+5PG,Birmingham East and North PCT,Birmingham East & North Primary Care Trust,"Tangmere Dr, Birmingham B35 7QX, United Kingdom","{'lat': 52.5181324, 'lng': -1.7919608}"
+5PH,North Staffordshire PCT,North Staffordshire Combined Healthcare Nhs Trust,"Bellringer Rd, Stoke-on-Trent ST4 8HH, United Kingdom","{'lat': 52.9683755, 'lng': -2.167723}"
+5PJ,Stoke On Trent PCT,Stoke on Trent P C T,"Meir, Stoke-on-Trent ST3 7YH, United Kingdom","{'lat': 52.9770662, 'lng': -2.1038075}"
+5PK,South Staffordshire PCT,South Staffordshire PCT,"Cross St, Burton upon Trent, Burton-on-Trent DE14 1EG, United Kingdom","{'lat': 52.80330009999999, 'lng': -1.6386217}"
+5PL,Worcestershire PCT,Worcestershire P C T,"30 Crossgate Rd, Park Farm Industrial Estate, Redditch B98 7SN, United Kingdom","{'lat': 52.2861771, 'lng': -1.9116754}"
+5PM,Warwickshire PCT,South Warwickshire Primary Care Trust,"Heathcote La, Warwick CV34 6SR, United Kingdom","{'lat': 52.2692888, 'lng': -1.5409998}"
+5PP,Cambridgeshire PCT,Cambridgeshire and Peterborough ICS,"Gemini House Cambridgeshire, Business Park, Ely CB7 4EA, United Kingdom","{'lat': 52.3892227, 'lng': 0.2604764}"
+5PQ,Norfolk PCT,Norfolk Primary Care Trust,"Elliott House, 130 Ber St, Norwich NR1 3FR, United Kingdom","{'lat': 52.6219419, 'lng': 1.3000793}"
+5PR,GREAT YARMOUTH AND WAVENEY PCT,NHS Norfolk and Waveney CCG (East Locality),"1 Common Ln N, Beccles NR34 9BN, United Kingdom","{'lat': 52.4619794, 'lng': 1.5675048}"
+5PT,Suffolk PCT,Suffolk Constabulary Police Headquarters,"Portal Ave, Martlesham Heath, Martlesham, Ipswich IP5 3QS, United Kingdom","{'lat': 52.0674698, 'lng': 1.2694705}"
+5PV,West Essex PCT,Hertfordshire & West Essex ICB,"Charter House, Parkway, Welwyn Garden City AL8 6JL, United Kingdom","{'lat': 51.8027713, 'lng': -0.2079143}"
+5PX,Mid Essex PCT,NHS Mid and South Essex Integrated Care Board,"Unit 10, Phoenix Court Christopher Martin Rd, Basildon SS14 3HG, United Kingdom","{'lat': 51.5914557, 'lng': 0.4961944}"
+5PY,South West Essex PCT,NHS Mid and South Essex Integrated Care Board,"Unit 10, Phoenix Court Christopher Martin Rd, Basildon SS14 3HG, United Kingdom","{'lat': 51.5914557, 'lng': 0.4961944}"
+5QA,Eastern And Coastal Kent PCT,Eastern Coastal Kent P C T,"Bldg, 187188 Carver Dr, Sittingbourne ME9 8NP, United Kingdom","{'lat': 51.3152875, 'lng': 0.7239991}"
+5QC,Hampshire PCT,Hampshire Primary Care Trust,"Unit 180, 166 Fareham Reach Fareham Rd, Gosport PO13 0FH, United Kingdom","{'lat': 50.8361508, 'lng': -1.1787626}"
+5QD,Buckinghamshire PCT,NHS Buckinghamshire Clinical Commissioning Group,"Study Centre, New County Offices, Walton St, Aylesbury HP20 1UX, United Kingdom","{'lat': 51.814822, 'lng': -0.8116485999999999}"
+5QE,Oxfordshire PCT,NHS Oxfordshire,"Jubilee House, 5510 John Smith Dr, Oxford Business Park, Oxford OX4 2LH, United Kingdom","{'lat': 51.72908839999999, 'lng': -1.2080807}"
+5QF,Berkshire West PCT,NHS Berkshire West Clinical Commissioning Group,"59 Bath Rd, Reading RG30 2BJ, United Kingdom","{'lat': 51.4469456, 'lng': -0.9985252000000001}"
+5QG,Berkshire East PCT,Berkshire East Mountain Resort,"66 Thunder Mountain Rd, Charlemont, MA 01339, United States","{'lat': 42.6211433, 'lng': -72.87712259999999}"
+5QH,Gloucestershire PCT,NHS Gloucestershire,"9 Delta Way, Brockworth, Gloucester GL3 4FE, United Kingdom","{'lat': 51.8481654, 'lng': -2.1749374}"
+5QK,Wiltshire PCT,Wiltshire Pct Ltd,"5 Southgate Cl, Devizes SN10 5BY, United Kingdom","{'lat': 51.3477476, 'lng': -1.9923372}"
+5QL,Somerset PCT,NHS Somerset,"Wynford House, Lufton Way, Lufton, Yeovil BA22 8HR, United Kingdom","{'lat': 50.94917359999999, 'lng': -2.676850200000001}"
+5QM,Dorset PCT,,,
+5QN,Bournemouth And Poole Teaching PCT,Bournemouth Bay Teacher Training Partnership,"Redvers Rd, Christchurch BH23 3AU, United Kingdom","{'lat': 50.7412083, 'lng': -1.7558412}"
+5QP,Cornwall And Isles Of Scilly PCT,NHS Cornwall and Isles of Scilly,"Room 210, Cornwall Council offices, 39 Penwinnick Rd, Saint Austell PL25 5DR, United Kingdom","{'lat': 50.333519, 'lng': -4.7979055}"
+5QQ,Devon PCT,Devon Primary Care Trust,"Exeter EX2 9QJ, United Kingdom","{'lat': 50.6932801, 'lng': -3.5408237}"
+5QR,Redcar And Cleveland PCT,Redcar & Cleveland Primary Care Trust,"Langbaurgh House, Bow St, Guisborough TS14 7AA, United Kingdom","{'lat': 54.5348415, 'lng': -1.05058}"
+5QT,Isle Of Wight NHS PCT,Isle Of Wight NHS Trust,"St. Mary's Hospital, Parkhurst Rd, Newport PO30 5TG, United Kingdom","{'lat': 50.7107555, 'lng': -1.3013418}"
+8A101,St Luke's Hospice (Sheffield),,,
+8A718,London Clinic,The London Clinic,"145 Harley St, London W1G 6DE, United Kingdom","{'lat': 51.5227935, 'lng': -0.1488471}"
+8E339,WOODLANDS DAY HOSPICE,Woodlands Hospice,"AUH Campus, Longmoor Ln, Fazakerley, Liverpool L9 7LA, United Kingdom","{'lat': 53.4658234, 'lng': -2.9385342}"
+8G301,Ryalls Ann (Counsellor) (8G301),,,
+8HE28,Harley Street On 15,Ultralase,"15 Harley St, London W1G 9QQ, United Kingdom","{'lat': 51.5172886, 'lng': -0.1463263}"
+8HP32,Eastern Surgery Ltd (8HP32),,,
+8J285,Shaw Healthcare (Ledbury) Limited (8J285),,,
+A0C5S,Spamedica Gloucester,SpaMedica,"Ground Floor, Sanctus House, Olympus Business Park, Quedgeley, Gloucester GL2 4DH, United Kingdom","{'lat': 51.8351682, 'lng': -2.2728965}"
+A4M8P,Ramsey Healthcare - Buckshaw Hospital,Buckshaw Hospital,"Matrix Industrial Park, Eaton Ave, Buckshaw Village, Chorley PR7 7NA, United Kingdom","{'lat': 53.68692189999999, 'lng': -2.6740434}"
+AAH01,Tetbury Hospital Trust (AAH01),,,
+AAV02,Community Health and Eyecare Limited (Preston),,,
+ACG05,Swindon Community Ophthalmology Service - Taw Hill (ACG05),,,
+ACG06,Swindon Community Ophthalmology Service - Tetbury (ACG06),,,
+ACG07,"Leicester, Leicestershire & Rutland Cataract Service (ACG07)",,,
+ACG08,Newmedica Ophthalmology - Nuneaton - Camp Hill - GP Led Health Centre - (ACG08),,,
+ACG09,North Derbyshire Community Ophthalmology Service At Barlborough Treatment Centre (ACG09),,,
+ACG10,Newmedica Community Ophthalmology - Bristol - Bristol (ACG10),,,
+ACG12,Newmedica Community Ophthalmology - North East Lincolnshire - Grimsby (ACG12),,,
+ACG13,Newmedica Community Ophthalmology - Gloucestershire - Gloucester (Aspen Centre) (Acg13) (ACG13),,,
+ACG19,Newmedica Community Ophthalmology - Leeds (ACG19),,,
+ACG20,Newmedica - Bristol - Litfield House (ACG20),,,
+ACG22,Newmedica - Brigg - Riverside Surgery,Newmedica Eye Health Clinic & Surgical Centre - Brigg,"Riverside Surgery, Barnard Ave, Brigg DN20 8AS, United Kingdom","{'lat': 53.5538779, 'lng': -0.4953244}"
+ACG24,Newmedica - Teesside - North Ormesby - (ACG24),,,
+ACG30,Newmedica - Worksop - Dukeries,Newmedica Eye Health Clinic & Surgical Centre - Worksop,"Dukeries Business Centre, The, 31-33 Retford Rd, Worksop S80 2PU, United Kingdom","{'lat': 53.30276929999999, 'lng': -1.105337}"
+ACG36,Newmedica - Exeter - Glen House,Newmedica Eye Health Clinic & Surgical Centre - Exeter,"Glen House, Sigford Rd, Marsh Barton, Exeter EX2 8NL, United Kingdom","{'lat': 50.69647819999999, 'lng': -3.5175348}"
+ACG37,Newmedica - Ipswich,Newmedica Eye Health Clinic & Surgical Centre - Ipswich,"London House, Hadleigh Rd, Ipswich IP2 0EE, United Kingdom","{'lat': 52.057628, 'lng': 1.1324525}"
+ACG38,Newmedica - Langford,Newmedica Eye Health Clinic - Langford,"Pudding Pie Ln, Langford, Bristol BS40 5EL, United Kingdom","{'lat': 51.3419864, 'lng': -2.7881193}"
+ACG40,Newmedica - Wakefield,Newmedica Eye Health Clinic & Surgical Centre - Wakefield,"106 Barnsley Rd, Wakefield WF1 5NX, United Kingdom","{'lat': 53.6669466, 'lng': -1.4871743}"
+ACG41,Newmedica - Frome,Newmedica Eye Health Clinic & Surgical Centre - Frome,"Medical Practice, Enos Way, Frome BA11 2FH, United Kingdom","{'lat': 51.23730639999999, 'lng': -2.311614}"
+ADP02,Kims Hospital (Newnham Court) (ADP02),,,
+AHH01,Foscote Court (Banbury) Trust (AHH01),,,
+AHR01,King Edward VII's Hospital Sister Agnes,King Edward Ⅶ's Hospital,"5-10 Beaumont St, London W1G 6AA, United Kingdom","{'lat': 51.5209157, 'lng': -0.1503468}"
+AJX01,Sussex Msk Partnership 2 Ltd (AJX01),,,
+ARH01,,,,
+AVQ01,One Ashford Hospital (AVQ01),,,
+AVQ03,One Hatfield Hospital - (AVQ03),,,
+AXG01,Wiltshire Health & Care (Chippenham) (AXG01),,,
+AXG02,Savernake Community Hospital (AXG02),,,
+AXG03,Warminster Community Hospital (AXG03),,,
+B3M1X,Claremont Private Hospital,Spire Claremont Hospital,"401 Sandygate Rd, Sheffield S10 5UB, United Kingdom","{'lat': 53.37559109999999, 'lng': -1.5351724}"
+B4N1U,Spamedica Romford,SpaMedica,"210 South St, Romford RM1 1TR, United Kingdom","{'lat': 51.57199600000001, 'lng': 0.1834192}"
+B5M7B,Newmedica - Norwich,Newmedica Eye Health Clinic & Surgical Centre - Norwich,"Lakeside, Broadland Business Park, 200 Old Chapel Way, Norwich NR7 0WG, United Kingdom","{'lat': 52.6285445, 'lng': 1.3697498}"
+B9J4U,Spamedica Peterborough,SpaMedica,"Ashurst Southgate Park, Bakewell Rd, Peterborough PE2 6YS, United Kingdom","{'lat': 52.5360654, 'lng': -0.3186}"
+B9M3W,Spamedica Southampton,SpaMedica,"Ground Floor, Stoneham Place, Stoneham Ln., Southampton SO50 9NW, United Kingdom","{'lat': 50.9543581, 'lng': -1.3721523}"
+DLY01,Schoen Clinic London (Wigmore Street),,,
+DM801,Weymouth Street Hospital,Weymouth Street Hospital,"42-46 Weymouth St, London W1G 6DR, United Kingdom","{'lat': 51.5202319, 'lng': -0.1505428}"
+DX101,The New Foscote Hospital (Foscote Hospital) (DX101),,,
+E4K5T,Optegra Eye Hospital Newcastle,Optegra Eye Clinic - Newcastle,"Units 1-3, Maingate Kingsway North, Gateshead NE11 0BE, United Kingdom","{'lat': 54.9434998, 'lng': -1.6245302}"
+England,,,,
+ENGLAND,,,,
+G3O5P,Spamedica Newark,SpaMedica,"Loxley House, Balderton Gate, Newark NG24 1UN, United Kingdom","{'lat': 53.073483, 'lng': -0.8053049999999999}"
+G3Z1Q,Sulis Hospital Bath (Foxcote Avenue),,,
+I9A4A,Spamedica Brighton,SpaMedica,"Ground Floor, Pavilion House, Kings Business Park, Reeds Ln, Sayers Common, Hassocks BN6 9LS, United Kingdom","{'lat': 50.9489014, 'lng': -0.2027201}"
+L0D9W,Newmedica - Gloucester (Brighouse Court),,,
+L6O7H,Spamedica Poole,SpaMedica,"Forelle House, Marshes End, Upton Rd, Poole BH17 7AG, United Kingdom","{'lat': 50.7370226, 'lng': -1.9948925}"
+L9D3Z,Spamedica Leicester,SpaMedica,"Ground Floor, Grove Park, Gateway House, 4 Penman Way, Leicester LE19 1SY, United Kingdom","{'lat': 52.5960024, 'lng': -1.1864866}"
+M0N7E,Spamedica Sittingbourne,SpaMedica,"Denne Court, Hengist Field, Oad Street, Sittingbourne ME9 8LT, United Kingdom","{'lat': 51.3256141, 'lng': 0.6928276}"
+M3R0W,Spamedica Norwich,SpaMedica,"Discovery House, Business Park, West Suite Ground Floor, 4 Whiting Rd, Norwich NR4 6DJ, United Kingdom","{'lat': 52.6087655, 'lng': 1.2927331}"
+M4C5R,Newmedica - Northampton,Newmedica Eye Health Clinic & Surgical Centre - Northampton,"Unit 2-3, Westbury Court, Anglia Way, Moulton Park, Northampton NN3 6JA, United Kingdom","{'lat': 52.2741552, 'lng': -0.8739336999999999}"
+M5E1S,Spamedica Exeter,SpaMedica,"Lancaster House, International Office Park, Exeter EX5 2HL, United Kingdom","{'lat': 50.7294685, 'lng': -3.4137825}"
+M7C9Q,Spamedica Epsom,SpaMedica,"New Plan House, East St, Epsom KT17 1BL, United Kingdom","{'lat': 51.3360124, 'lng': -0.2618014}"
+NAM01,Probus Surgical Centre (NAM01),,,
+NAM02,Meneage Street Surgery (NAM02),,,
+NAM03,Stratton Medical Centre (NAM03),,,
+NAM04,Liskeard Community Hospital (NAM04),,,
+NAM06,Morrab Surgery (NAM06),,,
+NAM07,Oak Tree Surgery (NAM07),,,
+NAM09,Stratton Community Hospital (NAM09),,,
+NAX03,ECCH Beccles Hospital (NAX03),,,
+NCR01,Isight (Southport) - (NCR01),,,
+NDA01,Virgin Care Services Ltd (Brook Green) (NDA01),,,
+NDA03,Haslemere and District Hospital OPD,Haslemere Community Hospital (Inpatient Services),"Church Ln, Haslemere GU27 2BJ, United Kingdom","{'lat': 51.0924965, 'lng': -0.7068443}"
+NDA07,Walton Community Hospital,Walton Community Hospital,"1 Rodney Rd, Walton-on-Thames KT12 3LD, United Kingdom","{'lat': 51.3800152, 'lng': -0.4064252}"
+NDA18,Woking Community Hospital,Woking Community Hospital,"Heathside Rd, Woking GU22 7HS, United Kingdom","{'lat': 51.3149838, 'lng': -0.5570744}"
+NDA25,Farnham Hospital & Centre For Health,Farnham Hospital and Centre for Health,"Manor Rd, Farnham GU9, United Kingdom","{'lat': 51.2203789, 'lng': -0.7841853999999999}"
+NDA26,Milford Specialist Rehabilitation Hospital,Milford Hospital,"Tuesley Ln, Godalming GU7 1UG, United Kingdom","{'lat': 51.16735019999999, 'lng': -0.6256138}"
+NDAH9,Gravesham Community Hospital (NDAH9),,,
+NDAJ0,Livingstone Community Hospital (NDAJ0),,,
+NDAJ1,Sheppey Community Hospital (NDAJ1),,,
+NDAJ2,Sittingbourne Memorial Hospital (NDAJ2),,,
+NDJ01,Forum House (NDJ01),,,
+NED01,Edics (Epsom) (NED01),,,
+NED30,Ashtead Hospital (Edics),,,
+NEQ01,Wrs Pms Plus Limited (NEQ01),,,
+NEY01,Pioneer Healthcare Ltd - Claremont Hospital (NEY01),,,
+NEY14,Oaklands Hospital (NEY14),,,
+NFH01,Somerset Surgical Services (NFH01),,,
+NHM01,Suffolk Community Healthcare HQ,Suffolk Community Healthcare,"Allington House, 427 Woodbridge Rd, Ipswich IP4 4ER, United Kingdom","{'lat': 52.0619198, 'lng': 1.1788829}"
+NHM02,Aldeburgh Community Hospital (NHM02),,,
+NHM03,Bluebird Lodge Community Hospital (NHM03),,,
+NHM04,Newmarket Community Hospital (NHM04),,,
+NHM05,Felixstowe Community Hospital (NHM05),,,
+NHM15,Hazell Court Residential Home (NHM15),,,
+NHM26,Glastonbury Court (NHM26),,,
+NHW01,Standard Health Ltd HQ (NHW01),,,
+NHW02,Nuffield Hospital (Standard Health) (NHW02),,,
+NHW03,Wimbourne Community Hospital (Standard Health) (NHW03),,,
+NHW04,,,,
+NLL01,Peninsula Community Health C.I.C (NLL01),,,
+NLL04,LAUNCESTON GENERAL HOSPITAL,Launceston General Hospital (LGH),"274-280 Charles St, Launceston TAS 7250, Australia","{'lat': -41.44651169999999, 'lng': 147.1429094}"
+NLL07,LISKEARD COMMUNITY HOSPITAL,Liskeard Community Hospital,"Clemo Rd, Liskeard PL14 3XD, United Kingdom","{'lat': 50.4614644, 'lng': -4.4510561}"
+NLL08,ST BARNABAS HOSPITAL,St. Barnabas Hospital,"4422 3rd Ave, Bronx, NY 10457, United States","{'lat': 40.8527532, 'lng': -73.8914272}"
+NLL09,Stratton Hospital,Stratton Hospital,"Hospital Rd, Stratton, Bude EX23 9BR, United Kingdom","{'lat': 50.8303881, 'lng': -4.5176037}"
+NLL11,BODMIN COMMUNITY HOSPITAL,Bodmin Community Hospital,"Boundary Rd, Bodmin PL31 2QT, United Kingdom","{'lat': 50.4672838, 'lng': -4.7415027}"
+NLL13,ST AUSTELL COMMUNITY HOSPITAL,St Austell Community Hospital,"Porthpean Rd, Saint Austell PL26 6AA, United Kingdom","{'lat': 50.32714199999999, 'lng': -4.7730482}"
+NLL14,FOWEY HOSPITAL,Fowey Hospital,"Park Rd, Fowey PL23 1EE, United Kingdom","{'lat': 50.33853269999999, 'lng': -4.6384066}"
+NLL15,NEWQUAY HOSPITAL,Newquay Hospital,"St Thomas' Rd, Newquay TR7 1RQ, United Kingdom","{'lat': 50.4109546, 'lng': -5.0741495}"
+NLL16,FALMOUTH HOSPITAL,Falmouth Hospital,"Trescobeas Rd, Falmouth TR11 2JA, United Kingdom","{'lat': 50.1556515, 'lng': -5.0861629}"
+NLL17,CAMBOURNE REDRUTH COMMUNITY HOSPITAL,Camborne Redruth Community Hospital (Barncoose),"Barncoose Terrace, Redruth TR15 3ER, United Kingdom","{'lat': 50.2290202, 'lng': -5.2452099}"
+NLL18,HELSTON COMMUNITY HOSPITAL,Helston Community Hospital,"Meneage Rd, Helston TR13 8DR, United Kingdom","{'lat': 50.0915897, 'lng': -5.2650719}"
+NLL19,POLTAIR HOSPITAL,Poltair Hospital,"Penzance TR20 8SR, United Kingdom","{'lat': 50.130798, 'lng': -5.558989}"
+NLL20,EDWARD HAIN COMMUNITY HOSPITAL,Edward Hain Memorial Hospital,"Albany Terrace, Saint Ives TR26 2BS, United Kingdom","{'lat': 50.2079914, 'lng': -5.4793154}"
+NLL21,ST MARY's HOSPITAL,St. Mary's Hospital Brandenburg,"Bergstraße 1-3, 14770 Brandenburg an der Havel, Germany","{'lat': 52.4150183, 'lng': 12.5517469}"
+NLT01,NORTH SOMERSET COMMUNITY PARTNERSHIP CIC HQ,North Somerset Community Partnership,"Old St, Clevedon BS21 6FW, United Kingdom","{'lat': 51.4386828, 'lng': -2.8409847}"
+NLX01,COMMUNITY HEALTH AND SOCIAL CARE SITE,"Ambulanter Pflegedienst ""Alessia Charlottenburg""","Kantstraße 66, 10627 Berlin, Germany","{'lat': 52.5069755, 'lng': 13.30332}"
+NLX02,Paulton Memorial Hospital (NLX02),,,
+NLX22,Thornbury Hospital (NLX22),,,
+NLY01,CARE AND SUPPORT PARTNERSHIP SITE,"Dentalservice - Lehmann, Mewis & Partner","Körnerstraße 57, 12169 Berlin, Germany","{'lat': 52.4569923, 'lng': 13.3294234}"
+NMG77,North Kirklees Msk Service - (NMG77),,,
+NMM01,Hospital Of St John And St Elizabeth (Grove End Road),,,
+NN401,TYNESIDE SURGICAL SERVICES AT THE NORTH EAST NHS SURGERY CENTRE,The Peter Smith Surgery Centre,"Queen Elizabeth Hospital, Gateshead NE9 6SX, United Kingdom","{'lat': 54.937537, 'lng': -1.5801825}"
+NN501,Trafford General Hospital (NN501),,,
+NN801,THE SPENCER WING (RAMSGATE ROAD),,,
+NN802,The Spencer Wing (William Harvey Hospital) (NN802),,,
+NN804,Spencer Private Hospitals - Canterbury,Spencer Private Hospital,"Hospital, Kent &, Ethelbert Rd, Canterbury CT1 3NG, United Kingdom","{'lat': 51.2665585, 'lng': 1.0870984}"
+NNE02,DORKING GENERAL HOSPITAL,DHC,"St Paul's Rd W, Dorking RH4 2AA, United Kingdom","{'lat': 51.225981, 'lng': -0.3329927}"
+NNH02,Optegra Yorkshire Eye Hospital (NNH02),,,
+NNH03,Optegra (Surrey Eye Hospital) (NNH03),,,
+NNH04,Optegra (Manchester Eye Hospital) (NNH04),,,
+NNH05,Optegra (Birmingham Eye Hospital) (NNH05),,,
+NNH06,Optegra (Solent Eye Hospital) (NNH06),,,
+NNH07,Optegra London Eye Hospital (NNH07),,,
+NNQ01,BRAINTREE CLINICAL SERVICES LTD,Braintree Community Hospital,"Chadwick Dr, Braintree CM7 2AL, United Kingdom","{'lat': 51.8798448, 'lng': 0.540426}"
+NNV01,Your Healthcare (Hollyfield House),,,
+NNV2J,Teddington Memorial Hospital,Teddington Memorial Hospital,"11 Hampton Rd, Teddington TW11 0JL, United Kingdom","{'lat': 51.4261499, 'lng': -0.3407937}"
+NPG01,SPAMEDICA (CITYGATE),,,
+NPG02,Spamedica (Birkenhead) (NPG02),,,
+NPG05,Spamedica - Newton-Le-Willows (NPG05),,,
+NPG06,Spamedica Liverpool (NPG06),,,
+NPG07,Spamedica Eye Hospital (Wakefield) (NPG07),,,
+NPG08,Spamedica (Bolton) (NPG08),,,
+NPG10,Spamedica (Sheffiled) (NPG10),,,
+NPG11,Spamedica (Birmingham) (NPG11),,,
+NPG12,Spamedica (Bradford) (NPG12),,,
+NPG13,Spamedica - Skelmersdale (NPG13),,,
+NPG14,Spamedica Widnes - (NPG14),,,
+NPG15,Spamedica Newcastle-Under-Lyme - (NPG15),,,
+NPG16,Spamedica Chelmsford - (NPG16),,,
+NPG17,Spamedica Preston - (NPG17),,,
+NPG18,Spamedica Hull - (NPG18),,,
+NPG19,Spamedica Bedford - (NPG19),,,
+NPG20,Spamedica Wolverhampton - (NPG20),,,
+NPG21,Spamedica Coventry,SpaMedica,"1410, Spring Place, Coventry Business Park, Herald Ave, Coventry CV5 6UB, United Kingdom","{'lat': 52.4035339, 'lng': -1.5496615}"
+NPG22,Spamedica Stockton-On-Tees,SpaMedica,"Birch House, Three Acrs, Princeton Dr, Thornaby, Stockton-on-Tees TS17 6AJ, United Kingdom","{'lat': 54.5606938, 'lng': -1.3002626}"
+NPG23,Spamedica Derby,SpaMedica,"Ground Floor, Quarnmill House, Stores Rd, Derby DE21 4XF, United Kingdom","{'lat': 52.9289164, 'lng': -1.4656867}"
+NQ106,Fryatt Hospital,Fryatt Hospital,"Fryatt Hospital, 419 Main Rd, Harwich CO12 4EX, UK","{'lat': 51.9335907, 'lng': 1.2608919}"
+NQ108,Clacton Hospital,Clacton & District Hospital,"Tower Rd, Clacton-on-Sea CO15 1LH, United Kingdom","{'lat': 51.7855807, 'lng': 1.1485076}"
+NQ713,ST BARTHOLOMEW's HOSPITAL (ROCHESTER),,,
+NQ719,WISDOM HOSPICE,The Wisdom Hospice,"High Bank, Rochester ME1 2NU, United Kingdom","{'lat': 51.37245739999999, 'lng': 0.5093018}"
+NQ738,Darent Valley Hospital (NQ738),,,
+NQA20,Braintree Community Hospital,Braintree Community Hospital,"Chadwick Dr, Braintree CM7 2AL, United Kingdom","{'lat': 51.8798448, 'lng': 0.540426}"
+NQA31,ST PETER's HOSPITAL,St Peter's Hospital,"Guildford Rd, Lyne, Chertsey KT16 0PZ, United Kingdom","{'lat': 51.3769285, 'lng': -0.5287478999999999}"
+NQA34,Halstead Clinic,Halstead Clinic,"78 Hedingham Rd, Halstead CO9 2DL, United Kingdom","{'lat': 51.9482177, 'lng': 0.6378514}"
+NQH09,Novus Health (College Lane Surgery),,,
+NQH25,Novus Health (Sandal Castle Medical Centre) - (NQH25),,,
+NQL01,NAVIGO HQ,NAVIGO Services,"Jaśkowa Dolina 132/25, 80-286 Gdańsk, Poland","{'lat': 54.35822160000001, 'lng': 18.5877953}"
+NQM01,Orthopaedics & Spine Specialist Hospital Site (NQM01),,,
+NQT5H,Paulton Memorial Hospital (NQT5H),,,
+NQT5K,St Martins Hospital (NQT5K),,,
+NR501,PLYMOUTH COMMUNITY HEALTHCARE,Plymouth Community Healthcare (CIC),"Glenbourne Unit/Morlaix Rd, Plymouth PL6 5AF, United Kingdom","{'lat': 50.4155369, 'lng': -4.1179574}"
+NR505,Derriford Hospital Clinic (NR505),,,
+NR510,Lee Mill Unit (NR510),,,
+NR511,Syrena House (NR511),,,
+NR515,Glenbourne (NR515),,,
+NR525,Tavistock Hospital (NR525),,,
+NR526,South Hams (Kingsbridge) Hospital (NR526),,,
+NR527,Mount Gould Hospital (NR527),,,
+NR535,Plym Bridge House (NR535),,,
+NRF04,SOECIC (SOUTHWICK HILL ROAD),,,
+NT202,"NUFFIELD HEALTH, BOURNEMOUTH HOSPITAL",Nuffield Health Bournemouth Hospital,"67 Lansdowne Rd, Bournemouth BH1 1RW, United Kingdom","{'lat': 50.72972, 'lng': -1.8698491}"
+NT204,"NUFFIELD HEALTH, BRENTWOOD HOSPITAL",Nuffield Health Brentwood Hospital,"Shenfield Rd, Shenfield, Brentwood CM15 8EH, United Kingdom","{'lat': 51.6233143, 'lng': 0.3128983}"
+NT205,"NUFFIELD HEALTH, BRIGHTON HOSPITAL",Nuffield Health Brighton Hospital,"Warren Rd, Brighton and Hove, Brighton BN2 6DX, United Kingdom","{'lat': 50.8345752, 'lng': -0.08202469999999999}"
+NT206,"Nuffield Health, Bristol Hospital (Chesterfield) (NT206)",,,
+NT207,"NUFFIELD HEALTH, BRISTOL HOSPITAL (ST MARY's)",,,
+NT209,"NUFFIELD HEALTH, CAMBRIDGE HOSPITAL",Nuffield Health Cambridge Hospital,"4 Trumpington Rd, Cambridge CB2 8AF, United Kingdom","{'lat': 52.190042, 'lng': 0.123963}"
+NT210,"NUFFIELD HEALTH, THE GROSVENOR HOSPITAL, CHESTER","Nuffield Health Chester, The Grosvenor Hospital","The Grosvenor Hospital, Wrexham Rd., Chester CH4 7QP, United Kingdom","{'lat': 53.1762587, 'lng': -2.8952226}"
+NT211,"NUFFIELD HEALTH, CHELTENHAM HOSPITAL",Nuffield Health Cheltenham Hospital,"Hatherley Ln, Cheltenham GL51 6SY, United Kingdom","{'lat': 51.8918523, 'lng': -2.130537}"
+NT212,"NUFFIELD HEALTH, CHICHESTER HOSPITAL",Nuffield Health Chichester Hospital,"78 Broyle Rd, Chichester PO19 6WB, United Kingdom","{'lat': 50.8479518, 'lng': -0.7798396999999999}"
+NT213,"NUFFIELD HEALTH, DERBY HOSPITAL",Nuffield Health Derby Hospital,"Rykneld Rd, Littleover, Derby DE23 4SN, United Kingdom","{'lat': 52.89342329999999, 'lng': -1.5301229}"
+NT214,"NUFFIELD HEALTH, WESSEX HOSPITAL",Nuffield Health Wessex Hospital,"Winchester Rd, Chandler's Ford, Eastleigh SO53 2DW, United Kingdom","{'lat': 50.9971393, 'lng': -1.3585877}"
+NT215,"NUFFIELD HEALTH, EXETER HOSPITAL",Nuffield Health Exeter Hospital,"Wonford Rd, Exeter EX2 4UG, United Kingdom","{'lat': 50.7165346, 'lng': -3.5114829}"
+NT216,"Nuffield Health, Guildford Hospital",Nuffield Health Guildford Hospital,"Stirling Rd, Guildford GU2 7RF, United Kingdom","{'lat': 51.24196209999999, 'lng': -0.6109391}"
+NT218,"NUFFIELD HEALTH, HAYWARDS HEATH HOSPITAL",Nuffield Health Haywards Heath Hospital,"Burrell Rd, Haywards Heath RH16 1UD, United Kingdom","{'lat': 51.0084798, 'lng': -0.1056799}"
+NT219,"NUFFIELD HEALTH, HEREFORD HOSPITAL",Nuffield Health Hereford Hospital,"Venns Ln, Hereford HR1 1DF, United Kingdom","{'lat': 52.0640392, 'lng': -2.699793}"
+NT221,,,,
+NT222,"NUFFIELD HEALTH, IPSWICH HOSPITAL",Nuffield Health Ipswich Hospital,"Foxhall Rd, Ipswich IP4 5SW, United Kingdom","{'lat': 52.04763999999999, 'lng': 1.2288801}"
+NT224,"NUFFIELD HEALTH, WARWICKSHIRE HOSPITAL",Nuffield Health Warwickshire Hospital,"The Chase, Old Milverton Ln, Leamington Spa CV32 6RW, United Kingdom","{'lat': 52.3109128, 'lng': -1.5399286}"
+NT225,"NUFFIELD HEALTH, LEEDS HOSPITAL",Nuffield Health Leeds Hospital,"2 Leighton St, Leeds LS1 3EB, United Kingdom","{'lat': 53.8006706, 'lng': -1.5542767}"
+NT226,"NUFFIELD HEALTH, LEICESTER HOSPITAL",Nuffield Health Leicester Hospital,"Scraptoft Ln, Leicester LE5 1HY, United Kingdom","{'lat': 52.6439096, 'lng': -1.0714132}"
+NT229,"NUFFIELD HEALTH, NEWCASTLE-UPON-TYNE HOSPITAL",Nuffield Health Newcastle-upon-Tyne Hospital,"Clayton Rd, Jesmond, Newcastle upon Tyne NE2 1JP, United Kingdom","{'lat': 54.9866804, 'lng': -1.6052921}"
+NT230,"NUFFIELD HEALTH, NORTH STAFFORDSHIRE HOSPITAL",Nuffield Health North Staffordshire Hospital,"Clayton Rd, Newcastle-under-Lyme, Newcastle ST5 4DB, United Kingdom","{'lat': 52.9874605, 'lng': -2.2232669}"
+NT233,"Nuffield Health, Plymouth Hospital",Nuffield Health Plymouth Hospital,"Derriford Rd, Plymouth PL6 8BG, United Kingdom","{'lat': 50.4185242, 'lng': -4.1145761}"
+NT235,"NUFFIELD HEALTH, SHREWSBURY HOSPITAL",Nuffield Health Shrewsbury Hospital,"Longden Rd, Shrewsbury SY3 9DP, United Kingdom","{'lat': 52.6921282, 'lng': -2.7712632}"
+NT237,"NUFFIELD HEALTH, TEES HOSPITAL",Nuffield Health Tees Hospital,"Junction Rd, Stockton-on-Tees TS20 1PX, United Kingdom","{'lat': 54.5934817, 'lng': -1.3353898}"
+NT238,"NUFFIELD HEALTH, TAUNTON HOSPITAL",Nuffield Health Taunton Hospital,"Staplegrove Elm, Showell Park, Taunton TA2 6AN, United Kingdom","{'lat': 51.0288811, 'lng': -3.1280719}"
+NT239,"NUFFIELD HEALTH, TUNBRIDGE WELLS HOSPITAL",Nuffield Health Tunbridge Wells Hospital,"Kingswood Rd, Tunbridge Wells TN2 4UL, United Kingdom","{'lat': 51.1314199, 'lng': 0.2777976}"
+NT241,"NUFFIELD HEALTH, WOKING HOSPITAL",Nuffield Health Woking Hospital,"Grange Rd, Woking GU21 4BY, United Kingdom","{'lat': 51.3319583, 'lng': -0.561283}"
+NT242,"NUFFIELD HEALTH, WOLVERHAMPTON HOSPITAL",Nuffield Health Wolverhampton Hospital,"Wood Rd, Tettenhall, Wolverhampton WV6 8LE, United Kingdom","{'lat': 52.5936296, 'lng': -2.1713914}"
+NT244,NUFFIELD HOSPITAL OXFORD (THE MANOR),,,
+NT245,"NUFFIELD HEALTH, YORK HOSPITAL",Nuffield Health York Hospital,"Haxby Rd, Clifton, York YO31 8TA, United Kingdom","{'lat': 53.9741463, 'lng': -1.0761393}"
+NT255,The Vale Hospital (NT255),,,
+NT301,Spire South Bank Hospital,Spire South Bank Hospital,"139 Bath Rd, Worcester WR5 3YB, United Kingdom","{'lat': 52.1810456, 'lng': -2.2163741}"
+NT302,Spire Bristol Hospital,Spire Bristol Hospital,"The Glen, Redland Hill, Redland, Bristol BS6 6UT, United Kingdom","{'lat': 51.4721881, 'lng': -2.6148051}"
+NT304,Spire Southampton Hospital,Spire Southampton Hospital,"Chalybeate Cl, Southampton SO16 6UY, United Kingdom","{'lat': 50.9307722, 'lng': -1.432086}"
+NT305,Spire Portsmouth Hospital,Spire Portsmouth Hospital,"Bartons Rd, Havant PO9 5NP, United Kingdom","{'lat': 50.868503, 'lng': -0.9551409999999999}"
+NT308,Spire Gatwick Park Hospital,Spire Gatwick Park Hospital,"Povey Cross Rd, Hookwood, Horley RH6 0BB, United Kingdom","{'lat': 51.167841, 'lng': -0.18338}"
+NT309,Spire Sussex Hospital,Spire Sussex Private GP Surgery,"Spire Sussex Hospital, The Ridge, St Leonards TN37 7RE, United Kingdom","{'lat': 50.8830123, 'lng': 0.5809365}"
+NT30A,Spire Nottingham Hospital (NT30A),,,
+NT310,Spire Tunbridge Wells Hospital,Spire Tunbridge Wells Hospital,"Fordcombe Rd, Fordcombe, Tunbridge Wells TN3 0RD, United Kingdom","{'lat': 51.134127, 'lng': 0.185419}"
+NT312,Spire Alexandra Hospital,Spire Alexandra Hospital,"Impton Ln, Walderslade, Chatham ME5 9PG, United Kingdom","{'lat': 51.3279434, 'lng': 0.5267913}"
+NT313,Spire Wellesley Hospital,Spire Wellesley Hospital,"Eastern Ave, Southend-on-Sea SS2 4XH, United Kingdom","{'lat': 51.5546679, 'lng': 0.7272029}"
+NT314,Spire Roding Hospital,Spire London East Hospital (Formerly Spire Roding Hospital),"Roding Ln S, Woodford, Ilford, Woodford Green IG4 5PZ, United Kingdom","{'lat': 51.5869904, 'lng': 0.0433908}"
+NT315,Spire Bushey Hospital,Spire Bushey Hospital,"Heathbourne Rd, Bushey WD23 1RD, United Kingdom","{'lat': 51.6372502, 'lng': -0.3317396}"
+NT316,Spire Harpenden Hospital,Spire Harpenden Hospital,"Ambrose Ln, Harpenden AL5 4BP, United Kingdom","{'lat': 51.828031, 'lng': -0.360123}"
+NT317,Spire Cambridge Lea Hospital,Spire Cambridge Lea Hospital,"30 New Rd, Impington, Cambridge CB24 9EL, United Kingdom","{'lat': 52.2447053, 'lng': 0.1133034}"
+NT318,Spire Norwich Hospital,Spire Norwich Hospital,"Old Watton Rd, Norwich NR4 7TD, United Kingdom","{'lat': 52.6270609, 'lng': 1.2263779}"
+NT319,Spire Hartswood Hospital,Spire Hartswood Hospital,"Eagle Way, Great Warley, Warley, Brentwood CM13 3LE, United Kingdom","{'lat': 51.600407, 'lng': 0.293131}"
+NT320,Spire Parkway Hospital,Spire Parkway Hospital,"1 Damson Pkwy, Solihull B91 2PP, United Kingdom","{'lat': 52.4212001, 'lng': -1.7626165}"
+NT321,Spire Little Aston Hospital,Spire Little Aston Hospital,"Little Aston Hall Dr, The Royal Town of Sutton Coldfield, Birmingham, Sutton Coldfield B74 3UP, United Kingdom","{'lat': 52.599878, 'lng': -1.875288}"
+NT322,Spire Leicester Hospital,Spire Leicester Hospital,"Gartree Rd, Oadby, Leicester LE2 2FF, United Kingdom","{'lat': 52.61353099999999, 'lng': -1.078217}"
+NT324,Spire Cheshire Hospital,Spire Cheshire Hospital,"Fir Tree Cl, Warrington WA4 4LU, United Kingdom","{'lat': 53.3375418, 'lng': -2.576462}"
+NT325,Spire Murrayfield Hospital,"Spire Murrayfield Hospital, Wirral","Holmwood Dr, Thingwall, Barnston, Wirral CH61 1AU, United Kingdom","{'lat': 53.351795, 'lng': -3.075506}"
+NT327,Spire Manchester Hospital,Spire Manchester Hospital,"170 Barlow Moor Rd, Manchester M20 2AF, United Kingdom","{'lat': 53.4251113, 'lng': -2.2528544}"
+NT332,Spire Leeds Hospital,Spire Leeds Hospital,"Jackson Ave, Roundhay, Leeds LS8 1NT, United Kingdom","{'lat': 53.8322193, 'lng': -1.5144541}"
+NT333,Spire Washington Hospital,Spire Washington Hospital,"Picktree Ln, Rickleton, Washington NE38 9JZ, United Kingdom","{'lat': 54.87937969999999, 'lng': -1.5591265}"
+NT337,Spire Liverpool Hospital,Spire Liverpool Hospital,"57 Greenbank Rd, Liverpool L18 1HQ, United Kingdom","{'lat': 53.3858072, 'lng': -2.9237964}"
+NT338,Spire Yale Hospital (NT338),,,
+NT339,Spire Regency Hospital,Spire Regency Hospital,"West St, Macclesfield SK11 8DW, United Kingdom","{'lat': 53.2607404, 'lng': -2.1374181}"
+NT340,BMI South Cheshire Private Hospital (Spire),,,
+NT343,Spire Thames Valley Hospital,Spire Thames Valley Hospital,"Wexham St, Wexham Street, Slough SL3 6NH, United Kingdom","{'lat': 51.5427574, 'lng': -0.5725601}"
+NT344,Spire Dunedin Hospital,Spire Dunedin Hospital,"16 Bath Rd, Reading RG1 6NS, United Kingdom","{'lat': 51.45045090000001, 'lng': -0.9857982999999999}"
+NT345,Spire Clare Park Hospital,Spire Clare Park Hospital,"Crondall Ln, Farnham GU10 5XX, United Kingdom","{'lat': 51.225036, 'lng': -0.847288}"
+NT346,Spire St Saviours Hospital,Spire St Saviours Hospital,"71-73 Seabrook Rd, Hythe CT21 5BU, United Kingdom","{'lat': 51.07261829999999, 'lng': 1.1076036}"
+NT347,Spire Fylde Coast Hospital,Spire Fylde Coast Hospital,"St Walburgas Rd, Blackpool FY3 8BP, United Kingdom","{'lat': 53.8260853, 'lng': -3.0196397}"
+NT348,Spire Elland Hospital,Spire Elland Hospital,"Elland Ln, Elland HX5 9EB, United Kingdom","{'lat': 53.6888786, 'lng': -1.8288143}"
+NT349,Spire Longlands Consulting Rooms,Spire Dewsbury Clinic,"Longlands Consulting Rooms, Cullingworth St, Staincliffe, Dewsbury WF13 4AN, United Kingdom","{'lat': 53.70470659999999, 'lng': -1.6502132}"
+NT350,Spire Methley Park Hospital,Spire Methley Park Hospital,"Methley Ln, Methley, Leeds LS26 9HG, United Kingdom","{'lat': 53.7403528, 'lng': -1.4233701}"
+NT351,Spire Hull And East Riding Hospital,Spire Hull and East Riding Hospital,"Lowfield Rd, Anlaby, Hull HU10 7AZ, United Kingdom","{'lat': 53.7394151, 'lng': -0.4354081}"
+NT364,SPIRE MONTEFIORE HOSPITAL,The Montefiore Hospital,"2 Montefiore Rd, Brighton and Hove, Hove BN3 1RD, United Kingdom","{'lat': 50.8315022, 'lng': -0.1556607}"
+NT3X3,Spire St Anthony's Hospital (NT3X3),,,
+NT401,BMI - The Alexandra Hospital,The Alexandra Hospital,"Mill Ln, Cheadle SK8 2PX, United Kingdom","{'lat': 53.397048, 'lng': -2.2157493}"
+NT402,BMI - Bath Clinic,BMI Bath Clinic,"BMI Bath Clinic, Claverton Down Rd, Claverton Down, Combe Down, Bath BA2 7BR, UK","{'lat': 51.3641741, 'lng': -2.3325107}"
+NT403,BMI - The Beardwood Hospital,The Beardwood Hospital,"Preston New Rd, Blackburn BB2 7AE, United Kingdom","{'lat': 53.7551, 'lng': -2.5125424}"
+NT404,BMI - The Beaumont Hospital,The Beaumont Hospital,"Old Hall Clough, Chorley New Rd, Lostock, Bolton BL6 4LA, United Kingdom","{'lat': 53.5807605, 'lng': -2.4986393}"
+NT405,BMI - Bishops Wood,Bishops Wood Hospital,"Rickmansworth Rd, Northwood HA6 2JW, United Kingdom","{'lat': 51.6166345, 'lng': -0.4469137}"
+NT406,BMI - The Blackheath Hospital,The Blackheath Hospital,"40-42 Lee Terrace, Blackheath, London SE3 9UD, United Kingdom","{'lat': 51.4635016, 'lng': 0.006594699999999999}"
+NT407,BMI - Chatsworth Suite,Chatsworth Suite,"Holywell Daycare Ward, Chesterfield & North Derbyshire Royal Hospital, Chesterfield Rd, Calow, Chesterfield S44 5BL, United Kingdom","{'lat': 53.2361504, 'lng': -1.400163}"
+NT408,BMI - The Chaucer Hospital,The Chaucer Hospital,"Nackington Rd, Canterbury CT4 7AR, United Kingdom","{'lat': 51.26180429999999, 'lng': 1.0875734}"
+NT409,BMI - Chelsfield Park Hospital,Chelsfield Park Hospital,"Bucks Cross Rd, Chelsfield, Orpington BR6 7RG, United Kingdom","{'lat': 51.3581313, 'lng': 0.1313979}"
+NT410,BMI - The Chiltern Hospital,The Chiltern Hospital,"London Rd, Great Missenden HP16 0EN, United Kingdom","{'lat': 51.6903707, 'lng': -0.6944944}"
+NT411,BMI - The Clementine Churchill Hospital,The Clementine Churchill Hospital,"Sudbury Hill, Harrow HA1 3RX, United Kingdom","{'lat': 51.565073, 'lng': -0.332175}"
+NT412,BMI - The Droitwich Spa Hospital,The Droitwich Spa Hospital,"St Andrews Rd, Droitwich WR9 8DN, United Kingdom","{'lat': 52.2662628, 'lng': -2.150176}"
+NT413,BMI - The Esperance Hospital,BMI The Esperance Hospital,"Esperance House, 1 Hartington Pl, Eastbourne BN21 3BG, United Kingdom","{'lat': 50.7663895, 'lng': 0.2872813}"
+NT414,BMI - Fawkham Manor Hospital,BMI Fawkham Manor Hospital,"Manor Ln, Longfield DA3 8ND, United Kingdom","{'lat': 51.3728587, 'lng': 0.2869361}"
+NT415,BMI - The Foscote Hospital,The New Foscote Hospital,"2 Foscote Rise, Banbury OX16 9XP, United Kingdom","{'lat': 52.05346249999999, 'lng': -1.3310072}"
+NT416,BMI - The Garden Hospital,The Garden Hospital,"46-50 Sunny Gardens Rd, London NW4 1RP, United Kingdom","{'lat': 51.5937279, 'lng': -0.224712}"
+NT417,BMI - Goring Hall Hospital,Goring Hall Hospital,"Bodiam Ave, Goring-by-Sea, Worthing BN12 5AT, United Kingdom","{'lat': 50.8116784, 'lng': -0.4321635}"
+NT418,BMI - The Hampshire Clinic,The Hampshire Clinic,"Basing Rd, Basingstoke RG24 7AL, United Kingdom","{'lat': 51.27020160000001, 'lng': -1.0639003}"
+NT419,BMI - The Harbour Hospital,The Harbour Hospital,"St Mary's Rd, Poole BH15 2BH, United Kingdom","{'lat': 50.7218477, 'lng': -1.9757622}"
+NT420,BMI - The Highfield Hospital,The Highfield Hospital,"Manchester Rd, Rochdale OL11 4LZ, United Kingdom","{'lat': 53.606725, 'lng': -2.1675145}"
+NT421,BMI - The Kings Oak Hospital,The Kings Oak Hospital,"127 The Ridgeway, Enfield EN2 8SD, United Kingdom","{'lat': 51.6677907, 'lng': -0.1055218}"
+NT422,BMI - The London Independent Hospital,The London Independent Hospital,"1 Beaumont Square, London E1 4NL, United Kingdom","{'lat': 51.5203764, 'lng': -0.04654759999999999}"
+NT423,BMI - The Manor Hospital,The Manor Hospital,"Church End, Biddenham, Bedford MK40 4AW, United Kingdom","{'lat': 52.13833140000001, 'lng': -0.5139648}"
+NT424,BMI - The Meriden Hospital,The Meriden Hospital,"University Hospital Site, Clifford Bridge Rd, Coventry CV2 2LQ, United Kingdom","{'lat': 52.4231814, 'lng': -1.4385119}"
+NT425,,,,
+NT427,BMI - The Park Hospital,The Park Hospital,"Burntstump Country Park, Sherwood Lodge Dr, Nottingham NG5 8RX, United Kingdom","{'lat': 53.05025699999999, 'lng': -1.1432861}"
+NT428,BMI - The Princess Margaret Hospital,The Princess Margaret Hospital,"Osborne Rd, Windsor SL4 3SJ, United Kingdom","{'lat': 51.4747183, 'lng': -0.6104866}"
+NT429,BMI - THE PRIORY HOSPITAL,The Priory Hospital,"Priory Rd, Birmingham B5 7UG, United Kingdom","{'lat': 52.45606799999999, 'lng': -1.9127805}"
+NT430,BMI - The Ridgeway Hospital,The Ridgeway Hospital,"Moormead Rd, Wroughton, Swindon SN4 9DD, United Kingdom","{'lat': 51.5252517, 'lng': -1.7864662}"
+NT431,BMI - The Runnymede Hospital,The Runnymede Hospital,"Guildford St, Ottershaw, Lyne, Chertsey KT16 0RQ, United Kingdom","{'lat': 51.3779485, 'lng': -0.5239585}"
+NT432,BMI - The Sandringham Hospital,BMI The Sandringham Hospital,"Gayton Rd, King's Lynn PE30 4HJ, United Kingdom","{'lat': 52.75790019999999, 'lng': 0.4473071}"
+NT433,BMI - Sarum Road Hospital,Sarum Road Hospital,"Sarum Rd, Winchester SO22 5HA, United Kingdom","{'lat': 51.0613489, 'lng': -1.3401972}"
+NT434,BMI - The Saxon Clinic,The Saxon Clinic,"V7 Saxon St, Coffee Hall, Milton Keynes MK6 5LR, United Kingdom","{'lat': 52.0257055, 'lng': -0.7403794}"
+NT435,BMI - The Shelburne Hospital,The Shelburne Hospital,"Queen Alexandra Rd, High Wycombe HP11 2TR, United Kingdom","{'lat': 51.6263259, 'lng': -0.7555912}"
+NT436,BMI - Shirley Oaks Hospital,Shirley Oaks Hospital,"Poppy Ln, Croydon CR9 8AB, United Kingdom","{'lat': 51.3822175, 'lng': -0.05634799999999999}"
+NT437,BMI - The Sloane Hospital,The Sloane Hospital,"125 Albemarle Rd, Beckenham BR3 5HS, United Kingdom","{'lat': 51.4083325, 'lng': -0.0045686}"
+NT438,BMI - The Somerfield Hospital,BMI The Somerfield Hospital,"63-77 London Rd, Maidstone ME16 0DU, United Kingdom","{'lat': 51.27674440000001, 'lng': 0.5076887999999999}"
+NT439,BMI - THE SOUTH CHESHIRE PRIVATE HOSPITAL,Cheshire Fertility & Gynaecology Ltd,"BMI South Cheshire Private Hospital, Middlewich Rd, Crewe CW1 4QP, United Kingdom","{'lat': 53.1190569, 'lng': -2.4787244}"
+NT440,BMI - Thornbury Hospital,Thornbury Hospital,"312 Fulwood Rd, Sheffield S10 3BR, United Kingdom","{'lat': 53.3741721, 'lng': -1.5173953}"
+NT441,BMI - Three Shires Hospital,Three Shires Hospital,"The Avenue, Cliftonville, Northampton NN1 5DR, United Kingdom","{'lat': 52.2360266, 'lng': -0.8744584999999999}"
+NT443,BMI - The Winterbourne Hospital,The Winterbourne Hospital,"Herringston Rd, Dorchester DT1 2DR, United Kingdom","{'lat': 50.70100600000001, 'lng': -2.4420131}"
+NT445,BMI The Edgbaston Hospital,The Edgbaston Hospital,"22 Somerset Rd, Birmingham B15 2QD, United Kingdom","{'lat': 52.45782, 'lng': -1.932901}"
+NT446,BMI ST EDMUNDS HOSPITAL,St Edmunds Hospital,"St Mary's Square, Bury Saint Edmunds IP33 2AA, United Kingdom","{'lat': 52.2401792, 'lng': 0.7190261}"
+NT447,BMI The Duchy Hospital,The Duchy Hospital,"Queen's Road, Harrogate HG2 0HF, United Kingdom","{'lat': 53.987492, 'lng': -1.5478096}"
+NT448,BMI The Huddersfield Hospital,The Huddersfield Hospital,"Birkby Hall Rd, Huddersfield HD2 2BL, United Kingdom","{'lat': 53.6589926, 'lng': -1.8001838}"
+NT449,BMI THE LANCASTER HOSPITAL,The Lancaster Hospital,"Meadowside, Lancaster LA1 3RH, United Kingdom","{'lat': 54.0432764, 'lng': -2.79546}"
+NT450,BMI The Lincoln Hospital,The Lincoln Hospital,"Nettleham Rd, Lincoln LN2 1QU, United Kingdom","{'lat': 53.23843, 'lng': -0.5331096}"
+NT451,BMI THE CAVELL HOSPITAL,The Cavell Hospital,"Cavell Dr, Uplands Park Rd, Enfield EN2 7PR, United Kingdom","{'lat': 51.6590392, 'lng': -0.1007067}"
+NT455,BMI Mount Alvernia Hospital,Mount Alvernia Hospital,"Harvey Rd, Guildford GU1 3LX, United Kingdom","{'lat': 51.23573039999999, 'lng': -0.564307}"
+NT456,BMI THE CASTLE CONSULTING CENTRE,,,
+NT457,BMI Woodlands Hospital,Woodlands Hospital,"Morton Park, Darlington DL1 4PL, United Kingdom","{'lat': 54.52053530000001, 'lng': -1.5045427}"
+NT490,BMI SOUTHEND PRIVATE HOSPITAL,Southend Private Hospital,"15-17 Fairfax Dr, Westcliff-on-Sea, Southend-on-Sea, Westcliff-on-Sea SS0 9AG, United Kingdom","{'lat': 51.5506517, 'lng': 0.7018616999999999}"
+NT495,BMI FITZROY,BMI Fitzroy Square,"14 Fitzroy Square, London W1T 6ED, United Kingdom","{'lat': 51.523511, 'lng': -0.140397}"
+NT497,BMI GISBURNE PARK HOSPITAL,BMI Gisburne Park Hospital,"Park Rd, Clitheroe BB7 4HX, United Kingdom","{'lat': 53.9432619, 'lng': -2.267455}"
+NT501,,,,
+NT502,,,,
+NT503,,,,
+NT506,,,,
+NT507,,,,
+NT602,,,,
+NT603,,,,
+NT604,,,,
+NT701,,,,
+NT702,St Martin's Hospital,St Martin's Hospital,"Midford Rd, Bath BA2 5RP, United Kingdom","{'lat': 51.3578676, 'lng': -2.3709901}"
+NT706,,,,
+NT714,Greater Manchester Surgical Centre,Manchester Surgical Clinic,"170 Barlow Moor Rd, Didsbury, Manchester M20 2AX, United Kingdom","{'lat': 53.4251809, 'lng': -2.2532667}"
+NT718,,,,
+NT719,Rossendale Hospital,Rossendale Primary Health Care Centre,"Bacup Rd, Rossendale BB4 7PL, United Kingdom","{'lat': 53.7008018, 'lng': -2.280567}"
+NT720,,,,
+NT721,,,,
+NT722,St Catherine's General Hospital,St. Catherine Hospital,"Seckbacher Landstraße 65, 60389 Frankfurt am Main, Germany","{'lat': 50.1361103, 'lng': 8.7106798}"
+NT723,Halton District Hospital,Milton District Hospital,"725 Bronte St. S, Milton, ON L9T 9K1, Canada","{'lat': 43.4971482, 'lng': -79.8684981}"
+NT725,Macclesfield Leisure Centre,Macclesfield Leisure Centre,"Priory Ln, Macclesfield SK10 4AF, United Kingdom","{'lat': 53.2675437, 'lng': -2.1615491}"
+NT726,,,,
+NTA01,Eccleshill NHS Treatment Centre,Eccleshill Treatment Centre,"Harrogate Rd, Bradford BD10 0EP, United Kingdom","{'lat': 53.8237834, 'lng': -1.7116882}"
+NTA03,The Midlands NHS Treatment Centre,The Midlands NHS Treatment Centre,"Treatment Centre, Belvedere Rd, Burton upon Trent, Burton-on-Trent DE13 0RB, United Kingdom","{'lat': 52.8163946, 'lng': -1.6545038}"
+NTA04,Nottingham NHS Treatment Centre(Nations Healthcare),,,
+NTC01,Shepton Mallet NHS Treatment Centre,"Practice Plus Group Hospital, Shepton Mallet","Old Wells Rd, Shepton Mallet BA4 4LP, United Kingdom","{'lat': 51.1897096, 'lng': -2.5627326}"
+NTC02,Emersons Green NHS Treatment Centre,"Practice Plus Group Hospital, Emersons Green","The Brooms, Emersons Green, Bristol BS16 7FH, United Kingdom","{'lat': 51.50385869999999, 'lng': -2.482897}"
+NTC03,Devizes NHS Treatment Centre,"Practice Plus Group Surgical Centre, Devizes","Marshall Rd, Devizes SN10 3UF, United Kingdom","{'lat': 51.34095809999999, 'lng': -1.9810749}"
+NTC04,Cirencester NHS Treatment Centre,Cirencester NHS Treatment Centre,"Tetbury Rd, Cirencester GL7 1UY, United Kingdom","{'lat': 51.7125494, 'lng': -1.9760289}"
+NTC05,PENINSULA NHS TREATMENT CENTRE,"Practice Plus Group Hospital, Plymouth","20 Brest Rd, Plymouth PL6 5XP, United Kingdom","{'lat': 50.4125376, 'lng': -4.118632499999999}"
+NTC09,Gloucester Health Access Centre (NTC09),,,
+NTD01,Kidderminster NHS Treatment Centre,Kidderminster Hospital,"Bewdley Rd, Kidderminster DY11 6RJ, United Kingdom","{'lat': 52.3850814, 'lng': -2.2611783}"
+NTD02,The Cheshire & Merseyside NHS Treatment Centre,The Cheshire,"6300 Clayton Rd, Richmond Heights, MO 63117, United States","{'lat': 38.6333277, 'lng': -90.306958}"
+NTE02,ST HUGH's HOSPITAL,St Hugh's Hospital,"Peaks Ln, Grimsby DN32 9RP, United Kingdom","{'lat': 53.5504927, 'lng': -0.0717085}"
+NTE03,Claremont Hospital,Spire Claremont Hospital,"401 Sandygate Rd, Sheffield S10 5UB, United Kingdom","{'lat': 53.37559109999999, 'lng': -1.5351724}"
+NTF01,Abbey Gisburne Park Hospital,BMI Gisburne Park Hospital,"Park Rd, Clitheroe BB7 4HX, United Kingdom","{'lat': 53.9432619, 'lng': -2.267455}"
+NTH01,,,,
+NTH03,,,,
+NTH04,Regency Hospital,Spire Regency Hospital,"West St, Macclesfield SK11 8DW, United Kingdom","{'lat': 53.2607404, 'lng': -2.1374181}"
+NTH05,,,,
+NTH06,,,,
+NTH08,,,,
+NTH09,,,,
+NTH11,,,,
+NTP11,Southampton NHS Treatment Centre,"Practice Plus Group Hospital, Southampton","Level C, Royal South Hants Hospital, Brintons Terrace, Southampton SO14 0YG, United Kingdom","{'lat': 50.912205, 'lng': -1.3960736}"
+NTP13,BARLBOROUGH NHS TREATMENT CENTRE,"Practice Plus Group Hospital, Barlborough","Derbyshire, 2 Lindrick Way, Barlborough, Chesterfield S43 4XE, United Kingdom","{'lat': 53.2820598, 'lng': -1.2830761}"
+NTP14,Mid Kent NHS Treatment Centre,Maidstone and Tunbridge Wells NHS Trust,"Hermitage Ln, Maidstone ME16 9QQ, United Kingdom","{'lat': 51.2744875, 'lng': 0.4855864}"
+NTP15,North East London NHS Treatment Centre,North East London N H S Foundation Trust,"17 Thorne Cl, London E11 4HU, United Kingdom","{'lat': 51.5546474, 'lng': 0.0040715}"
+NTP16,WILL ADAMS NHS TREATMENT CENTRE,"Practice Plus Group Surgical Centre, Gillingham","Beechings Way, Gillingham ME8 6AD, United Kingdom","{'lat': 51.3812819, 'lng': 0.5767605}"
+NTP17,SUSSEX ORTHOPAEDIC NHS TREATMENT CENTRE,Sussex Orthopaedic Treatment Centre,"Haywards Heath RH16 4EY, United Kingdom","{'lat': 50.99128779999999, 'lng': -0.09262859999999999}"
+NTP23,ECCLESHILL NHS TREATMENT CENTRE,Eccleshill Treatment Centre,"Harrogate Rd, Bradford BD10 0EP, United Kingdom","{'lat': 53.8237834, 'lng': -1.7116882}"
+NTP35,The Phoenix Centre,Phoenix Center,"Hannoversche Str. 86, 21079 Hamburg, Germany","{'lat': 53.456217, 'lng': 9.987949799999999}"
+NTPAD,ST MARY's NHS TREATMENT CENTRE,"Practice Plus Group Surgical Centre, St Mary's Portsmouth","Milton Rd, Portsmouth PO3 6DW, United Kingdom","{'lat': 50.799329, 'lng': -1.062018}"
+NTPAE,The Croft Shifa Health Centre,The Croft Shifa Health Centre,"Belfield Rd, Rochdale OL16 2UP, United Kingdom","{'lat': 53.622198, 'lng': -2.1416851}"
+NTPAT,,,,
+NTPC1,Care Uk Head Office,Essex,"Essex, UK","{'lat': 51.57424469999999, 'lng': 0.4856781}"
+NTPH1,Shepton Mallet NHS Treatment Centre (NTPH1),,,
+NTPH2,Emersons Green NHS Treatment Centre (NTPH2),,,
+NTPH3,Devizes NHS Treatent Centre (NTPH3),,,
+NTPH4,Cirencester NHS Treatment Centre (NTPH4),,,
+NTPH5,Peninsula NHS Treatment Centre (NTPH5),,,
+NTPH9,Gloucester Health Access Centre (NTPH9),,,
+NTV01,,,,
+NTV0O,Woking Community Hospital (NTV0O),,,
+NTV0S,Walton Community Hospital (NTV0S),,,
+NTX01,ONE HEALTH GROUP LTD,One Healthcare Group,"Tallis House, 2 Tallis St, London EC4Y 0AB, United Kingdom","{'lat': 51.511703, 'lng': -0.1066003}"
+NTX06,One Health Group Clinic - Osset (NTX06),,,
+NTX09,One Health Group Clinic - Gainsborough (NTX09),,,
+NTX0B,One Health Group - Kinvara Hospital,Kinvara Private Hospital | Orthopaedic Surgery | Cosmetic Surgery | Gynaecology,"2 Clifton Ln, Rotherham S65 2AS, United Kingdom","{'lat': 53.4283365, 'lng': -1.3454997}"
+NTX0I,One Health Group - Trent Cliffs - Scunthorpe,"Trent Cliffs Clinics, Scunthorpe","Meridian House, Scunthorpe DN15 8QZ, United Kingdom","{'lat': 53.60960799999999, 'lng': -0.6540001}"
+NTX0J,One Health Group - Riverside Surgery - Brigg,Riverside Surgery,"Barnard Ave, Brigg DN20 8AS, United Kingdom","{'lat': 53.553969, 'lng': -0.4954084}"
+NTX11,One Health Group Clinic - Thornbury (NTX11),,,
+NTX12,One Health Group Clinic - Claremont (NTX12),,,
+NTX19,Huddersfield Hospital - The One Health Group (NTX19),,,
+NTX24,One Health Group - Doncaster Clinic - (NTX24),,,
+NTX51,One Health Group - Barlborough Treatment Centre (NTX51),,,
+NTY48,Tetbury Hospital,Tetbury Hospital Trust Ltd,"Malmesbury Road, Tetbury GL8 8XB, United Kingdom","{'lat': 51.63519549999999, 'lng': -2.1546415}"
+NTY57,,,,
+NTYE7,,,,
+NTYF1,THE SPENCER WING,Spencer Private Hospital,"Spencer Private Hospital, Ramsgate Rd, Margate CT9 4BG, United Kingdom","{'lat': 51.3772355, 'lng': 1.3879838}"
+NTYH9,Tyneside Surgical Services Ltd,The Peter Smith Surgery Centre,"Queen Elizabeth Hospital, Gateshead NE9 6SX, United Kingdom","{'lat': 54.937537, 'lng': -1.5801825}"
+NV1J5,St Peter's Hospital,St Peter's Hospital,"Guildford Rd, Lyne, Chertsey KT16 0PZ, United Kingdom","{'lat': 51.3769285, 'lng': -0.5287478999999999}"
+NV302,CIRCLE BATH,Bath Circle,"3 Northampton St, Bath BA1 2SN, United Kingdom","{'lat': 51.38840339999999, 'lng': -2.3666321}"
+NV313,Circle-Nottingham NHS Treatment Centre,Nottingham NHS Treatment Centre,"Lister Rd, Lenton, Nottingham NG7 2FT, United Kingdom","{'lat': 52.9427336, 'lng': -1.1826797}"
+NV323,Circle Reading,Circle Reading Hospital,"100 Drake Way, Reading RG2 0NE, United Kingdom","{'lat': 51.4293257, 'lng': -0.9764983}"
+NV7R1,Bupa Cromwell Hospital,Cromwell Hospital,"164-178 Cromwell Rd, London SW5 0TU, United Kingdom","{'lat': 51.4951059, 'lng': -0.1912283}"
+NVC01,Ashtead Hospital,Ashtead Hospital,"The Warren, Ashtead KT21 2SB, United Kingdom","{'lat': 51.304466, 'lng': -0.303313}"
+NVC02,The Berkshire Independent Hospital,Berkshire Independent Hospital,"Swallows Croft, Wensley Rd, Coley Park, Reading RG1 6UZ, United Kingdom","{'lat': 51.444408, 'lng': -0.988281}"
+NVC04,Duchy Hospital,Duchy Hospital,"Penventinnie Ln, Treliske, Truro TR1 3UP, United Kingdom","{'lat': 50.26803229999999, 'lng': -5.0938173}"
+NVC05,Euxton Hall Hospital,Euxton Hall Hospital,"Wigan Rd, Euxton, Chorley PR7 6DY, United Kingdom","{'lat': 53.6608426, 'lng': -2.6762494}"
+NVC06,Fitzwilliam Hospital,Fitzwilliam Hospital,"Milton Way, South Bretton, Peterborough PE3 9AQ, United Kingdom","{'lat': 52.5764702, 'lng': -0.2975268}"
+NVC07,Fulwood Hall Hospital,Fulwood Hospital,"Midgery Ln, Fulwood, Preston PR2 9SZ, United Kingdom","{'lat': 53.786328, 'lng': -2.68356}"
+NVC08,Mount Stuart Hospital,Mount Stuart Hospital,"St Vincent's Rd, Torquay TQ1 4UP, United Kingdom","{'lat': 50.47494, 'lng': -3.5416796}"
+NVC09,New Hall Hospital,New Hall Hospital,"Bodenham, Salisbury SP5 4EW, United Kingdom","{'lat': 51.0326274, 'lng': -1.7635443}"
+NVC0I,Beacon Park Hospital,Beacon Park Hospital,"Beacon Business Park, Brereton Wy, Stafford ST18 0XF, United Kingdom","{'lat': 52.8176784, 'lng': -2.0747021}"
+NVC0M,Ramsay Croydon Day Hospital (NVC0M),,,
+NVC0R,Tees Valley Hospital (NVC0R),,,
+NVC0Y,Exeter Medical,Exeter Medical,"admiral house, Exeter Business Park, Grenadier Rd, Exeter EX1 3QF, United Kingdom","{'lat': 50.7303063, 'lng': -3.4674162}"
+NVC10,,,,
+NVC11,North Downs Hospital,North Downs Hospital,"46 Tupwood Ln, Caterham CR3 6DP, United Kingdom","{'lat': 51.2742673, 'lng': -0.0806337}"
+NVC12,Oaklands Hospital,Oaklands Hospital,"I B H Oaklands Hospital, 19 Lancaster Rd, Salford M6 8AQ, United Kingdom","{'lat': 53.4917369, 'lng': -2.3212151}"
+NVC13,Oaks Hospital,Oaks Hospital,"120 Mile End Rd, Colchester CO4 5XR, United Kingdom","{'lat': 51.9063135, 'lng': 0.8949995}"
+NVC14,Park Hill Hospital,Park Hill Hospital,"Thorne Rd, Doncaster DN2 5TH, United Kingdom","{'lat': 53.5304642, 'lng': -1.1118317}"
+NVC15,Pinehill Hospital,Pinehill Hospital,"Pinehill Hospital, Benslow Ln, Hitchin SG4 9QZ, United Kingdom","{'lat': 51.949562, 'lng': -0.262448}"
+NVC16,Renacres Hospital,Renacres Hospital,"17 Renacres Ln, Halsall, Ormskirk L39 8SE, United Kingdom","{'lat': 53.60092059999999, 'lng': -2.9543846}"
+NVC17,Rowley Hall Hospital,Rowley Hospital,"Rowley Ave, Stafford ST17 9AQ, United Kingdom","{'lat': 52.7949677, 'lng': -2.1264715}"
+NVC18,Springfield Hospital,Springfield Hospital,"Lawn Ln, Springfield, Chelmsford CM1 7GU, United Kingdom","{'lat': 51.753388, 'lng': 0.484683}"
+NVC19,Rivers Hospital,Rivers Hospital,"High Wych Rd, Sawbridgeworth CM21 0HH, United Kingdom","{'lat': 51.8081452, 'lng': 0.1356525}"
+NVC1H,Stourside Hospital,Stourside Hospital,"60 Bradley Rd, Stourbridge DY8 1UX, United Kingdom","{'lat': 52.4604374, 'lng': -2.1528412}"
+NVC20,The Yorkshire Clinic,The Yorkshire Clinic,"Bradford Rd, Bingley BD16 1TW, United Kingdom","{'lat': 53.8324277, 'lng': -1.8182743}"
+NVC21,West Midlands Hospital,West Midlands Hospital,"Colman Hill, Halesowen B63 2AH, United Kingdom","{'lat': 52.4575358, 'lng': -2.0770369}"
+NVC22,Winfield Hospital,Winfield Hospital,"Tewkesbury Rd, Longford, Gloucester GL2 9WH, United Kingdom","{'lat': 51.8805624, 'lng': -2.2413388}"
+NVC23,Woodland Hospital,Woodland Hospital,"Woodland Hospital, Rothwell Rd, Rothwell, Kettering NN16 8XF, United Kingdom","{'lat': 52.412007, 'lng': -0.7680817}"
+NVC24,Bodmin NHS Treatment Centre,Bodmin Treatment Centre,"Boundary Rd, Bodmin PL31 2QT, United Kingdom","{'lat': 50.4682168, 'lng': -4.743069999999999}"
+NVC25,Horton NHS Treatment Centre,The Cherwell Hospital,"Oxford Rd, Banbury OX16 9FG, United Kingdom","{'lat': 52.054052, 'lng': -1.334588}"
+NVC26,Gainsborough NHS Treatment Centre,John Coupland Hospital,"Ropery Rd, Gainsborough DN21 2TS, United Kingdom","{'lat': 53.4118799, 'lng': -0.7847}"
+NVC27,Boston NHS Treatment Centre,Boston West Hospital,"West Business Park, Sleaford Rd, Boston PE21 8EG, United Kingdom","{'lat': 52.9750481, 'lng': -0.0338935}"
+NVC28,Clifton Park NHS Treatment Centre,Clifton Park Hospital Ltd,"Shipton Rd, Rawcliffe, York YO30 5RA, United Kingdom","{'lat': 53.9784342, 'lng': -1.1136217}"
+NVC29,Cobalt NHS Treatment Centre,Cobalt Hospital,"North, 16 The Silverlink North Silverlink, Newcastle upon Tyne NE27 0BY, United Kingdom","{'lat': 55.0279581, 'lng': -1.5108802}"
+NVC31,Blakelands NHS Treatment Centre,Blakelands Hospital,"Smeaton Cl, Blakelands, Milton Keynes MK14 5HR, United Kingdom","{'lat': 52.0740742, 'lng': -0.7434636}"
+NVC33,Gisburne Park NHS Treatment Centre,BMI Gisburne Park Hospital,"Park Rd, Clitheroe BB7 4HX, United Kingdom","{'lat': 53.9432619, 'lng': -2.267455}"
+NVC34,Fylde Coast NHS Treatment Centre,Fylde Coast Medical Services,"88 Whitegate Dr, Blackpool FY3 9DA, United Kingdom","{'lat': 53.815165, 'lng': -3.0358664}"
+NVC35,Tees Valley Treatment Centre,Tees Valley Hospital,"Church Ln, Middlesbrough TS5 7DX, United Kingdom","{'lat': 54.54645, 'lng': -1.2467512}"
+NVC39,Kendal NHS Treatment Centre,Kendal NHS Treatment Centre,"Westmorland General Hospital, Burton Rd, Kendal LA9 7RG, United Kingdom","{'lat': 54.30650139999999, 'lng': -2.7342433}"
+NVC40,Nottingham Woodthorpe Hospital,Woodthorpe Hospital,"748 Mansfield Rd, Woodthorpe, Nottingham NG5 3FZ, United Kingdom","{'lat': 52.9904391, 'lng': -1.1388946}"
+NVC44,THE WESTBOURNE CENTRE,The Westbourne Centre,"53 Church Rd, Birmingham B15 3SJ, United Kingdom","{'lat': 52.46702879999999, 'lng': -1.9225854}"
+NVG01,Fairfield Hospital,Fairfield General Hospital,"Rochdale Old Rd, Bury BL9 7TD, United Kingdom","{'lat': 53.6004438, 'lng': -2.2548069}"
+NVM01,Cobham Day Surgery Hospital (NVM01),,,
+NVM02,Epsom Day Surgery Limited (NVM02),,,
+NVM03,Epsom Day Surgery (Ebbisham Clinics) (NVM03),,,
+NW601,The Princess Grace Hospital - (NW601),,,
+NW602,The Wellington Hospital - (NW602),,,
+NW603,Lister Hospital,Lister Hospital,"Lister Hospital, Coreys Mill Ln, Stevenage SG1 4AB, United Kingdom","{'lat': 51.9243564, 'lng': -0.2128803}"
+NW604,The Portland Hospital For Women & Children,"The Portland Hospital, part of HCA Healthcare UK","205, The Portland Hospital, 209 Great Portland St, London W1W 5AH, United Kingdom","{'lat': 51.5230256, 'lng': -0.1442027}"
+NW605,London Bridge Hospital - (NW605),,,
+NW608,The Harley Street Clinic (Weymouth St),,,
+NW612,HCA - 52 Alderley Road (NW612),,,
+NW616,The Christie Clinic - (NW616),,,
+NW931,CLINICENTA SURGICENTRE,,,
+NWF01,BENENDEN HOSPITAL,Benenden Hospital,"Goddard's Green Road, Cranbrook TN17 4AX, United Kingdom","{'lat': 51.0865545, 'lng': 0.6154622}"
+NWV01,GP Care UK - (NWV01),,,
+NWX11,BICS-Community (NWX11),,,
+NX501,Anglia Community Eye Service Ltd - (NX501),,,
+NX503,Anglia Community Eye Service - New Queen Street Surgery - (NX503),,,
+NX504,Anglia Community Eye Services Fakenham,Anglia Community Eye Service (ACES) Eye Clinic & Cataract Surgery: Fakenham Holt Road,"2 Holt Rd, Fakenham NR21 8BQ, United Kingdom","{'lat': 52.83045610000001, 'lng': 0.8507677}"
+NX507,Anglia Community Eye Service - Thetford Healthy Living Centre,Anglia Community Eye Service (ACES) Eye Clinic & Cataract Surgery: Thetford Healthy Living Centre,"Thetford Healthy Living Centre, Croxton Rd, Thetford IP24 1JD, United Kingdom","{'lat': 52.4202232, 'lng': 0.7481150999999999}"
+NXM01,The Horder Centre - St Johns Road,The Horder Centre,"St John's Rd, Crowborough TN6 1XP, United Kingdom","{'lat': 51.063685, 'lng': 0.142785}"
+NXM04,The Mcindoe Centre - (NXM04),,,
+NXP02,Old Town Surgery (NXP02),,,
+NXP04,Hathaway Medical Centre (NXP04),,,
+NXP08,Hugglescote Surgery (NXP08),,,
+NXP09,Syston Health Centre (NXP09),,,
+NXP13,Middleport Medical Centre (NXP13),,,
+NXP15,Great Western Hospital (Gwh) (NXP15),,,
+NXP16,Berkshire Health - Ihg (NXP16),,,
+NXP17,White Horse Health Centre - Ihg (NXP17),,,
+NXP18,Bhi Parkside (NXP18),,,
+NXP20,Lawn Medical Centre (NXP20),,,
+NXP21,Kingskerswell Health Centre (NXP21),,,
+NXP27,North Cotswolds Hospital (NXP27),,,
+NXP30,,,,
+NXP33,,,,
+NXP37,Aspen Centre (NXP37),,,
+NXP40,Litfield House Medical Centre (NXP40),,,
+NXP41,,,,
+NXP43,Millstream House (NXP43),,,
+NY6,Connect Health Pain Services,Connect Health,"Floor 3, The Light Box, Quorum Business Park, Benton Ln, Newcastle upon Tyne NE12 8EU, United Kingdom","{'lat': 55.01854650000001, 'lng': -1.5841149}"
+NY601,PAIN MANAGEMENT SOLUTIONS (OAKS PARK),,,
+NY60C,Pain Management Solutions - Croft Shifa Health Centre - (NY60C),,,
+NY60M,Pain Management Solutions - Scunthorpe General Hospital - (NY60M),,,
+NY60T,Inhealth Pain Management Solutions - Longfields Court,InHealth Diagnostics Centre Ealing,"96-122 Uxbridge Rd, London W13 8RD, United Kingdom","{'lat': 51.5115353, 'lng': -0.3164362}"
+NY61G,Pain Management Solutions - George Eliot Hospital NHS Trust - (NY61G),,,
+NY61N,"Inhealth Pain Management Solutions - Mobile Unit, Union Street Car Park",Union Street Car Park,"19 Union St, Wells BA5 2PU, United Kingdom","{'lat': 51.2092652, 'lng': -2.6494916}"
+NY62M,Inhealth Pain Management Solutions - Holme Valley Memorial Hospital - (NY62M),,,
+NY631,Pain Management Solutions (Horder Healthcare) - (NY631),,,
+NY65M,Inhealth Pain Management Solutions - Johnson Community Hospital - (NY65M),,,
+NY66M,Inhealth Pain Management Solutions - St Hughes Hospital - (NY66M),,,
+NY677,Pain Management Solutions - Severn Fields Health Village (NY677),,,
+NY67L,Inhealth Pain Management Solutions - Royal Toby - (NY67L),,,
+NY693,Pain Management Solutions - Shrewsbury Sports Village - (NY693),,,
+NY69L,Inhealth Pain Management Solutions - Salop Leisure - (NY69L),,,
+NY6D2,Oasis Health Care (NY6D2),,,
+NY6E8,Pain Management Solutions - Irish World Heritage Centre - (NY6E8),,,
+NY6G8,Pain Management Solutions - Crowborough,The Horder Centre,"St John's Rd, Crowborough TN6 1XP, United Kingdom","{'lat': 51.063685, 'lng': 0.142785}"
+NY6H9,Pain Management Solutions - Euston House,Euston Pain Clinic,"Werrington St, London NW1 1ST, United Kingdom","{'lat': 51.5308988, 'lng': -0.1332058}"
+NYG0A,West Kent Dermatology - Len Valley Practice,The Len Valley Practice,"Groom Way, Lenham, Maidstone ME17 2QF, United Kingdom","{'lat': 51.2374405, 'lng': 0.7234105000000001}"
+NYG0B,Sussex Community Dermatology Service (East Surrey Hospital),,,
+NYG0D,West Kent Dermatology - Thornhills Medical Practice,Thornhills Medical Practice,"Martin Square, Aylesford ME20 6QJ, United Kingdom","{'lat': 51.2994071, 'lng': 0.4408016}"
+NYG0E,West Kent Dermatology - Snodland Medical Practice,Snodland Medical Practice,"Catts Alley, Snodland ME6 5SN, United Kingdom","{'lat': 51.3265379, 'lng': 0.4418981}"
+NYG0F,West Kent Dermatology - Lonsdale Medical Centre,West Kent Dermatology,"51 Chesswood Rd, Worthing BN11 2AA, United Kingdom","{'lat': 50.81945280000001, 'lng': -0.3629392}"
+NYG26,Sussex Community Dermatology Servce (Worthing Skin Clinic),,,
+NYG29,,,,
+NYG30,West Kent Dermatology - Tunbridge Wells Hospital,Dermatology Consulting: Dr Anne Farrell,"6 Frant Rd, Tunbridge Wells TN2 5SE, United Kingdom","{'lat': 51.1247907, 'lng': 0.2587509}"
+NYG31,West Kent Dermatology - Sevenoaks Hospital (NYG31),,,
+NYG32,West Kent Dermatology - Borough Green Medical Practice (NYG32),,,
+NYG39,West Kent Dermatology - Edenbridge & District War Memorial Hospital,Edenbridge and District War Memorial Hospital,"Mill Hill, Edenbridge TN8 5DA, United Kingdom","{'lat': 51.1893007, 'lng': 0.0660292}"
+NYG42,West Kent Dermatology - Amherst Medical Practice,Amherst Medical Practice,"21 St Botolphs Rd, Sevenoaks TN13 3AQ, United Kingdom","{'lat': 51.2771659, 'lng': 0.1866875}"
+NYW01,ASPEN - HOLLY HOUSE HOSPITAL,Nuffield Health The Holly Hospital,"High Rd, Buckhurst Hill IG9 5HX, United Kingdom","{'lat': 51.6244266, 'lng': 0.0320593}"
+NYW02,ASPEN - PARKSIDE HOSPITAL,Nuffield Health Parkside Hospital,"53 Parkside, London SW19 5NX, United Kingdom","{'lat': 51.4357845, 'lng': -0.2238555}"
+NYW03,Aspen - Highgate Hospital,Highgate Private Hospital,"17-19 View Rd, London N6 4DJ, United Kingdom","{'lat': 51.5764997, 'lng': -0.1568464}"
+NYW04,Aspen - Claremont Hospital,Spire Claremont Hospital,"401 Sandygate Rd, Sheffield S10 5UB, United Kingdom","{'lat': 53.37559109999999, 'lng': -1.5351724}"
+NYW17,Aspen Healthcare - Midland Eye (NYW17),,,
+NYW20,Aspen - The Chelmsford (NYW20),,,
+P1B7M,Spamedica Bristol,SpaMedica,"Corum Office Park Crown Way, Corum 2, Warmley, Bristol BS30 8FJ, United Kingdom","{'lat': 51.4576954, 'lng': -2.4758444}"
+P5Y6K,Newmedica - Shrewsbury,Newmedica,"Shrewsbury Business Park, Unit 2 Anchorage Ave, Shrewsbury SY2 6FG, United Kingdom","{'lat': 52.6905593, 'lng': -2.7226054}"
+Q1W6P,Spamedica Watford,SpaMedica,"Ground Floor, St Andrews, The Belfry, Watford WD24 4WH, United Kingdom","{'lat': 51.6672872, 'lng': -0.3889716}"
+Q30,NORTH EAST STRATEGIC HEALTH AUTHORITY,,,
+Q31,NORTH WEST STRATEGIC HEALTH AUTHORITY,North West Coast Strategic Clinical Networks,"Quayside, Greenalls Avenue, Stockton Heath, Warrington WA4 6HL, United Kingdom","{'lat': 53.372327, 'lng': -2.575875}"
+Q32,YORKSHIRE AND THE HUMBER STRATEGIC HEALTH AUTHORITY,Yorkshire & Humber Healthcare Alliance (East),"Media Centre, 21 Savile Mount, Leeds LS7 3HZ, United Kingdom","{'lat': 53.8125048, 'lng': -1.5352186}"
+Q33,EAST MIDLANDS STRATEGIC HEALTH AUTHORITY,,,
+Q34,WEST MIDLANDS STRATEGIC HEALTH AUTHORITY,Heath Lane Hospital,"Heath Ln, West Bromwich B71 2BG, United Kingdom","{'lat': 52.5377768, 'lng': -1.9911905}"
+Q35,EAST OF ENGLAND STRATEGIC HEALTH AUTHORITY,HEEoE Essex Workforce Partnership,"653 The Crescent, Highwoods, Colchester CO4 9YQ, United Kingdom","{'lat': 51.9233229, 'lng': 0.9228310999999999}"
+Q36,LONDON STRATEGIC HEALTH AUTHORITY,myhealthlondon,"3rd Floor, Office of London CCGs, 1 Lower Marsh, London SE1 7NT, United Kingdom","{'lat': 51.5000311, 'lng': -0.1138836}"
+Q37,SOUTH EAST COAST STRATEGIC HEALTH AUTHORITY,,,
+Q38,SOUTH CENTRAL STRATEGIC HEALTH AUTHORITY,South Central Strategic Health Authority,"Newbury Business Park, First Floor, Rivergate House, London Rd, Newbury RG14 2RE, United Kingdom","{'lat': 51.4045077, 'lng': -1.3037147}"
+Q39,SOUTH WEST STRATEGIC HEALTH AUTHORITY,,,
+Q44,"Cheshire, Warrington And Wirral Area Team (Q44)",,,
+Q45,"Durham, Darlington And Tees Area Team (Q45)",,,
+Q46,Greater Manchester Area Team (Q46),,,
+Q47,Lancashire Area Team (Q47),,,
+Q48,Merseyside Area Team (Q48),,,
+Q49,"Cumbria, Northumberland, Tyne And Wear Area Team (Q49)",,,
+Q50,North Yorkshire And Humber Area Team (Q50),,,
+Q51,South Yorkshire And Bassetlaw Area Team (Q51),,,
+Q52,West Yorkshire Area Team (Q52),,,
+Q53,"Arden, Herefordshire And Worcestershire Area Team (Q53)",,,
+Q54,Birmingham And The Black Country Area Team (Q54),,,
+Q55,Derbyshire And Nottinghamshire Area Team (Q55),,,
+Q56,East Anglia Area Team (Q56),,,
+Q57,Essex Area Team (Q57),,,
+Q58,Hertfordshire And The South Midlands Area Team (Q58),,,
+Q59,Leicestershire And Lincolnshire Area Team (Q59),,,
+Q60,Shropshire And Staffordshire Area Team (Q60),,,
+Q64,"Bath, Gloucestershire, Swindon And Wiltshire Area Team (Q64)",,,
+Q65,"Bristol, North Somerset, Somerset And South Gloucestershire Area Team (Q65)",,,
+Q66,"Devon, Cornwall And Isles Of Scilly Area Team (Q66)",,,
+Q67,Kent And Medway Area Team (Q67),,,
+Q68,Surrey And Sussex Area Team (Q68),,,
+Q69,Thames Valley Area Team (Q69),,,
+Q70,Wessex Area Team (Q70),,,
+Q71,London Area Team (Q71),,,
+R0A,Manchester University NHS Foundation Trust (R0A),,,
+R0B,South Tyneside And Sunderland NHS Foundation Trust - (R0B),,,
+R0D,University Hospitals Dorset NHS Foundation Trust,University Hospitals Dorset NHS Foundation Trust,"Longfleet Rd, Poole BH15 2JB, United Kingdom","{'lat': 50.7217372, 'lng': -1.9733804}"
+R1A,WORCESTERSHIRE HEALTH AND CARE NHS TRUST,Herefordshire & Worcestershire Health and Care NHS Trust,"Kings Court, 2, Charles Hastings Way, Worcester WR5 1JR, United Kingdom","{'lat': 52.19248289999999, 'lng': -2.1798262}"
+R1C,SOLENT NHS TRUST,Solent NHS Trust,"HighPoint Venue, Bursledon Rd, Southampton SO19 8BR, United Kingdom","{'lat': 50.9017822, 'lng': -1.3307164}"
+R1D,SHROPSHIRE COMMUNITY HEALTH NHS TRUST,Shropshire Community Health NHS Trust,"William Farr House, Mytton Oak Rd, Shrewsbury SY3 8XL, United Kingdom","{'lat': 52.705863, 'lng': -2.7893884}"
+R1E,STAFFORDSHIRE AND STOKE ON TRENT PARTNERSHIP NHS TRUST,Midlands Partnership NHS Foundation Trust,"Trust Headquarters, Corporation St, Stafford ST16 3SR, United Kingdom","{'lat': 52.8105646, 'lng': -2.1091147}"
+R1F-X,Isle Of Wight NHS Trust,Isle Of Wight NHS Trust,"St. Mary's Hospital, Parkhurst Rd, Newport PO30 5TG, United Kingdom","{'lat': 50.7107555, 'lng': -1.3013418}"
+R1G,Torbay and Southern Devon Health and Care NHS Trust,Torbay and South Devon NHS Foundation Trust,"Lowes Bridge, Torbay Hospital, Torquay TQ2 7AA, United Kingdom","{'lat': 50.4823211, 'lng': -3.5539082}"
+R1G7E,Spamedica Kendal,SpaMedica,"Business Park, Juniper House, Murley Moss, Oxenholme Rd, Kendal LA9 7RL, United Kingdom","{'lat': 54.3113453, 'lng': -2.7337866}"
+R1H,Barts Health NHS Trust,Barts Health NHS Trust,"The Royal Hospital, Whitechapel Rd, London E1 1BB, United Kingdom","{'lat': 51.5178708, 'lng': -0.0588687}"
+R1J,Gloucestershire Care Services NHS Trust (R1J),,,
+R1K,London North West Healthcare NHS Trust (R1K),,,
+R1L,Essex Partnership University NHS Foundation Trust (R1L),,,
+R6E4R,Sussex Community Dermatology Service (Rochester Healthy Living Centre),,,
+R8J1V,Phoenix Hospital Chelmsford,Phoenix Hospital Chelmsford,"Essex Healthcare Park, W Hanningfield Rd, Great Baddow, Chelmsford CM2 8HN, United Kingdom","{'lat': 51.7069608, 'lng': 0.5035791}"
+RA2,Royal Surrey County NHS Foundation Trust,Royal Surrey County Hospital,"Egerton Rd, Guildford GU2 7XX, United Kingdom","{'lat': 51.2411243, 'lng': -0.6085178}"
+RA3,Weston Area Health NHS Trust,Weston Area Health Trust,"Grange Rd, Uphill, Weston-super-Mare BS23 4TQ, United Kingdom","{'lat': 51.3223695, 'lng': -2.9726142}"
+RA4,Yeovil District Hospital NHS Foundation Trust,Yeovil Hospital,"Higher Kingston, Yeovil BA21 4AT, United Kingdom","{'lat': 50.9447524, 'lng': -2.6343106}"
+RA7,University Hospitals Bristol NHS Foundation Trust,University Hospitals Bristol and Weston,"Trust Headquarters, Marlborough St, Bristol BS1 3NU, United Kingdom","{'lat': 51.45905759999999, 'lng': -2.5958668}"
+RA9,South Devon Healthcare NHS Foundation Trust,Torbay and South Devon NHS Foundation Trust,"Lowes Bridge, Torbay Hospital, Torquay TQ2 7AA, United Kingdom","{'lat': 50.4823211, 'lng': -3.5539082}"
+RAE,Bradford Teaching Hospitals NHS Foundation Trust,Bradford Teaching Hospitals NHS Foundation Trust,"Duckworth Ln, Bradford BD9 6RJ, United Kingdom","{'lat': 53.8060988, 'lng': -1.7956253}"
+RAJ,Southend University Hospital NHS Foundation Trust,"Southend University Hospital, Mid and South Essex NHS Foundation Trust","Prittlewell Chase, Westcliff-on-Sea, Southend-on-Sea, Westcliff-on-Sea SS0 0RY, United Kingdom","{'lat': 51.5538593, 'lng': 0.6877327999999999}"
+RAL,Royal Free Hampstead NHS Trust,Royal Free London NHS Foundation Trust,"Pond Street, Rosslyn Hill, London NW3 2QG, United Kingdom","{'lat': 51.5530811, 'lng': -0.1654128}"
+RAN,Royal National Orthopaedic Hospital NHS Trust,Royal National Orthopaedic Hospital,"Brockley Hill, Stanmore HA7 4LP, United Kingdom","{'lat': 51.6316725, 'lng': -0.3112289}"
+RAP,North Middlesex University Hospital NHS Trust,North Middlesex University Hospital,"Sterling Way, London N18 1QX, United Kingdom","{'lat': 51.6131618, 'lng': -0.0735832}"
+RAS,The Hillingdon Hospital NHS Trust,Hillingdon Hospital,"Pield Heath Rd, Uxbridge UB8 3NN, United Kingdom","{'lat': 51.5252078, 'lng': -0.4612385}"
+RAT,North East London NHS Foundation Trust,North East London NHS Foundation Trust,"CEME Innovation Centre, 1 Marsh Wy, Dagenham, Rainham RM13 8EU, United Kingdom","{'lat': 51.5186771, 'lng': 0.1698022}"
+RAX,Kingston Hospital NHS Trust,Kingston Hospital,"Galsworthy Rd, Kingston upon Thames KT2 7QB, United Kingdom","{'lat': 51.4148229, 'lng': -0.2824061}"
+RBA,Taunton And Somerset NHS Foundation Trust,Somerset NHS Foundation Trust,"Musgrove Park Hospital, Parkfield Dr, Taunton TA1 5DA, United Kingdom","{'lat': 51.0119619, 'lng': -3.1196494}"
+RBB,Royal National Hospital For Rheumatic Diseases NHS Foundation Trust,Royal National Hospital For Rheumatic Diseases,"Combe Park, Bath BA1 3NG, United Kingdom","{'lat': 51.3911652, 'lng': -2.3898874}"
+RBD,Dorset County Hospital NHS Foundation Trust,Dorset County Hospital NHS Foundation Trust,"DCH Trust HQ, Williams Ave, Dorchester DT1 2JY, United Kingdom","{'lat': 50.7131408, 'lng': -2.4491302}"
+RBF,Nuffield Orthopaedic Centre NHS Trust,Nuffield Orthopaedic Centre,"Nuffield Orthopaedic Centre, Windmill Rd, Oxford OX3 7LD, United Kingdom","{'lat': 51.7539258, 'lng': -1.2088683}"
+RBF-X,,,,
+RBK,Walsall Hospitals NHS Trust,Walsall Manor Hospital,"Moat Rd, Walsall WS2 9PS, United Kingdom","{'lat': 52.5829306, 'lng': -1.9986992}"
+RBL,Wirral University Teaching Hospital NHS Foundation Trust,Wirral University Teaching Hospital NHS Foundation Trust (WUTH).,"Arrowe Park Hospital, Arrowe Park Rd, Birkenhead, Wirral CH49 5PE, United Kingdom","{'lat': 53.3690502, 'lng': -3.0955279}"
+RBN,St Helens And Knowsley Hospitals NHS Trust,St Helens and Knowsley Teaching Hospitals NHS Trust,"Warrington Rd, Rainhill, Prescot L35 5DR, United Kingdom","{'lat': 53.4210812, 'lng': -2.785653}"
+RBQ,Liverpool Heart And Chest NHS Foundation Trust,Liverpool Heart and Chest Hospital,"Thomas Dr, Liverpool L14 3PE, United Kingdom","{'lat': 53.4103562, 'lng': -2.8994203}"
+RBS,Alder Hey Children's NHS Foundation Trust,Alder Hey Children's Hospital,"E Prescot Rd., Liverpool L14 5AB, United Kingdom","{'lat': 53.4182748, 'lng': -2.8960327}"
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,Mid Cheshire Hospitals Charity,"Middlewich Rd, Crewe CW1 4QJ, United Kingdom","{'lat': 53.1181539, 'lng': -2.4760641}"
+RBV,The Christie NHS Foundation Trust,The Christie NHS Foundation Trust,"Wilmslow Rd, Manchester M20 4BX, United Kingdom","{'lat': 53.4295649, 'lng': -2.228165}"
+RBZ,Northern Devon Healthcare NHS Trust,North Devon District Hospital,"Raleigh Heights, Barnstaple EX31 4JB, United Kingdom","{'lat': 51.09216869999999, 'lng': -4.0504313}"
+RC1,Bedford Hospital NHS Trust,Bedford Hospital South Wing,"South Wing, Kempston Rd, Bedford MK42 9DJ, United Kingdom","{'lat': 52.1286223, 'lng': -0.4712114}"
+RC3,Ealing Hospital NHS Trust,Ealing Hospital,"601 Uxbridge Rd, Southall UB1 3HW, United Kingdom","{'lat': 51.5075205, 'lng': -0.3465216}"
+RC9,Luton And Dunstable Hospital NHS Foundation Trust,Luton & Dunstable University Hospital,"NHS Foundation Trust, The L&D Hospital, Lewsey Rd, Luton LU4 0DZ, United Kingdom","{'lat': 51.8947933, 'lng': -0.4746371}"
+RCB,York Hospitals NHS Foundation Trust,York Hospital,"Wigginton Rd, Clifton, York YO31 8HE, United Kingdom","{'lat': 53.9699817, 'lng': -1.083555}"
+RCC,Scarborough And North East Yorkshire Health Care NHS Trust,Scarborough General Hospital,"Woodlands Dr, Scarborough YO12 6QL, United Kingdom","{'lat': 54.2815045, 'lng': -0.4373861}"
+RCD,Harrogate And District NHS Foundation Trust,Harrogate District Hospital,"Lancaster Park Rd, Harrogate HG2 7SX, United Kingdom","{'lat': 53.9937105, 'lng': -1.5175624}"
+RCF,Airedale NHS Trust,Airedale General Hospital,"Skipton Rd, Steeton, Keighley BD20 6TD, United Kingdom","{'lat': 53.89774389999999, 'lng': -1.964165}"
+RCU,Sheffield Children's NHS Foundation Trust,Sheffield Children's NHS Foundation Trust,"Clarkson St, Broomhall, Sheffield S10 2TH, United Kingdom","{'lat': 53.3804284, 'lng': -1.4895067}"
+RCX,The Queen Elizabeth Hospital King's Lynn NHS Trust,The Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,"Gayton Rd, King's Lynn PE30 4ET, United Kingdom","{'lat': 52.7566152, 'lng': 0.446967}"
+RD1,Royal United Hospital Bath NHS Trust,Royal United Hospital Emergency Department,"Combe Park, Bath BA1 3NG, United Kingdom","{'lat': 51.3904414, 'lng': -2.3907348}"
+RD3,Poole Hospital NHS Foundation Trust,Poole Hospital,"Longfleet Rd, Poole BH15 2JB, United Kingdom","{'lat': 50.7213539, 'lng': -1.9737649}"
+RD7,Heatherwood And Wexham Park Hospitals NHS Foundation Trust,Wexham Park Hospital,"Wexham St, Slough SL2 4HL, United Kingdom","{'lat': 51.5319913, 'lng': -0.5741951}"
+RD8,Milton Keynes Hospital NHS Foundation Trust,Milton Keynes University Hospital,"Standing Wy, Eaglestone, Milton Keynes MK6 5LD, United Kingdom","{'lat': 52.0262816, 'lng': -0.7374997}"
+RDD,Basildon And Thurrock University Hospitals NHS Foundation Trust,Basildon University Hospital,"Nether Mayne, Basildon SS16 5NL, United Kingdom","{'lat': 51.558001, 'lng': 0.4518517}"
+RDE,Colchester Hospital University NHS Foundation Trust,Colchester Hospital,"Turner Rd, Colchester CO4 5JL, United Kingdom","{'lat': 51.9098567, 'lng': 0.8988999000000001}"
+RDR,SUSSEX COMMUNITY NHS TRUST,Sussex Community NHS Trust,"Elm Grove, Brighton BN2 3EW, United Kingdom","{'lat': 50.8312768, 'lng': -0.114759}"
+RDU,Frimley Park Hospital NHS Foundation Trust,Frimley Park Hospital,"Portsmouth Rd, Frimley, Camberley GU16 7UJ, United Kingdom","{'lat': 51.319766, 'lng': -0.7420871}"
+RDY,Dorset Healthcare NHS Foundation Trust,Dorset HealthCare NHS Trust,"Sentinel House, 4-6 Nuffield Rd, Nuffield Industrial Estate, Poole BH17 0RB, United Kingdom","{'lat': 50.739208, 'lng': -1.978934}"
+RDZ,The Royal Bournemouth And Christchurch Hospitals NHS Foundation Trust,Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust : Pathology,"Castle Ln E, Bournemouth BH7 7DW, United Kingdom","{'lat': 50.7480032, 'lng': -1.823434}"
+RE9,South Tyneside NHS Foundation Trust,South Tyneside District Hospital,"Harton Ln, South Shields NE34 0PL, United Kingdom","{'lat': 54.9714091, 'lng': -1.4277704}"
+REF,Royal Cornwall Hospitals NHS Trust,Royal Cornwall Hospital,"Treliske, Truro TR1 3LJ, United Kingdom","{'lat': 50.2662301, 'lng': -5.0922396}"
+REF-X,ROYAL CORNWALL HOSPITALS NHS TRUST,Royal Cornwall Hospital,"Treliske, Truro TR1 3LJ, United Kingdom","{'lat': 50.2662301, 'lng': -5.0922396}"
+REM,Aintree University Hospitals NHS Foundation Trust,Aintree University Hospital,"Lower Ln, Fazakerley, Liverpool L9 7AL, United Kingdom","{'lat': 53.46568019999999, 'lng': -2.933433}"
+REN,Clatterbridge Centre For Oncology NHS Foundation Trust,Clatterbridge Cancer Centre - Wirral,"Clatterbridge Rd, Birkenhead, Wirral CH63 4JY, United Kingdom","{'lat': 53.3318805, 'lng': -3.0283774}"
+REP,Liverpool Women's NHS Foundation Trust,Liverpool Women's Hospital,"Crown St, Liverpool L8 7SS, United Kingdom","{'lat': 53.398919, 'lng': -2.959683}"
+RET,The Walton Centre NHS Foundation Trust,The Walton Centre,"Lower Ln, Fazakerley, Liverpool L9 7LJ, United Kingdom","{'lat': 53.46643520000001, 'lng': -2.9308819}"
+RF4,"Barking, Havering And Redbridge University Hospitals NHS Trust","Barking, Havering And Redbridge University Hospitals Nhs Trust","4 Lyon Rd, Romford RM1 2BA, United Kingdom","{'lat': 51.5685497, 'lng': 0.1832033}"
+RFF,Barnsley Hospital NHS Foundation Trust,Barnsley Hospital,"Gawber Rd, Barnsley S75 2EP, United Kingdom","{'lat': 53.5585348, 'lng': -1.4992344}"
+RFR,The Rotherham NHS Foundation Trust,Rotherham General Hospital,"Moorgate Rd, Rotherham S60 2UD, United Kingdom","{'lat': 53.4137464, 'lng': -1.3442701}"
+RFS,Chesterfield Royal Hospital NHS Foundation Trust,Chesterfield Royal Hospital,"Chesterfield Rd, Calow, Chesterfield S44 5BL, United Kingdom","{'lat': 53.2363353, 'lng': -1.3979725}"
+RFW,West Middlesex University Hospital NHS Trust,West Middlesex University Hospital,"Twickenham Rd, Isleworth TW7 6AF, United Kingdom","{'lat': 51.4734184, 'lng': -0.3244425}"
+RG2,,,,
+RG3,,,,
+RGC,Whipps Cross University Hospital NHS Trust,Whipps Cross University Hospital,"Whipps Cross Rd, London E11 1NR, United Kingdom","{'lat': 51.5778196, 'lng': 0.0032545}"
+RGD,Leeds Partnerships NHS Foundation Trust,Leeds and York Partnership NHS Foundation Trust - St Mary’s House,"St Marys Rd, Leeds LS7 3JX, United Kingdom","{'lat': 53.8206515, 'lng': -1.5365873}"
+RGM,Papworth Hospital NHS Foundation Trust,Royal Papworth Hospital,"Papworth Rd, Trumpington, Cambridge CB2 0AY, United Kingdom","{'lat': 52.173422, 'lng': 0.1358797}"
+RGN,Peterborough And Stamford Hospitals NHS Foundation Trust,Stamford and Rutland Hospital,"Ryhall Rd, Stamford PE9 1UA, United Kingdom","{'lat': 52.656112, 'lng': -0.467034}"
+RGP,James Paget University Hospitals NHS Foundation Trust,James Paget University Hospitals NHS Foundation Trust,"Lowestoft Road Gorleston-on-Sea, Great Yarmouth NR31 6LA, United Kingdom","{'lat': 52.5618807, 'lng': 1.715514}"
+RGQ,Ipswich Hospital NHS Trust,Ipswich Hospital,"Heath Rd, Ipswich IP4 5PD, United Kingdom","{'lat': 52.0579338, 'lng': 1.1980849}"
+RGR,West Suffolk Hospitals NHS Trust,West Suffolk Hospital,"Hardwick Ln, Bury St Edmunds, Bury Saint Edmunds IP33 2QZ, United Kingdom","{'lat': 52.2313048, 'lng': 0.7077353}"
+RGT,Cambridge University Hospitals NHS Foundation Trust,Cambridge University Hospitals,"Hills Rd, Cambridge CB2 0QQ, United Kingdom","{'lat': 52.1743086, 'lng': 0.1408857}"
+RGZ,,,,
+RH5,Somerset Partnership NHS Foundation Trust,Somerset NHS Foundation Trust,"Mallard Ct, Bridgwater TA6 4RN, United Kingdom","{'lat': 51.1453971, 'lng': -2.9923431}"
+RH8,Royal Devon And Exeter NHS Foundation Trust,Royal Devon and Exeter Hospital,"Barrack Rd, Exeter EX2 5DW, United Kingdom","{'lat': 50.7169427, 'lng': -3.5064273}"
+RHA,Nottinghamshire Healthcare NHS Trust,Nottinghamshire Healthcare NHS Foundation Trust,"Duncan MacMillan House, Porchester Rd., Mapperley, Nottingham NG3 6AA, United Kingdom","{'lat': 52.9793569, 'lng': -1.1262896}"
+RHM,Southampton University Hospitals NHS Trust,Southampton General Hospital,"Tremona Rd, Southampton SO16 6YD, United Kingdom","{'lat': 50.9331825, 'lng': -1.4344979}"
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Sheffield Teaching Hospitals NHS Foundation Trust,"Royal Hallamshire Hospital, Broomhill, Glossop Rd, Sheffield S10 2JF, United Kingdom","{'lat': 53.379171, 'lng': -1.4923035}"
+RHU,Portsmouth Hospitals NHS Trust,Queen Alexandra Hospital,"Cosham, Portsmouth PO6 3LY, United Kingdom","{'lat': 50.8497257, 'lng': -1.0705618}"
+RHW,Royal Berkshire NHS Foundation Trust,Royal Berkshire Hospital,"London Rd, Reading RG1 5AN, United Kingdom","{'lat': 51.4492924, 'lng': -0.9581843999999999}"
+RHX,Oxfordshire Learning Disability NHS Trust,Oxfordshire Learning Disability NHS Trust (Ridgeway Partnership),"Slade House, Horspath Driftway, Headington, Oxford OX3 7JH, United Kingdom","{'lat': 51.7434532, 'lng': -1.1986785}"
+RJ1,Guy's And St Thomas' NHS Foundation Trust,Guy's and St Thomas' NHS Foundation Trust,"St Thomas' Hospital, Westminster Bridge Rd, London SE1 7EH, United Kingdom","{'lat': 51.5001076, 'lng': -0.1182398}"
+RJ1-X,GUY's AND ST THOMAS' NHS FOUNDATION TRUST,Guy's and St Thomas' NHS Foundation Trust,"St Thomas' Hospital, Westminster Bridge Rd, London SE1 7EH, United Kingdom","{'lat': 51.5001076, 'lng': -0.1182398}"
+RJ2,The Lewisham Hospital NHS Trust,University Hospital Lewisham,"Lewisham High St, London SE13 6LH, United Kingdom","{'lat': 51.4538715, 'lng': -0.0173012}"
+RJ6,Mayday Healthcare NHS Trust,Croydon University Hospital,"530 London Rd, Thornton Heath CR7 7YE, United Kingdom","{'lat': 51.3899222, 'lng': -0.1102979}"
+RJ7,St George's Healthcare NHS Trust,St George's Hospital,"Blackshaw Rd, London SW17 0QT, United Kingdom","{'lat': 51.42656299999999, 'lng': -0.1752284}"
+RJ8,Cornwall Partnership NHS Foundation Trust,Cornwall Partnership NHS Foundation Trust,"Carew House, Beacon Technology Park, Dunmere Rd, Bodmin PL31 2QN, United Kingdom","{'lat': 50.4695542, 'lng': -4.738727799999999}"
+RJC,South Warwickshire NHS Foundation Trust,South Warwickshire Foundation Trust,"School Rd, Bulkington, Bedworth CV12 9JB, United Kingdom","{'lat': 52.47627749999999, 'lng': -1.4227332}"
+RJD,Mid Staffordshire NHS Foundation Trust,Midlands Partnership NHS Foundation Trust,"Trust Headquarters, Corporation St, Stafford ST16 3SR, United Kingdom","{'lat': 52.8105646, 'lng': -2.1091147}"
+RJD-X,MID STAFFORDSHIRE NHS FOUNDATION TRUST,Midlands Partnership NHS Foundation Trust,"Trust Headquarters, Corporation St, Stafford ST16 3SR, United Kingdom","{'lat': 52.8105646, 'lng': -2.1091147}"
+RJDTC,Cannock Chase Treatment Centre,Cannock Chase Hospital,"Brunswick Rd, Cannock WS11 5XY, United Kingdom","{'lat': 52.6936376, 'lng': -2.0300765}"
+RJE,University Hospital Of North Staffordshire NHS Trust,Royal Stoke University Hospital,"Newcastle Rd, Stoke-on-Trent ST4 6QG, United Kingdom","{'lat': 53.0040138, 'lng': -2.2121017}"
+RJF,Burton Hospitals NHS Foundation Trust,Queens Hospital,"Belvedere Rd, Burton-on-Trent DE13 0RB, United Kingdom","{'lat': 52.8186786, 'lng': -1.6573514}"
+RJL,Northern Lincolnshire And Goole Hospitals NHS Foundation Trust,Northern Lincolnshire and Goole NHS Foundation Trust,"Scunthorpe General Hospital, Cliff Gardens, Scunthorpe DN15 7BH, United Kingdom","{'lat': 53.587458, 'lng': -0.6669379999999999}"
+RJL-X,NORTHERN LINCOLNSHIRE AND GOOLE HOSPITALS NHS FOUNDATION TRUST,Northern Lincolnshire and Goole NHS Foundation Trust,"Scunthorpe General Hospital, Cliff Gardens, Scunthorpe DN15 7BH, United Kingdom","{'lat': 53.587458, 'lng': -0.6669379999999999}"
+RJN,East Cheshire NHS Trust,East Cheshire NHS Trust,"Victoria Rd, Macclesfield SK10 3BL, United Kingdom","{'lat': 53.2633023, 'lng': -2.1393797}"
+RJR,Countess Of Chester Hospital NHS Foundation Trust,Countess of Chester Hospital NHS Foundation Trust,"The Countess Of Chester Health Park, Liverpool Rd, Chester CH2 1UL, United Kingdom","{'lat': 53.2098063, 'lng': -2.8972333}"
+RJX,Calderstones Partnership NHS Foundation Trust,Merseycare Whalley,"Mitton Rd, Whalley, Clitheroe BB7 9PE, United Kingdom","{'lat': 53.8295744, 'lng': -2.4237503}"
+RJZ,King's College Hospital NHS Foundation Trust,King's College Hospital,"Denmark Hill, London SE5 9RS, United Kingdom","{'lat': 51.4679138, 'lng': -0.0937394}"
+RK5,Sherwood Forest Hospitals NHS Foundation Trust,Sherwood Forest Hospitals Trust,"Sutton Rd, Stockwell Gate, Nottingham, Mansfield NG18 5QE, United Kingdom","{'lat': 53.1419209, 'lng': -1.2067011}"
+RK9,Plymouth Hospitals NHS Trust,Derriford Hospital,"Derriford Rd, Plymouth PL6 8DH, United Kingdom","{'lat': 50.4166098, 'lng': -4.1157411}"
+RKB,University Hospitals Coventry And Warwickshire NHS Trust,University Hospital Coventry & Warwickshire,"Clifford Bridge Rd, Coventry CV2 2DX, United Kingdom","{'lat': 52.4207433, 'lng': -1.4369854}"
+RKE,The Whittington Hospital NHS Trust,Whittington Hospital,"Magdala Ave, London N19 5NF, United Kingdom","{'lat': 51.5665993, 'lng': -0.1398534}"
+RKL,West London Mental Health NHS Trust,West London NHS Trust,"1 Armstrong Way, Southall UB2 4SD, United Kingdom","{'lat': 51.5051438, 'lng': -0.3572665}"
+RL1,Robert Jones And Agnes Hunt Orthopaedic And District Hospital NHS Trust,The Robert Jones and Agnes Hunt Orthopaedic Hospital,"Gobowen, Oswestry SY10 7AG, United Kingdom","{'lat': 52.88446709999999, 'lng': -3.0335905}"
+RL4,The Royal Wolverhampton Hospitals NHS Trust,The Royal Wolverhampton NHS Trust,"12, Corporate Services Centre, New Cross Hospital, Wolverhampton WV10 0QP, United Kingdom","{'lat': 52.5982537, 'lng': -2.0948152}"
+RLN,City Hospitals Sunderland NHS Foundation Trust,Sunderland Royal Hospital,"Kayll Rd, Sunderland SR4 7TP, United Kingdom","{'lat': 54.9028353, 'lng': -1.4088562}"
+RLQ,Hereford Hospitals NHS Trust,Hereford County Hospital,"Stonebow Rd, Hereford HR1 2ER, United Kingdom","{'lat': 52.0571687, 'lng': -2.7062187}"
+RLT,George Eliot Hospital NHS Trust,The George Eliot Hospital N H S Trust,"The George Eliot Hospital N H S Trust, College St, Nuneaton CV10 7DJ, UK","{'lat': 52.5120604, 'lng': -1.4752279}"
+RLU,Birmingham Women's NHS Foundation Trust,Birmingham Women's Hospital,"Mindelsohn Way, Birmingham B15 2TG, United Kingdom","{'lat': 52.4532916, 'lng': -1.9429358}"
+RLY,North Staffordshire Combined Healthcare NHS Trust,North Staffordshire Combined Healthcare Nhs Trust,"Bellringer Rd, Stoke-on-Trent ST4 8HH, United Kingdom","{'lat': 52.9683755, 'lng': -2.167723}"
+RM1,Norfolk And Norwich University Hospitals NHS Foundation Trust,Norfolk and Norwich University Hospital,"Colney Ln, Norwich NR4 7UY, United Kingdom","{'lat': 52.61722409999999, 'lng': 1.2201538}"
+RM2,University Hospital Of South Manchester NHS Foundation Trust,University Hospital of South Manchester,"Diabetics Centre Wythenshawe, Manchester M23 9LT, United Kingdom","{'lat': 53.38883209999999, 'lng': -2.293175}"
+RM3,Salford Royal NHS Foundation Trust,Salford Royal,"Stott Ln, Salford M6 8HD, United Kingdom","{'lat': 53.486262, 'lng': -2.3221293}"
+RM4,Trafford Healthcare NHS Trust,Trafford General Hospital,"Moorside Road, Davyhulme, Manchester M41 5SL, United Kingdom","{'lat': 53.4537091, 'lng': -2.3705671}"
+RMC,Royal Bolton Hospital NHS Foundation Trust,Royal Bolton NHS Foundation Trust,"Minerva Rd, Farnworth, Bolton BL4 0JR, United Kingdom","{'lat': 53.553957, 'lng': -2.4293938}"
+RMP,Tameside Hospital NHS Foundation Trust,Tameside and Glossop Integrated Care NHS Foundation Trust,"Fountain St, Ashton-under-Lyne OL6 9RW, United Kingdom","{'lat': 53.4931868, 'lng': -2.070666}"
+RMY,Norfolk And Waveney Mental Health NHS Foundation Trust,Norfolk and Waveney Mental Health Foundation Trust,"333 Drayton High Rd, Norwich NR4 3FU, United Kingdom","{'lat': 52.6596451, 'lng': 1.2511579}"
+RMY-X,NORFOLK AND SUFFOLK NHS FOUNDATION TRUST,Norfolk and Suffolk NHS Foundation Trust,"Drayton High Rd, Norwich NR6 5BE, United Kingdom","{'lat': 52.6595275, 'lng': 1.2509314}"
+RN1,Winchester And Eastleigh Healthcare NHS Trust,Winchester & Eastleigh Healthcare Nhs Trust,"Romsey Rd, Winchester SO22 5DG, United Kingdom","{'lat': 51.0594993, 'lng': -1.3378925}"
+RN1-X,,,,
+RN3,Great Western Hospitals NHS Foundation Trust,Great Western Hospital,"Marlborough Rd, Swindon SN3 6BB, United Kingdom","{'lat': 51.5386277, 'lng': -1.727874}"
+RN5,Basingstoke And North Hampshire NHS Foundation Trust,Basingstoke and North Hampshire Hospital,"Aldermaston Rd, Basingstoke RG24 9NA, United Kingdom","{'lat': 51.2802038, 'lng': -1.1110703}"
+RN5-X,HAMPSHIRE HOSPITALS NHS FOUNDATION TRUST,Basingstoke and North Hampshire Hospital,"Aldermaston Rd, Basingstoke RG24 9NA, United Kingdom","{'lat': 51.2802038, 'lng': -1.1110703}"
+RN5T1,North Hampshire Hospitals NHS Trust Treatment Centre,Basingstoke and North Hampshire Hospital,"Aldermaston Rd, Basingstoke RG24 9NA, United Kingdom","{'lat': 51.2802038, 'lng': -1.1110703}"
+RN7,Dartford And Gravesham NHS Trust,Darent Valley Hospital,"Darenth Wood Rd, Dartford DA2 8DA, United Kingdom","{'lat': 51.4353592, 'lng': 0.2586714}"
+RN7-X,DARTFORD AND GRAVESHAM NHS TRUST,Darent Valley Hospital,"Darenth Wood Rd, Dartford DA2 8DA, United Kingdom","{'lat': 51.4353592, 'lng': 0.2586714}"
+RNA,The Dudley Group Of Hospitals NHS Foundation Trust,Dudley Group NHS Foundation Trust,"Dudley DY1 2HQ, United Kingdom","{'lat': 52.5023154, 'lng': -2.1186984}"
+RNH,Newham University Hospital NHS Trust,Newham University Hospital,"Glen Rd, London E13 8SL, United Kingdom","{'lat': 51.522456, 'lng': 0.0371907}"
+RNJ,Barts And The London NHS Trust,Barts Health NHS Trust,"The Royal Hospital, Whitechapel Rd, London E1 1BB, United Kingdom","{'lat': 51.5178708, 'lng': -0.0588687}"
+RNL,North Cumbria University Hospitals NHS Trust,Cumberland Infirmary,"Newtown Rd, Carlisle CA2 7HY, United Kingdom","{'lat': 54.8961744, 'lng': -2.9572629}"
+RNN,Cumbria Partnership NHS Foundation Trust,Cumbria Partnership N H S Foundation,"College House, Howard St, Barrow-in-Furness LA14 1NB, United Kingdom","{'lat': 54.1162794, 'lng': -3.2332619}"
+RNQ,Kettering General Hospital NHS Foundation Trust,Kettering General Hospital,"Rothwell Rd, Kettering NN16 8UZ, United Kingdom","{'lat': 52.40202619999999, 'lng': -0.7423504999999999}"
+RNS,Northampton General Hospital NHS Trust,Northampton General Hospital,"Cliftonville, Northampton NN1 5BD, United Kingdom","{'lat': 52.23580820000001, 'lng': -0.8841462}"
+RNU,Oxfordshire And Buckinghamshire Mental Health NHS Foundation Trust,Oxford Health Nhs Foundation Trust,"Haleacre Unit Amersham Hospital, Whielden Street, Amersham HP7 0JD, United Kingdom","{'lat': 51.66399670000001, 'lng': -0.6188178999999999}"
+RNZ,Salisbury NHS Foundation Trust,Salisbury District Hospital,"Odstock Rd, Salisbury SP2 8BJ, United Kingdom","{'lat': 51.0452592, 'lng': -1.7883697}"
+RP1,Northamptonshire Healthcare NHS Foundation Trust,Northamptonshire Health Care N H S Foundation Trust,"Bevan House Kettering Parkway, Kettering NN15 6XR, United Kingdom","{'lat': 52.3751782, 'lng': -0.712426}"
+RP4,Great Ormond Street Hospital For Children NHS Trust,Great Ormond Street Hospital for Children,"Great Ormond St, London WC1N 3JH, United Kingdom","{'lat': 51.5218626, 'lng': -0.1207462}"
+RP5,Doncaster And Bassetlaw Hospitals NHS Foundation Trust,Doncaster & Bassetlaw Hospitals NHS Trust,"Armthorpe Rd, Doncaster DN2 5LT, United Kingdom","{'lat': 53.53076249999999, 'lng': -1.1096038}"
+RP6,Moorfields Eye Hospital NHS Foundation Trust,Moorfields Eye Hospital NHS Foundation Trust,"162 City Rd, London EC1V 2PD, United Kingdom","{'lat': 51.5273346, 'lng': -0.0897916}"
+RP6-X,MOORFIELDS EYE HOSPITAL NHS FOUNDATION TRUST,Moorfields Eye Hospital NHS Foundation Trust,"162 City Rd, London EC1V 2PD, United Kingdom","{'lat': 51.5273346, 'lng': -0.0897916}"
+RP7,Lincolnshire Partnership NHS Foundation Trust,Unit 3 - Lincolnshire Partnership NHS Foundation Trust,"St George's, 1FS, Long Leys Rd, Lincoln LN1 1FS, United Kingdom","{'lat': 53.244411, 'lng': -0.5596481}"
+RPA,Medway NHS Foundation Trust,Medway Maritime Hospital,"Windmill Rd, Gillingham, Kent ME7 5NY, United Kingdom","{'lat': 51.37946400000001, 'lng': 0.5415582999999999}"
+RPC,Queen Victoria Hospital NHS Foundation Trust,Queen Victoria Hospital,"Holtye Rd, East Grinstead RH19 3DZ, United Kingdom","{'lat': 51.1350886, 'lng': -0.0019779}"
+RPG,Oxleas NHS Foundation Trust,Oxleas NHS Foundation Trust,"45-47 Halfway St, Sidcup DA15 8LH, United Kingdom","{'lat': 51.4376409, 'lng': 0.0966879}"
+RPL,,,,
+RPR,,,,
+RPY,The Royal Marsden NHS Foundation Trust,The Royal Marsden Hospital,"203 Fulham Rd., London SW3 6JJ, United Kingdom","{'lat': 51.490483, 'lng': -0.1728097}"
+RQ3,Birmingham Children's Hospital NHS Foundation Trust,Birmingham Children's Hospital,"Steelhouse Ln, Queensway, Birmingham B4 6NH, United Kingdom","{'lat': 52.4847654, 'lng': -1.8937147}"
+RQ6,Royal Liverpool And Broadgreen University Hospitals NHS Trust,Broadgreen Hospital,"Thomas Dr, Liverpool L14 3LB, United Kingdom","{'lat': 53.4121009, 'lng': -2.8985961}"
+RQ8,Mid Essex Hospital Services NHS Trust,"Southend University Hospital, Mid and South Essex NHS Foundation Trust","Prittlewell Chase, Westcliff-on-Sea, Southend-on-Sea, Westcliff-on-Sea SS0 0RY, United Kingdom","{'lat': 51.5538593, 'lng': 0.6877327999999999}"
+RQM,Chelsea And Westminster Hospital NHS Foundation Trust,Chelsea and Westminster Hospital,"369 Fulham Rd., London SW10 9NH, United Kingdom","{'lat': 51.4843947, 'lng': -0.1817018}"
+RQQ,Hinchingbrooke Health Care NHS Trust,Hinchingbrooke Hospital,"Parkway Hinchingbrooke, Huntingdon PE29 6NT, United Kingdom","{'lat': 52.3328553, 'lng': -0.2026619}"
+RQQ-X,HINCHINGBROOKE HEALTH CARE NHS TRUST,Hinchingbrooke Hospital,"Parkway Hinchingbrooke, Huntingdon PE29 6NT, United Kingdom","{'lat': 52.3328553, 'lng': -0.2026619}"
+RQW,The Princess Alexandra Hospital NHS Trust,Princess Alexandra Hospital,"Hamstel Rd, Harlow CM20 1QX, United Kingdom","{'lat': 51.7695207, 'lng': 0.0853945}"
+RQX,Homerton University Hospital NHS Foundation Trust,Homerton University Hospital,"Homerton Row, London E9 6SR, United Kingdom","{'lat': 51.5507442, 'lng': -0.04569810000000001}"
+RQY,South West London And St George's Mental Health NHS Trust,South West London and St George's Mental Health NHS Trust,"Trinity Building, Springfield University Hospital, 15 Springfield Dr, London SW17 0YF, United Kingdom","{'lat': 51.4384937, 'lng': -0.1706953}"
+RR1,Heart Of England NHS Foundation Trust,Heart Of England Nhs Foundation Trust,"Tower Block, 45 Bordesley Green E, Birmingham B9 5ST, United Kingdom","{'lat': 52.4778605, 'lng': -1.8275255}"
+RR1-X,HEART OF ENGLAND NHS FOUNDATION TRUST,Heart Of England Nhs Foundation Trust,"Tower Block, 45 Bordesley Green E, Birmingham B9 5ST, United Kingdom","{'lat': 52.4778605, 'lng': -1.8275255}"
+RR7,Gateshead Health NHS Foundation Trust,Bensham Hospital,"Fontwell Dr, Gateshead NE8 4YL, United Kingdom","{'lat': 54.9447057, 'lng': -1.6155638}"
+RR7-X,GATESHEAD HEALTH NHS FOUNDATION TRUST,Bensham Hospital,"Fontwell Dr, Gateshead NE8 4YL, United Kingdom","{'lat': 54.9447057, 'lng': -1.6155638}"
+RR8,Leeds Teaching Hospitals NHS Trust,"Trust Headquarters, Leeds Teaching Hospitals NHS Trust","Beckett St, Harehills, Leeds LS9 7TF, United Kingdom","{'lat': 53.8082858, 'lng': -1.522678}"
+RRD,North Essex Partnership NHS Foundation Trust,North Essex Partnership Nhs Foundation Trust,"35 Jackson Rd, Clacton-on-Sea CO15 1JA, United Kingdom","{'lat': 51.78926680000001, 'lng': 1.1505217}"
+RRE,South Staffordshire And Shropshire Healthcare NHS Foundation Trust,South Staffordshire and Shropshire Healthcare,"St George's Hospital, Stafford ST16 3SR, United Kingdom","{'lat': 52.81060489999999, 'lng': -2.1090845}"
+RRF,"Wrightington, Wigan And Leigh NHS Foundation Trust","Wrightington, Wigan & Leigh NHS Foundation Trust","Hall Ln, Appley Bridge, Wigan WN6 9EP, United Kingdom","{'lat': 53.5899478, 'lng': -2.7119297}"
+RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,The Royal Orthopaedic Hospital NHS Foundation Trust,"NHS FOUNDATION TRUST, Royal Orthopaedic Hospital, The Woodlands, Bristol Rd S, Northfield, Birmingham B31 2AP, United Kingdom","{'lat': 52.4209064, 'lng': -1.9612444}"
+RRK,University Hospital Birmingham NHS Foundation Trust,Queen Elizabeth Hospital Birmingham,"Birmingham QE Hospital, Mindelsohn Way, Birmingham B15 2GW, United Kingdom","{'lat': 52.451853, 'lng': -1.9430371}"
+RRK-X,UNIVERSITY HOSPITALS BIRMINGHAM NHS FOUNDATION TRUST,Queen Elizabeth Hospital Birmingham,"Birmingham QE Hospital, Mindelsohn Way, Birmingham B15 2GW, United Kingdom","{'lat': 52.451853, 'lng': -1.9430371}"
+RRP,"Barnet, Enfield And Haringey Mental Health NHS Trust","Barnet, Enfield and Haringey Mental Health Trust","Block B2, St. Anns Hospital, St Ann's Rd, London N15 3TH, United Kingdom","{'lat': 51.57978319999999, 'lng': -0.0882534}"
+RRV,University College London Hospitals NHS Foundation Trust,University College Hospital,"235 Euston Rd., London NW1 2BU, United Kingdom","{'lat': 51.5250869, 'lng': -0.1364556}"
+RT1,Cambridgeshire And Peterborough NHS Foundation Trust,Cambridgeshire & Peterborough NHS Foundation Trust,"Elizabeth House,, Fulbourn, Cambridge CB21 5EF, United Kingdom","{'lat': 52.1853537, 'lng': 0.1872115}"
+RT2,Pennine Care NHS Foundation Trust,Pennine Care NHS Foundation Trust,"225 Old St, Ashton-under-Lyne OL6 7SR, United Kingdom","{'lat': 53.4855416, 'lng': -2.1004486}"
+RT3,Royal Brompton And Harefield NHS Foundation Trust,Royal Brompton & Harefield Nhs Foundation Trust,"Britten St, London SW3 6PY, United Kingdom","{'lat': 51.4890769, 'lng': -0.1704636}"
+RT5,Leicestershire Partnership NHS Trust,Leicestershire Partnership NHS Trust,"Bridge Park Plaza, Bridge Park Rd, Thurmaston, Leicester LE4 8BL, United Kingdom","{'lat': 52.6761601, 'lng': -1.1029367}"
+RT6,Suffolk Mental Health Partnership NHS Trust,Wellbeing Suffolk,"Hospital Rd, Bury Saint Edmunds IP33 3ND, United Kingdom","{'lat': 52.2407556, 'lng': 0.7082512}"
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Newcastle Freeman Hospital,"Freeman Rd, High Heaton, Newcastle upon Tyne NE7 7DN, United Kingdom","{'lat': 55.00260189999999, 'lng': -1.593423}"
+RTE,Gloucestershire Hospitals NHS Foundation Trust,Gloucestershire Hospitals NHS Foundation Trust,"Victoria Warehouse, The Docks, Gloucester GL1 2EL, United Kingdom","{'lat': 51.8636424, 'lng': -2.2509982}"
+RTF,Northumbria Healthcare NHS Foundation Trust,Northumbria NHS Foundation Trust,"7, Northumbria House, Cobalt Business Park, 8 Silver Fox Way, Newcastle upon Tyne NE27 0QJ, United Kingdom","{'lat': 55.0206902, 'lng': -1.5098288}"
+RTG,Derby Hospitals NHS Foundation Trust,Derby Teaching Hospitals NHS Foundation Trust,"Uttoxeter Rd, Derby DE22 3NE, United Kingdom","{'lat': 52.9106394, 'lng': -1.5139933}"
+RTH,Oxford Radcliffe Hospitals NHS Trust,John Radcliffe Hospital,"Headley Way, Headington, Oxford OX3 9DU, United Kingdom","{'lat': 51.764391, 'lng': -1.2188774}"
+RTK,Ashford And St Peter's Hospitals NHS Trust,Ashford Hospital,"London Rd, Stanwell, Ashford TW15 3AA, United Kingdom","{'lat': 51.444057, 'lng': -0.472998}"
+RTP,Surrey And Sussex Healthcare NHS Trust,East Surrey Hospital,"Canada Ave, Redhill RH1 5RH, United Kingdom","{'lat': 51.2189495, 'lng': -0.1623788}"
+RTQ,2Gether NHS Foundation Trust,Acorn House,"Acorn House, Horton Rd, Gloucester GL1 3PX, United Kingdom","{'lat': 51.8657289, 'lng': -2.2270913}"
+RTR,South Tees Hospitals NHS Foundation Trust,South Tees Acute Hospitals Nhs Trust,"Marton Road, Middlesbrough TS4 3BW, United Kingdom","{'lat': 54.5511813, 'lng': -1.2145828}"
+RTV,5 Boroughs Partnership NHS Foundation Trust,Hollins Park,"Hollins Ln, Winwick, Warrington WA2 8WA, United Kingdom","{'lat': 53.4283982, 'lng': -2.6084702}"
+RTX,University Hospitals Of Morecambe Bay NHS Trust,University Hospitals of Morecambe Bay NHS Foundation Trust,"Burton Rd, Kendal LA9 7RG, United Kingdom","{'lat': 54.30691419999999, 'lng': -2.7346238}"
+RV3,Central And North West London NHS Foundation Trust,Central and North West London NHS Foundation Trust,"350 Euston Rd., London NW1 3AX, United Kingdom","{'lat': 51.5242155, 'lng': -0.1422452}"
+RV5,South London And Maudsley NHS Foundation Trust,South London and Maudsley NHS Foundation Trust,"Michael Rutter Centre, London SE5 8AZ, United Kingdom","{'lat': 51.4682263, 'lng': -0.0909238}"
+RV7,Bedfordshire And Luton Mental Health And Social Care Partnership NHS Trust,Bedfordshire & Luton Mental Health & Wellbeing Services,"5-7 Rush Ct, Bedford MK40 3JT, United Kingdom","{'lat': 52.1388611, 'lng': -0.4630091}"
+RV8,North West London Hospitals NHS Trust,London North West University Healthcare NHS Trust,"Northwick Park Hospital, A404 Watford Rd, Harrow HA1 3UJ, United Kingdom","{'lat': 51.57544230000001, 'lng': -0.322738}"
+RV9,Humber NHS Foundation Trust,Humber Teaching NHS Foundation Trust,"Trust Headquarters Willerby Hill, Willerby HU10 6ED, United Kingdom","{'lat': 53.7726879, 'lng': -0.4458797}"
+RV9-X,HUMBER NHS FOUNDATION TRUST,Humber Teaching NHS Foundation Trust,"Trust Headquarters Willerby Hill, Willerby HU10 6ED, United Kingdom","{'lat': 53.7726879, 'lng': -0.4458797}"
+RVJ,North Bristol NHS Trust,North Bristol NHS Trust,"Southmead Rd, Bristol BS10 5NB, United Kingdom","{'lat': 51.4982841, 'lng': -2.5915971}"
+RVJ-X,NORTH BRISTOL NHS TRUST,North Bristol NHS Trust,"Southmead Rd, Bristol BS10 5NB, United Kingdom","{'lat': 51.4982841, 'lng': -2.5915971}"
+RVL,Barnet And Chase Farm Hospitals NHS Trust,Chase Farm Hospital,"127 The Ridgeway, Enfield EN2 8JL, United Kingdom","{'lat': 51.66689239999999, 'lng': -0.1028125}"
+RVN,Avon And Wiltshire Mental Health Partnership NHS Trust,Avon & Wiltshire Mental Health Partnership NHS Trust,"Bath NHS House Combe Pk, Bath BA1 3QE, United Kingdom","{'lat': 51.3886161, 'lng': -2.3922929}"
+RVR,Epsom And St Helier University Hospitals NHS Trust,Epsom General Hospital,"Dorking Rd, Epsom KT18 7EG, United Kingdom","{'lat': 51.3251497, 'lng': -0.2732057}"
+RVR-X,EPSOM AND ST HELIER UNIVERSITY HOSPITALS NHS TRUST,Epsom General Hospital,"Dorking Rd, Epsom KT18 7EG, United Kingdom","{'lat': 51.3251497, 'lng': -0.2732057}"
+RVV,East Kent Hospitals University NHS Foundation Trust,Kent and Canterbury Hospital,"Ethelbert Rd, Canterbury CT1 3NG, United Kingdom","{'lat': 51.2662051, 'lng': 1.0866394}"
+RVW,North Tees And Hartlepool NHS Foundation Trust,University Hospital of North Tees,"Hardwick Rd, Hardwick, Stockton-on-Tees TS19 8PE, United Kingdom","{'lat': 54.5830154, 'lng': -1.3476047}"
+RVY,Southport And Ormskirk Hospital NHS Trust,Southport & Ormskirk Hospital NHS Trust,"Southport and Formby District General Hospital Town Lane, Kew, Southport PR8 6PN, United Kingdom","{'lat': 53.6333043, 'lng': -2.9792197}"
+RW1,Hampshire Partnership NHS Foundation Trust,Hampshire Partnership Nhs Trust,"New Rd, Basingstoke RG21 7PJ, United Kingdom","{'lat': 51.2616661, 'lng': -1.0849201}"
+RW3,Central Manchester University Hospitals NHS Foundation Trust,Manchester University NHS FT,"Cobbett House Manchester Royal Infirmary, Oxford Rd, Manchester M13 9WL, United Kingdom","{'lat': 53.4607761, 'lng': -2.2277175}"
+RW3-X,CENTRAL MANCHESTER UNIVERSITY HOSPITALS NHS FOUNDATION TRUST,Manchester University NHS FT,"Cobbett House Manchester Royal Infirmary, Oxford Rd, Manchester M13 9WL, United Kingdom","{'lat': 53.4607761, 'lng': -2.2277175}"
+RW4,Mersey Care NHS Trust,Mersey Care NHS Trust,"Parkbourn, Liverpool L31 1HW, United Kingdom","{'lat': 53.5208904, 'lng': -2.9144619}"
+RW5,Lancashire Care NHS Foundation Trust,Lancashire & South Cumbria NHS Foundation Trust Head Quarters,"Sceptre Point Sceptre Way, Walton Summit Rd, Walton Summit Centre, Preston PR5 6AW, United Kingdom","{'lat': 53.719066, 'lng': -2.6398946}"
+RW6,Pennine Acute Hospitals NHS Trust,Pennine Acute Hospitals NHS Trust,"Royal Oldham Hospital, Victoria Unit, Rochdale Rd, Oldham OL1 2JH, United Kingdom","{'lat': 53.553902, 'lng': -2.1209466}"
+RWA,Hull And East Yorkshire Hospitals NHS Trust,Hull and East Yorkshire Hospitals NHS Trust,"Anlaby Rd, Hull HU3 2JZ, United Kingdom","{'lat': 53.743538, 'lng': -0.3584131}"
+RWD,United Lincolnshire Hospitals NHS Trust,United Lincolnshire Hospitals NHS Trust - Gonerby Road Health Clinic,"Gonerby Hill Foot, Grantham NG31 8JE, United Kingdom","{'lat': 52.9237621, 'lng': -0.6540533}"
+RWE,University Hospitals Of Leicester NHS Trust,Leicester Royal Infirmary,"Infirmary Square, Leicester LE1 5WW, United Kingdom","{'lat': 52.62677189999999, 'lng': -1.1349461}"
+RWF,Maidstone And Tunbridge Wells NHS Trust,Tunbridge Wells Hospital,"Tonbridge Rd, Royal Tunbridge Wells, Tunbridge Wells TN2 4QJ, United Kingdom","{'lat': 51.1492751, 'lng': 0.3083115}"
+RWG,West Hertfordshire Hospitals NHS Trust,West Herts & Watford Medical Education Centre,"Watford General Hospital, Vicarage Rd, Watford WD18 0HB, United Kingdom","{'lat': 51.649065, 'lng': -0.4034864}"
+RWH,East And North Hertfordshire NHS Trust,East & North Hertfordshire NHS Trust,"Lister Hospital East Hall Block, Lister Hospital, Coreys Mill Lane, Coreys Mill Ln, Stevenage SG1 4AB, United Kingdom","{'lat': 51.92422029999999, 'lng': -0.2118406}"
+RWJ,Stockport NHS Foundation Trust,Stockport Nhs Foundation Trust,"Stockport SK2 7JE, United Kingdom","{'lat': 53.38455219999999, 'lng': -2.1331863}"
+RWK,East London NHS Foundation Trust,East London NHS Foundation Trust,"9 Alie St, London E1 8DE, United Kingdom","{'lat': 51.51356759999999, 'lng': -0.07207899999999999}"
+RWN,South Essex Partnership University NHS Foundation Trust,South Essex Partnership University NHS Foundation Trust,"Heath Cl, Billericay CM12 9NW, United Kingdom","{'lat': 51.6225262, 'lng': 0.4053154}"
+RWP,Worcestershire Acute Hospitals NHS Trust,Worcestershire Royal Hospital,"Charles Hastings Way, Worcester WR5 1DD, United Kingdom","{'lat': 52.19150639999999, 'lng': -2.1808725}"
+RWP-X,WORCESTERSHIRE ACUTE HOSPITALS NHS TRUST,Worcestershire Royal Hospital,"Charles Hastings Way, Worcester WR5 1DD, United Kingdom","{'lat': 52.19150639999999, 'lng': -2.1808725}"
+RWQ,Worcestershire Mental Health Partnership NHS Trust,Herefordshire & Worcestershire Health and Care NHS Trust,"Kings Court, 2, Charles Hastings Way, Worcester WR5 1JR, United Kingdom","{'lat': 52.19248289999999, 'lng': -2.1798262}"
+RWR,Hertfordshire Partnership NHS Foundation Trust,Hertfordshire Partnership Nhs Trust,"99 Waverley Rd, St Albans AL3 5TQ, United Kingdom","{'lat': 51.7625796, 'lng': -0.3451309}"
+RWV,Devon Partnership NHS Trust,Devon Partnership NHS Trust,"Wonford House, Dryden Rd, Exeter EX2 5AF, United Kingdom","{'lat': 50.7153144, 'lng': -3.5062778}"
+RWW,Warrington And Halton Hospitals NHS Foundation Trust,Warrington Hospital,"Lovely Ln, Warrington WA5 1QG, United Kingdom","{'lat': 53.39396559999999, 'lng': -2.6095244}"
+RWX,Berkshire Healthcare NHS Foundation Trust,Berkshire Healthcare NHS Foundation Trust,"London House, London Rd, Bracknell RG12 2UT, United Kingdom","{'lat': 51.4161398, 'lng': -0.7401869}"
+RWY,Calderdale And Huddersfield NHS Foundation Trust,Calderdale and Huddersfield NHS Foundation Trust,"Acre St, Lindley, Huddersfield HD3 3EA, United Kingdom","{'lat': 53.65571629999999, 'lng': -1.8189892}"
+RX1,Nottingham University Hospitals NHS Trust,Nottingham University Hospitals NHS Trust - City Hospital Campus -Cleft Lip and Palate,"Hucknall Rd, Nottingham NG5 1PB, United Kingdom","{'lat': 52.9896393, 'lng': -1.1628491}"
+RX2,Sussex Partnership NHS Foundation Trust,Sussex Partnership NHS Foundation Trust,"1 Twisleton Court, Priory Hill, Dartford DA1 2EN, United Kingdom","{'lat': 51.4459373, 'lng': 0.2105834}"
+RX3,"Tees, Esk And Wear Valleys NHS Foundation Trust",Tees Esk & Wear Valleys NHS Foundation Trust Durham,"163 Durham Rd, Stockton-on-Tees TS19 0EA, United Kingdom","{'lat': 54.575945, 'lng': -1.3294973}"
+RX4,"Northumberland, Tyne And Wear NHS Foundation Trust",Northumberland Tyne & Wear NHS Trust,"3 Walker Terrace, Gateshead NE8 1EB, United Kingdom","{'lat': 54.9610223, 'lng': -1.6047497}"
+RXA,Cheshire And Wirral Partnership NHS Foundation Trust,Cheshire and Wirral Partnership NHS Foundation Trust,"Chester Health Park, Liverpool Rd, Chester CH2 1BQ, United Kingdom","{'lat': 53.2120097, 'lng': -2.8998487}"
+RXC,East Sussex Hospitals NHS Trust,East Sussex Healthcare NHS Trust,"St Annes House, 729 The Ridge, Hastings, Saint Leonards-on-sea TN37 7PT, United Kingdom","{'lat': 50.88499119999999, 'lng': 0.5681560999999999}"
+RXE,"Rotherham, Doncaster And South Humber Mental Health NHS Foundation Trust",Rotherham Doncaster & South Humber NHS Foundation Trust,"St Catherines House, Tickhill Rd., Doncaster DN4 8QN, United Kingdom","{'lat': 53.4948158, 'lng': -1.1459607}"
+RXF,Mid Yorkshire Hospitals NHS Trust,Mid Yorkshire Teaching NHS Trust HQ,"Pinderfields Hospital, Aberford Rd, Wakefield WF1 4DG, United Kingdom","{'lat': 53.6930681, 'lng': -1.486554}"
+RXF-X,MID YORKSHIRE HOSPITALS NHS TRUST,Mid Yorkshire Teaching NHS Trust HQ,"Pinderfields Hospital, Aberford Rd, Wakefield WF1 4DG, United Kingdom","{'lat': 53.6930681, 'lng': -1.486554}"
+RXG,South West Yorkshire Partnership NHS Foundation Trust,South West Yorkshire Partnership NHS Foundation Trust,"South West Yorkshire Partnership NHS Foundation Trust, Ouchthorpe Ln, Wakefield WF1 3SP, United Kingdom","{'lat': 53.6974399, 'lng': -1.4908461}"
+RXH,Brighton And Sussex University Hospitals NHS Trust,Royal Sussex County Hospital,"Eastern Rd, Brighton and Hove, Brighton BN2 5BE, United Kingdom","{'lat': 50.81926319999999, 'lng': -0.1168915}"
+RXK,Sandwell And West Birmingham Hospitals NHS Trust,Sandwell General Hospital,"Hallam St, West Bromwich B71 4HJ, United Kingdom","{'lat': 52.5272959, 'lng': -1.9879095}"
+RXK-X,SANDWELL AND WEST BIRMINGHAM HOSPITALS NHS TRUST,Sandwell General Hospital,"Hallam St, West Bromwich B71 4HJ, United Kingdom","{'lat': 52.5272959, 'lng': -1.9879095}"
+RXKTC,Birmingham Treatment Centre,Birmingham Treatment Centre,"Dudley Rd, Birmingham B18 7QH, United Kingdom","{'lat': 52.4876471, 'lng': -1.9303593}"
+RXL,"Blackpool, Fylde And Wyre Hospitals NHS Foundation Trust",Blackpool Victoria Hospital,"Whinney Heys Rd, Blackpool FY3 8NR, United Kingdom","{'lat': 53.8208008, 'lng': -3.0138594}"
+RXM,Derbyshire Mental Health Services NHS Trust,Derbyshire Mental Health NHS Trust,"Bayheath House, Rose Hill W, Chesterfield S40 1JF, United Kingdom","{'lat': 53.23728149999999, 'lng': -1.4332756}"
+RXN,Lancashire Teaching Hospitals NHS Foundation Trust,Royal Preston Hospital,"Sharoe Green Ln, Fulwood, Preston PR2 9HT, United Kingdom","{'lat': 53.79014249999999, 'lng': -2.7062085}"
+RXP,County Durham And Darlington NHS Foundation Trust,County Durham and Darlington NHS Foundation Trust,"Hollyhurst Rd, Darlington DL3 6HX, United Kingdom","{'lat': 54.5310766, 'lng': -1.5661269}"
+RXQ,Buckinghamshire Hospitals NHS Trust,Buckingham Community Hospital,"High St, Buckingham MK18 1NU, United Kingdom","{'lat': 52.0022664, 'lng': -0.9857438000000001}"
+RXR,East Lancashire Hospitals NHS Trust,East Lancashire Hospitals NHS,"Casterton Ave, Burnley BB10 2PQ, United Kingdom","{'lat': 53.809828, 'lng': -2.228172}"
+RXT,Birmingham And Solihull Mental Health NHS Foundation Trust,Birmingham & Solihull Mental Health NHS Trust,"1, B1, 50 Summer Hill Rd, Birmingham B1 3RB, United Kingdom","{'lat': 52.4845584, 'lng': -1.9182311}"
+RXV,Greater Manchester West Mental Health NHS Foundation Trust,Greater Manchester Mental Health NHS Foundation Trust,"Bury New Rd, Prestwich, Manchester M25 3BL, United Kingdom","{'lat': 53.5359211, 'lng': -2.2922633}"
+RXW,Shrewsbury And Telford Hospital NHS Trust,The Shrewsbury and Telford Hospital NHS Trust,"Mytton Oak Rd, Shrewsbury SY3 8XQ, United Kingdom","{'lat': 52.7089717, 'lng': -2.7926946}"
+RXX,Surrey And Borders Partnership NHS Foundation Trust,Surrey and Borders Partnership NHS Foundation Trust,"Mole Business Park, 18, off Ronson Way, Randalls Rd, Leatherhead KT22 7AD, United Kingdom","{'lat': 51.2976987, 'lng': -0.335946}"
+RXY,Kent And Medway NHS And Social Care Partnership Trust,Kent and Medway NHS and Social Care Partnership Trust,"Canada House, Barnsole Rd, Gillingham ME7 4JL, United Kingdom","{'lat': 51.3797133, 'lng': 0.5576206}"
+RY1,LIVERPOOL COMMUNITY HEALTH NHS TRUST,Liverpool Community Health N H S Trust,"Second Floor, Liverpool Innovation Park, Digital Wy., Fairfield, Liverpool L7 9NJ, United Kingdom","{'lat': 53.4077539, 'lng': -2.9334944}"
+RY3,NORFOLK COMMUNITY HEALTH AND CARE NHS TRUST,Norfolk Community Health and Care NHS Trust,"Bowthorpe Rd, Norwich NR2 3TU, United Kingdom","{'lat': 52.634185, 'lng': 1.2624132}"
+RY4,HERTFORDSHIRE COMMUNITY NHS TRUST,Hertfordshire Community NHS Trust - Head Office,"Unit 1a, Howard Court, 14 Tewin Rd, Welwyn Garden City AL7 1BW, United Kingdom","{'lat': 51.8026943, 'lng': -0.1942069}"
+RY5,LINCOLNSHIRE COMMUNITY HEALTH SERVICES NHS TRUST,Lincolnshire Community Health Services NHS Trust,"Beech House Witham Park, Waterside S, Lincoln LN5 7JH, United Kingdom","{'lat': 53.22650420000001, 'lng': -0.5241659}"
+RY6,Leeds Community Healthcare NHS Trust (RY6),,,
+RY8,DERBYSHIRE COMMUNITY HEALTH SERVICES NHS TRUST,Derbyshire Community Health Services NHS Foundation Trust,"Baslow Rd, Bakewell DE45 1AD, United Kingdom","{'lat': 53.2187636, 'lng': -1.6720466}"
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,Hounslow & Richmond Community Healthcare,"180 High St, Teddington TW11 8HU, United Kingdom","{'lat': 51.4275736, 'lng': -0.3260577}"
+RYG,Coventry And Warwickshire Partnership NHS Trust,Coventry and Warwickshire Partnership NHS Trust,"Wayside House, Wilsons Ln, Coventry CV6 6NY, United Kingdom","{'lat': 52.4573648, 'lng': -1.4858633}"
+RYJ,Imperial College Healthcare NHS Trust,Imperial College Healthcare NHS Trust,"The Bays, S Wharf Rd, London W2 1NY, United Kingdom","{'lat': 51.5178108, 'lng': -0.1743487}"
+RYK,Dudley And Walsall Mental Health Partnership NHS Trust,Dudley and Walsall Mental Health Partnership NHS Trust,"Trafalgar House, 47-49 King St, Dudley DY2 8PS, United Kingdom","{'lat': 52.508434, 'lng': -2.084503}"
+RYQ,South London Healthcare NHS Trust,South West London Health and Care Partnership,"120 The Broadway, London SW19 1RH, United Kingdom","{'lat': 51.4192854, 'lng': -0.2002231}"
+RYR,Western Sussex Hospitals NHS Trust,University Hospitals Sussex (Sexual Health),"Spitalfield La, Spitalfield Ln, Chichester PO19 6SE, United Kingdom","{'lat': 50.8435533, 'lng': -0.7680076}"
+RYR-X,WESTERN SUSSEX HOSPITALS NHS TRUST,University Hospitals Sussex (Sexual Health),"Spitalfield La, Spitalfield Ln, Chichester PO19 6SE, United Kingdom","{'lat': 50.8435533, 'lng': -0.7680076}"
+RYV,CAMBRIDGESHIRE COMMUNITY SERVICES NHS TRUST,Cambridgeshire Community Services NHS Trust,"Units 7, 8 Meadow Ln, St. Ives PE27 4LG, United Kingdom","{'lat': 52.3227743, 'lng': -0.0677776}"
+RYW,BIRMINGHAM COMMUNITY HEALTHCARE NHS TRUST,Birmingham Community Healthcare NHS Foundation Trust,"Priestley Wharf, Holt St, Birmingham B7 4BN, United Kingdom","{'lat': 52.48792779999999, 'lng': -1.8865339}"
+RYY,KENT COMMUNITY HEALTH NHS TRUST,Kent Community Health NHS Foundation Trust,"D, The Oast House, Hermitage Ct, Maidstone ME16 9NT, United Kingdom","{'lat': 51.2784379, 'lng': 0.4787201}"
+T8R5I,Spamedica Wokingham,SpaMedica,"Berkshire, Quoin house, Fishponds Rd, Wokingham RG41 2QJ, United Kingdom","{'lat': 51.40458599999999, 'lng': -0.8459247}"
+TAD,Bradford District Care Trust,Bradford District Care NHS Foundation Trust,"New Mill, Victoria Rd, Saltaire, Shipley BD18 3LD, United Kingdom","{'lat': 53.83953289999999, 'lng': -1.7888326}"
+TAE,Manchester Mental Health And Social Care Trust,Manchester Psychological Therapies Service (NHS),"Chorlton House, 70 Manchester Rd, Chorlton-cum-Hardy, Manchester M21 9UN, United Kingdom","{'lat': 53.4452187, 'lng': -2.2780157}"
+TAF,Camden And Islington NHS Foundation Trust,Camden and Islington NHS Foundation Trust,"4 St Pancras Way, London NW1 0PE, United Kingdom","{'lat': 51.53641469999999, 'lng': -0.1319239}"
+TAH,Sheffield Health And Social Care NHS Foundation Trust,Sheffield Health and Social Care NHS Foundation Trust,"Centre Court, Atlas Way, Sheffield S4 7QQ, United Kingdom","{'lat': 53.3979103, 'lng': -1.4419471}"
+TAJ,Sandwell Mental Health NHS And Social Care Trust,Sandwell Mental Health & Social Care Trust,"48 Lodge Rd, West Bromwich B70 8NY, United Kingdom","{'lat': 52.5192321, 'lng': -1.9997385}"
+TAL,Torbay Care Trust,Torbay and South Devon NHS Foundation Trust,"Lowes Bridge, Torbay Hospital, Torquay TQ2 7AA, United Kingdom","{'lat': 50.4823211, 'lng': -3.5539082}"
+TAN,North East Lincolnshire Care Trust Plus,Care Plus Trust,"Grimsby Community Clinic Kingsley Grove, Grimsby DN33 1NL, United Kingdom","{'lat': 53.5492261, 'lng': -0.098338}"
+U8P2Z,Sussex Community Dermatology Service (Rainham Healthy Living Centre),,,
+W00,,,,
+Y4Z7I,Sussex Community Dermatology Service (Springhead Health),,,
+Y54,North Of England,England,"England, UK","{'lat': 52.3555177, 'lng': -1.1743197}"
+Y55,Midlands and East of England,,,
+Y56,London,London,"London, UK","{'lat': 51.5072178, 'lng': -0.1275862}"
+Y57,South of England,South of England Agricultural Society,"Selsfield Rd, Ardingly, Haywards Heath RH17 6TL, United Kingdom","{'lat': 51.0563861, 'lng': -0.08725569999999999}"
+Y58,South West,Berlin South-Western Cemetery,"14532 Stahnsdorf, Germany","{'lat': 52.3838331, 'lng': 13.1755881}"
+Y59,South East,South East Asia,South East Asia,"{'lat': -2.2179704, 'lng': 115.66283}"
+Y60,Midlands,,,
+Y61,East of England,,,
+Y62,North West,North West Estate,"Dresdner Str. 1, 04103 Leipzig, Germany","{'lat': 51.3385467, 'lng': 12.3853432}"
+Y63,North East & Yorkshire,NE.E. North East Estate GmbH,"Elisabeth-Mara-Straße 9, 10117 Berlin, Germany","{'lat': 52.5099801, 'lng': 13.4040027}"
+Y7M2R,Highgate Hospital Gender Service,Highgate Private Hospital,"17-19 View Rd, London N6 4DJ, United Kingdom","{'lat': 51.5764997, 'lng': -0.1568464}"
+Y8L9S,Spamedica Bromley,SpaMedica,"Northside House, 69 Tweedy Rd, Bromley BR1 3WA, United Kingdom","{'lat': 51.4085264, 'lng': 0.0165724}"
+Z9Z1G,Spamedica Gateshead,SpaMedica,"The Edge, Fifth Ave, Team Valley, Gateshead NE11 0XA, United Kingdom","{'lat': 54.9339069, 'lng': -1.6145297}"
